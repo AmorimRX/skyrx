@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 01 HD²" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | PPV ESPORTES",HBO MAX 01 HD²
+http://brqnt.pro:2082/amadeu97863/amad97637/174937
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 01 HD¹" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | PPV ESPORTES",HBO MAX 01 HD¹
+http://brqnt.pro:2082/amadeu97863/amad97637/379750
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 02 HD²" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | PPV ESPORTES",HBO MAX 02 HD²
+http://brqnt.pro:2082/amadeu97863/amad97637/173093
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 02 HD¹" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | PPV ESPORTES",HBO MAX 02 HD¹
+http://brqnt.pro:2082/amadeu97863/amad97637/379751
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03 HD¹" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | PPV ESPORTES",HBO MAX 03 HD¹
+http://brqnt.pro:2082/amadeu97863/amad97637/379752
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04 HD¹" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | PPV ESPORTES",HBO MAX 04 HD¹
+http://brqnt.pro:2082/amadeu97863/amad97637/379753
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX HD 05¹" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | PPV ESPORTES",HBO MAX HD 05¹
+http://brqnt.pro:2082/amadeu97863/amad97637/174936
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO MUNDI FHD H265²" tvg-logo="https://img.ip2.digital/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI FHD H265²
+http://brqnt.pro:2082/amadeu97863/amad97637/34679
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO MUNDI FHD H265¹" tvg-logo="https://img.ip2.digital/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI FHD H265¹
+http://brqnt.pro:2082/amadeu97863/amad97637/18157
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO MUNDI HD¹" tvg-logo="https://img.ip2.digital/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI HD¹
+http://brqnt.pro:2082/amadeu97863/amad97637/18251
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI SD¹" tvg-logo="https://img.ip2.digital/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI SD¹
+http://brqnt.pro:2082/amadeu97863/amad97637/379680
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS  FHD H265²" tvg-logo="https://img.ip2.digital/hboplus.png" group-title="CANAIS | HBO",HBO PLUS  FHD H265²
+http://brqnt.pro:2082/amadeu97863/amad97637/34683
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS  FHD H265¹" tvg-logo="https://img.ip2.digital/hboplus.png" group-title="CANAIS | HBO",HBO PLUS  FHD H265¹
+http://brqnt.pro:2082/amadeu97863/amad97637/174926
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS  HD²" tvg-logo="https://img.ip2.digital/hboplus.png" group-title="CANAIS | HBO",HBO PLUS  HD²
+http://brqnt.pro:2082/amadeu97863/amad97637/174927
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD¹" tvg-logo="https://img.ip2.digital/hboplus.png" group-title="CANAIS | HBO",HBO PLUS HD¹
+http://brqnt.pro:2082/amadeu97863/amad97637/18245
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS SD²" tvg-logo="https://img.ip2.digital/hboplus.png" group-title="CANAIS | HBO",HBO PLUS SD²
+http://brqnt.pro:2082/amadeu97863/amad97637/174929
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS SD¹" tvg-logo="https://img.ip2.digital/hboplus.png" group-title="CANAIS | HBO",HBO PLUS SD¹
+http://brqnt.pro:2082/amadeu97863/amad97637/174928
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP  FHD H265²" tvg-logo="https://img.ip2.digital/hbopop.png" group-title="CANAIS | HBO",HBO POP  FHD H265²
+http://brqnt.pro:2082/amadeu97863/amad97637/34677
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP  FHD H265¹" tvg-logo="https://img.ip2.digital/hbopop.png" group-title="CANAIS | HBO",HBO POP  FHD H265¹
+http://brqnt.pro:2082/amadeu97863/amad97637/174930
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD²" tvg-logo="https://img.ip2.digital/hbopop.png" group-title="CANAIS | HBO",HBO POP HD²
+http://brqnt.pro:2082/amadeu97863/amad97637/174931
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD¹" tvg-logo="https://img.ip2.digital/hbopop.png" group-title="CANAIS | HBO",HBO POP HD¹
+http://brqnt.pro:2082/amadeu97863/amad97637/18253
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP SD²" tvg-logo="https://img.ip2.digital/hbopop.png" group-title="CANAIS | HBO",HBO POP SD²
+http://brqnt.pro:2082/amadeu97863/amad97637/174933
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP SD¹" tvg-logo="https://img.ip2.digital/hbopop.png" group-title="CANAIS | HBO",HBO POP SD¹
+http://brqnt.pro:2082/amadeu97863/amad97637/174932
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD²" tvg-logo="https://img.ip2.digital/hbo.png" group-title="CANAIS | HBO",HBO SD²
+http://brqnt.pro:2082/amadeu97863/amad97637/38785
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD¹" tvg-logo="https://img.ip2.digital/hbo.png" group-title="CANAIS | HBO",HBO SD¹
+http://brqnt.pro:2082/amadeu97863/amad97637/17929
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD H265²" tvg-logo="https://img.ip2.digital/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE FHD H265²
+http://brqnt.pro:2082/amadeu97863/amad97637/34682
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD H265¹" tvg-logo="https://img.ip2.digital/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE FHD H265¹
+http://brqnt.pro:2082/amadeu97863/amad97637/18150
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE HD¹" tvg-logo="https://img.ip2.digital/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE HD¹
+http://brqnt.pro:2082/amadeu97863/amad97637/18246
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE SD¹" tvg-logo="https://img.ip2.digital/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE SD¹
+http://brqnt.pro:2082/amadeu97863/amad97637/379681
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="https://img.ip2.digital/hboxtreme.png" group-title="CANAIS | HBO",HBO XTREME FHD
+http://brqnt.pro:2082/amadeu97863/amad97637/18158
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD H265²" tvg-logo="https://img.ip2.digital/hboxtreme.png" group-title="CANAIS | HBO",HBO XTREME FHD H265²
+http://brqnt.pro:2082/amadeu97863/amad97637/34678
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD¹" tvg-logo="https://img.ip2.digital/hboxtreme.png" group-title="CANAIS | HBO",HBO XTREME HD¹
+http://brqnt.pro:2082/amadeu97863/amad97637/18252
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME SD¹" tvg-logo="https://img.ip2.digital/hboxtreme.png" group-title="CANAIS | HBO",HBO XTREME SD¹
+http://brqnt.pro:2082/amadeu97863/amad97637/379682
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD H265²" tvg-logo="https://img.ip2.digital/hgtv.png" group-title="CANAIS | VARIEDADES",HGTV FHD H265²
+http://brqnt.pro:2082/amadeu97863/amad97637/34708
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD H265¹" tvg-logo="https://img.ip2.digital/hgtv.png" group-title="CANAIS | VARIEDADES",HGTV FHD H265¹
+http://brqnt.pro:2082/amadeu97863/amad97637/18122
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD¹" tvg-logo="https://img.ip2.digital/hgtv.png" group-title="CANAIS | VARIEDADES",HGTV SD¹
+http://brqnt.pro:2082/amadeu97863/amad97637/35081
