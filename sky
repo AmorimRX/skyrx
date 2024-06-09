@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="A&E FHD H265¹" tvg-id="a.e.br" tvg-logo="https://img.ip2.digital/aee.png" group-title="CANAIS | FILMES E SÉRIES",A&E FHD H265¹
+#EXTINF:-1  tvg-name="A&E" tvg-id="a.e.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="CANAIS | FILMES E SÉRIES",A&E FHD H265¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18107
-#EXTINF:-1  tvg-name="A&E FHD H265²" tvg-id="a.e.br" tvg-logo="https://img.ip2.digital/aee.png" group-title="CANAIS | FILMES E SÉRIES",A&E FHD H265²
+#EXTINF:-1  tvg-name="A&E FHD H265²" tvg-id="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="CANAIS | FILMES E SÉRIES",A&E FHD H265²
 http://brqnt.pro:2082/amadeu97863/amad97637/34713
-#EXTINF:-1  tvg-name="A&E HD²" tvg-id="a.e.br" tvg-logo="https://img.ip2.digital/aee.png" group-title="CANAIS | FILMES E SÉRIES",A&E HD²
+#EXTINF:-1  tvg-name="A&E HD²" tvg-id="a.e.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="CANAIS | FILMES E SÉRIES",A&E HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34915
-#EXTINF:-1  tvg-name="AGRO BRASIL TV" tvg-id="" tvg-logo="https://img.ip2.digital/agrobrasil.png" group-title="CANAIS | ABERTOS",AGRO BRASIL TV
-http://brqnt.pro:2082/amadeu97863/amad97637/38756
-#EXTINF:-1  tvg-name="AGRO BRASIL TV FHD" tvg-id="futura.br" tvg-logo="https://img.ip2.digital/agrobrasil.png" group-title="CANAIS | ABERTOS",AGRO BRASIL TV FHD
-http://brqnt.pro:2082/amadeu97863/amad97637/38729
 #EXTINF:-1  tvg-name="AMC FHD H265¹" tvg-id="a.e.br" tvg-logo="https://img.ip2.digital/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC FHD H265¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18108
 #EXTINF:-1  tvg-name="AMC FHD H265²" tvg-id="amc.br" tvg-logo="https://img.ip2.digital/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC FHD H265²
@@ -53,26 +49,6 @@ http://brqnt.pro:2082/amadeu97863/amad97637/34659
 http://brqnt.pro:2082/amadeu97863/amad97637/18210
 #EXTINF:-1  tvg-name="CANAL SONY HD²" tvg-id="sony.br" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34995
-#EXTINF:-1  tvg-name="CINE SKY HD 01" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY HD 01
-http://brqnt.pro:2082/amadeu97863/amad97637/34229
-#EXTINF:-1  tvg-name="CINE SKY HD 02" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY HD 02
-http://brqnt.pro:2082/amadeu97863/amad97637/34230
-#EXTINF:-1  tvg-name="CINE SKY HD 03" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY HD 03
-http://brqnt.pro:2082/amadeu97863/amad97637/34231
-#EXTINF:-1  tvg-name="CINE SKY HD 04" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY HD 04
-http://brqnt.pro:2082/amadeu97863/amad97637/34232
-#EXTINF:-1  tvg-name="CINE SKY HD 05" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY HD 05
-http://brqnt.pro:2082/amadeu97863/amad97637/34233
-#EXTINF:-1  tvg-name="CINE SKY HD 06" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY HD 06
-http://brqnt.pro:2082/amadeu97863/amad97637/34240
-#EXTINF:-1  tvg-name="CINE SKY HD 07" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY HD 07
-http://brqnt.pro:2082/amadeu97863/amad97637/34241
-#EXTINF:-1  tvg-name="CINE SKY HD 08" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY HD 08
-http://brqnt.pro:2082/amadeu97863/amad97637/34242
-#EXTINF:-1  tvg-name="CINE SKY HD 09" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY HD 09
-http://brqnt.pro:2082/amadeu97863/amad97637/34243
-#EXTINF:-1  tvg-name="CINE SKY HD 10" tvg-id="a.e.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY HD 10
-http://brqnt.pro:2082/amadeu97863/amad97637/34244
 #EXTINF:-1  tvg-name="CINEMAX FHD H265¹" tvg-id="cinemax.br" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX FHD H265¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18118
 #EXTINF:-1  tvg-name="CINEMAX FHD H265²" tvg-id="cinemax.br" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX FHD H265²
@@ -255,8 +231,6 @@ http://brqnt.pro:2082/amadeu97863/amad97637/18157
 http://brqnt.pro:2082/amadeu97863/amad97637/34679
 #EXTINF:-1  tvg-name="HBO MUNDI HD¹" tvg-id="a.e.br" tvg-logo="https://img.ip2.digital/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18251
-#EXTINF:-1  tvg-name="HBO MUNDI SD¹" tvg-id="hbo.mundi.br" tvg-logo="https://img.ip2.digital/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI SD¹
-http://brqnt.pro:2082/amadeu97863/amad97637/379680
 #EXTINF:-1  tvg-name="HBO PLUS  FHD H265¹" tvg-id="hbo.plus.br" tvg-logo="https://img.ip2.digital/hboplus.png" group-title="CANAIS | HBO",HBO PLUS  FHD H265¹
 http://brqnt.pro:2082/amadeu97863/amad97637/174926
 #EXTINF:-1  tvg-name="HBO PLUS  FHD H265²" tvg-id="hbo.plus.br" tvg-logo="https://img.ip2.digital/hboplus.png" group-title="CANAIS | HBO",HBO PLUS  FHD H265²
@@ -279,8 +253,6 @@ http://brqnt.pro:2082/amadeu97863/amad97637/18150
 http://brqnt.pro:2082/amadeu97863/amad97637/34682
 #EXTINF:-1  tvg-name="HBO SIGNATURE HD¹" tvg-id="hbo.signature.br" tvg-logo="https://img.ip2.digital/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18246
-#EXTINF:-1  tvg-name="HBO SIGNATURE SD¹" tvg-id="hbo.signature.br" tvg-logo="https://img.ip2.digital/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE SD¹
-http://brqnt.pro:2082/amadeu97863/amad97637/379681
 #EXTINF:-1  tvg-name="HBO XTREME FHD" tvg-id="hbo.xtreme.br" tvg-logo="https://img.ip2.digital/hboxtreme.png" group-title="CANAIS | HBO",HBO XTREME FHD
 http://brqnt.pro:2082/amadeu97863/amad97637/18158
 #EXTINF:-1  tvg-name="HBO XTREME FHD H265²" tvg-id="hbo.xtreme.br" tvg-logo="https://img.ip2.digital/hboxtreme.png" group-title="CANAIS | HBO",HBO XTREME FHD H265²
@@ -375,8 +347,6 @@ http://brqnt.pro:2082/amadeu97863/amad97637/34658
 http://brqnt.pro:2082/amadeu97863/amad97637/18273
 #EXTINF:-1  tvg-name="SPACE HD²" tvg-id="space.br" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34523
-#EXTINF:-1  tvg-name="SPACE SD¹" tvg-id="space.br" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE SD¹
-http://brqnt.pro:2082/amadeu97863/amad97637/17979
 #EXTINF:-1  tvg-name="SPORTV 2 FHD H265¹" tvg-id="sportv2.br" tvg-logo="https://img.ip2.digital/sportv3.png" group-title="CANAIS | SPORTV",SPORTV 2 FHD H265¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18180
 #EXTINF:-1  tvg-name="SPORTV 2 FHD H265²" tvg-id="sportv2.br" tvg-logo="https://img.ip2.digital/sportv2.png" group-title="CANAIS | SPORTV",SPORTV 2 FHD H265²
@@ -439,7 +409,7 @@ http://brqnt.pro:2082/amadeu97863/amad97637/34651
 http://brqnt.pro:2082/amadeu97863/amad97637/18280
 #EXTINF:-1  tvg-name="TELECINE ACTION HD²" tvg-id="telecine.action.br" tvg-logo="https://img.ip2.digital/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34502
-#EXTINF:-1  tvg-name="TELECINE CULT FHD DUAL AUDIO" tvg-id="" tvg-logo="https://img.ip2.digital/telecineCULT.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD DUAL AUDIO
+#EXTINF:-1  tvg-name="TELECINE CULT FHD DUAL AUDIO" tvg-id="telecine.cult.br" tvg-logo="https://img.ip2.digital/telecineCULT.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD DUAL AUDIO
 http://brqnt.pro:2082/amadeu97863/amad97637/213285
 #EXTINF:-1  tvg-name="TELECINE CULT FHD H265¹" tvg-id="telecine.cult.br" tvg-logo="https://img.ip2.digital/telecineCULT.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD H265¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18187
