@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="A&E" tvg-id="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="FILMES E SÉRIES",A&E FHD H265¹
+#EXTINF:-1  tvg-name="A&E" tvg-id="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="FILMES E SÉRIES",A&E FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18107
-#EXTINF:-1  tvg-name="A&E" tvg-id="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="FILMES E SÉRIES",A&E FHD H265²
+#EXTINF:-1  tvg-name="A&E" tvg-id="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="FILMES E SÉRIES",A&E FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34713
 #EXTINF:-1  tvg-name="A&E" tvg-id="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="FILMES E SÉRIES",A&E HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34915
-#EXTINF:-1  tvg-name="AMC" tvg-id="AMC" tvg-logo="https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2013.png" group-title="FILMES E SÉRIES",AMC FHD H265¹
+#EXTINF:-1  tvg-name="AMC" tvg-id="AMC" tvg-logo="https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2013.png" group-title="FILMES E SÉRIES",AMC FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18108
-#EXTINF:-1  tvg-name="AMC" tvg-id="AMC" tvg-logo="https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2013.png" group-title="FILMES E SÉRIES",AMC FHD H265²
+#EXTINF:-1  tvg-name="AMC" tvg-id="AMC" tvg-logo="https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2013.png" group-title="FILMES E SÉRIES",AMC FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/38775
 #EXTINF:-1  tvg-name="AMC" tvg-id="AMC" tvg-logo="https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2013.png" group-title="FILMES E SÉRIES",AMC HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18205
 #EXTINF:-1  tvg-name="AMC" tvg-id="AMC" tvg-logo="https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2013.png" group-title="FILMES E SÉRIES",AMC HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34916
-#EXTINF:-1  tvg-name="ANIMAL PLANET" tvg-id="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET FHD H265¹
+#EXTINF:-1  tvg-name="ANIMAL PLANET" tvg-id="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18109
-#EXTINF:-1  tvg-name="ANIMAL PLANET" tvg-id="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET FHD²
+#EXTINF:-1  tvg-name="ANIMAL PLANET" tvg-id="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
 http://brqnt.pro:2082/amadeu97863/amad97637/34615
 #EXTINF:-1  tvg-name="ANIMAL PLANET" tvg-id="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18206
@@ -23,9 +23,9 @@ http://brqnt.pro:2082/amadeu97863/amad97637/18206
 http://brqnt.pro:2082/amadeu97863/amad97637/34917
 #EXTINF:-1  tvg-name="AXN" tvg-id="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="FILMES E SÉRIES",AXN 4K
 http://brqnt.pro:2082/amadeu97863/amad97637/177025
-#EXTINF:-1  tvg-name="AXN" tvg-id="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="FILMES E SÉRIES",AXN FHD H265¹
+#EXTINF:-1  tvg-name="AXN" tvg-id="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="FILMES E SÉRIES",AXN FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18110
-#EXTINF:-1  tvg-name="AXN" tvg-id="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="FILMES E SÉRIES",AXN FHD H265²
+#EXTINF:-1  tvg-name="AXN" tvg-id="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="FILMES E SÉRIES",AXN FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34715
 #EXTINF:-1  tvg-name="AXN" tvg-id="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="FILMES E SÉRIES",AXN HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18207
@@ -33,17 +33,17 @@ http://brqnt.pro:2082/amadeu97863/amad97637/18207
 http://brqnt.pro:2082/amadeu97863/amad97637/34439
 #EXTINF:-1  tvg-name="BAND SPORTS" tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="ESPORTES",BAND SPORTS 4K
 http://brqnt.pro:2082/amadeu97863/amad97637/577309
-#EXTINF:-1  tvg-name="BAND SPORTS" tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="ESPORTES",BAND SPORTS FHD H265¹
+#EXTINF:-1  tvg-name="BAND SPORTS" tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="ESPORTES",BAND SPORTS FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18112
-#EXTINF:-1  tvg-name="BAND SPORTS" tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="ESPORTES",BAND SPORTS FHD H265²
+#EXTINF:-1  tvg-name="BAND SPORTS" tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="ESPORTES",BAND SPORTS FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34717
 #EXTINF:-1  tvg-name="BAND SPORTS" tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="ESPORTES",BAND SPORTS HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18208
 #EXTINF:-1  tvg-name="BAND SPORTS" tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="ESPORTES",BAND SPORTS HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34923
-#EXTINF:-1  tvg-name="CINEMAX" tvg-id="CINEMAX" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="FILMES E SÉRIES",CINEMAX FHD H265¹
+#EXTINF:-1  tvg-name="CINEMAX" tvg-id="CINEMAX" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="FILMES E SÉRIES",CINEMAX FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18118
-#EXTINF:-1  tvg-name="CINEMAX" tvg-id="CINEMAX" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="FILMES E SÉRIES",CINEMAX FHD H265²
+#EXTINF:-1  tvg-name="CINEMAX" tvg-id="CINEMAX" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="FILMES E SÉRIES",CINEMAX FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34712
 #EXTINF:-1  tvg-name="CINEMAX" tvg-id="CINEMAX" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="FILMES E SÉRIES",CINEMAX HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18212
@@ -51,17 +51,17 @@ http://brqnt.pro:2082/amadeu97863/amad97637/18212
 http://brqnt.pro:2082/amadeu97863/amad97637/34931
 #EXTINF:-1  tvg-name="COMEDY CENTRAL" tvg-id="COMEDY CENTRAL" tvg-logo="https://i.imgur.com/9y6TtjF.png" group-title="FILMES E SÉRIES",COMEDY CENTRAL 4K
 http://brqnt.pro:2082/amadeu97863/amad97637/177028
-#EXTINF:-1  tvg-name="COMEDY CENTRAL" tvg-id="COMEDY CENTRAL" tvg-logo="https://i.imgur.com/9y6TtjF.png" group-title="FILMES E SÉRIES",COMEDY CENTRAL  FHD H265¹
+#EXTINF:-1  tvg-name="COMEDY CENTRAL" tvg-id="COMEDY CENTRAL" tvg-logo="https://i.imgur.com/9y6TtjF.png" group-title="FILMES E SÉRIES",COMEDY CENTRAL  FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18120
-#EXTINF:-1  tvg-name="COMEDY CENTRAL" tvg-id="COMEDY CENTRAL" tvg-logo="https://i.imgur.com/9y6TtjF.png" group-title="FILMES E SÉRIES",COMEDY CENTRAL FHD H265²
+#EXTINF:-1  tvg-name="COMEDY CENTRAL" tvg-id="COMEDY CENTRAL" tvg-logo="https://i.imgur.com/9y6TtjF.png" group-title="FILMES E SÉRIES",COMEDY CENTRAL FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/38722
 #EXTINF:-1  tvg-name="COMEDY CENTRAL" tvg-id="COMEDY CENTRAL" tvg-logo="https://i.imgur.com/9y6TtjF.png" group-title="FILMES E SÉRIES",COMEDY CENTRAL HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18214
 #EXTINF:-1  tvg-name="COMEDY CENTRAL" tvg-id="COMEDY CENTRAL  " tvg-logo="https://i.imgur.com/9y6TtjF.png" group-title="FILMES E SÉRIES",COMEDY CENTRAL HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34616
-#EXTINF:-1  tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD H265¹
+#EXTINF:-1  tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18121
-#EXTINF:-1  tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD H265²
+#EXTINF:-1  tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34451
 #EXTINF:-1  tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18215
@@ -75,43 +75,43 @@ http://brqnt.pro:2082/amadeu97863/amad97637/18217
 http://brqnt.pro:2082/amadeu97863/amad97637/177029
 #EXTINF:-1  tvg-name="DISCOVERY H&H" tvg-id="DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png" group-title="VARIEDADES",DISCOVERY H&H HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34935
-#EXTINF:-1  tvg-name="DISCOVERY H&H" tvg-id="DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png" group-title="VARIEDADES",DISCOVERY H&H FHD H265²
+#EXTINF:-1  tvg-name="DISCOVERY H&H" tvg-id="DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png" group-title="VARIEDADES",DISCOVERY H&H FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18123
-#EXTINF:-1  tvg-name="DISCOVERY SCIENCE" tvg-id="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD H265¹
+#EXTINF:-1  tvg-name="DISCOVERY SCIENCE" tvg-id="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18125
-#EXTINF:-1  tvg-name="DISCOVERY SCIENCE" tvg-id="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD²
+#EXTINF:-1  tvg-name="DISCOVERY SCIENCE" tvg-id="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE
 http://brqnt.pro:2082/amadeu97863/amad97637/34710
 #EXTINF:-1  tvg-name="DISCOVERY SCIENCE" tvg-id="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18219
 #EXTINF:-1  tvg-name="DISCOVERY SCIENCE" tvg-id="DISCOVERY SCIENCE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34937
-#EXTINF:-1  tvg-name="DISCOVERY THEATER" tvg-id="DISCOVERY THEATER" tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER FHD H265¹
+#EXTINF:-1  tvg-name="DISCOVERY THEATER" tvg-id="DISCOVERY THEATER" tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18126
-#EXTINF:-1  tvg-name="DISCOVERY THEATER" tvg-id="DISCOVERY THEATER" tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER FHD H265²
+#EXTINF:-1  tvg-name="DISCOVERY THEATER" tvg-id="DISCOVERY THEATER" tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34706
 #EXTINF:-1  tvg-name="DISCOVERY THEATER" tvg-id="DISCOVERY THEATER" tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18220
 #EXTINF:-1  tvg-name="DISCOVERY THEATER" tvg-id="DISCOVERY THEATER " tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34938
-#EXTINF:-1  tvg-name="DISCOVERY WORLD" tvg-id="DISCOVERY WORLD" tvg-logo="https://i.imgur.com/Yb3oUls.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD FHD H265¹
+#EXTINF:-1  tvg-name="DISCOVERY WORLD" tvg-id="DISCOVERY WORLD" tvg-logo="https://i.imgur.com/Yb3oUls.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18128
-#EXTINF:-1  tvg-name="DISCOVERY WORLD" tvg-id="DISCOVERY WORLD" tvg-logo="https://i.imgur.com/Yb3oUls.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD FHD H265²
+#EXTINF:-1  tvg-name="DISCOVERY WORLD" tvg-id="DISCOVERY WORLD" tvg-logo="https://i.imgur.com/Yb3oUls.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34703
 #EXTINF:-1  tvg-name="DISCOVERY WORLD" tvg-id="DISCOVERY WORLD" tvg-logo="https://i.imgur.com/Yb3oUls.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18222
 #EXTINF:-1  tvg-name="DISCOVERY WORLD" tvg-id="DISCOVERY WORLD" tvg-logo="https://i.imgur.com/Yb3oUls.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34940
-#EXTINF:-1  tvg-name="E!" tvg-id="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png" group-title="VARIEDADES",E! FHD H265¹
+#EXTINF:-1  tvg-name="E!" tvg-id="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png" group-title="VARIEDADES",E! FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18131
-#EXTINF:-1  tvg-name="E!" tvg-id="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png" group-title="VARIEDADES",E! FHD H265²
+#EXTINF:-1  tvg-name="E!" tvg-id="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png" group-title="VARIEDADES",E! FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/38726
 #EXTINF:-1  tvg-name="E!" tvg-id="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png" group-title="VARIEDADES",E! HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18225
 #EXTINF:-1  tvg-name="E!" tvg-id="E! " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png" group-title="VARIEDADES",E! HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34944
-#EXTINF:-1  tvg-name="FX" tvg-id="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="FILMES E SÉRIES",FX FHD H265¹
+#EXTINF:-1  tvg-name="FX" tvg-id="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="FILMES E SÉRIES",FX FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18143
-#EXTINF:-1  tvg-name="FX" tvg-id="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="FILMES E SÉRIES",FX FHD H265²
+#EXTINF:-1  tvg-name="FX" tvg-id="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="FILMES E SÉRIES",FX FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34479
 #EXTINF:-1  tvg-name="FX" tvg-id="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="FILMES E SÉRIES",FX HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18237
@@ -119,9 +119,9 @@ http://brqnt.pro:2082/amadeu97863/amad97637/18237
 http://brqnt.pro:2082/amadeu97863/amad97637/34956
 #EXTINF:-1  tvg-name="GNT" tvg-id="GNT" tvg-logo="https://i.imgur.com/XymcvMy.png" group-title="VARIEDADES",GNT 4K
 http://brqnt.pro:2082/amadeu97863/amad97637/177032
-#EXTINF:-1  tvg-name="GNT" tvg-id="GNT" tvg-logo="https://i.imgur.com/XymcvMy.png" group-title="VARIEDADES",GNT FHD H265¹
+#EXTINF:-1  tvg-name="GNT" tvg-id="GNT" tvg-logo="https://i.imgur.com/XymcvMy.png" group-title="VARIEDADES",GNT FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18146
-#EXTINF:-1  tvg-name="GNT" tvg-id="GNT" tvg-logo="https://i.imgur.com/XymcvMy.png" group-title="VARIEDADES",GNT FHD H265²
+#EXTINF:-1  tvg-name="GNT" tvg-id="GNT" tvg-logo="https://i.imgur.com/XymcvMy.png" group-title="VARIEDADES",GNT FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/38731
 #EXTINF:-1  tvg-name="GNT" tvg-id="GNT" tvg-logo="https://i.imgur.com/XymcvMy.png" group-title="VARIEDADES",GNT HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18241
@@ -129,113 +129,113 @@ http://brqnt.pro:2082/amadeu97863/amad97637/18241
 http://brqnt.pro:2082/amadeu97863/amad97637/34959
 #EXTINF:-1  tvg-name="HBO" tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO 4K
 http://brqnt.pro:2082/amadeu97863/amad97637/173754
-#EXTINF:-1  tvg-name="HBO" tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO FHD H265²
+#EXTINF:-1  tvg-name="HBO" tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34684
 #EXTINF:-1  tvg-name="HBO" tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18244
 #EXTINF:-1  tvg-name="HBO" tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/38784
-#EXTINF:-1  tvg-name="HBO 2" tvg-id="HBO 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="HBO",HBO 2 FHD H265¹
+#EXTINF:-1  tvg-name="HBO 2" tvg-id="HBO 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="HBO",HBO 2 FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18151
-#EXTINF:-1  tvg-name="HBO Family" tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="HBO",HBO FAMILLY FHD H265¹
+#EXTINF:-1  tvg-name="HBO Family" tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="HBO",HBO FAMILLY FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18147
-#EXTINF:-1  tvg-name="HBO Family" tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="HBO",HBO FAMILY FHD H265²
+#EXTINF:-1  tvg-name="HBO Family" tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="HBO",HBO FAMILY FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34686
 #EXTINF:-1  tvg-name="HBO Family" tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="HBO",HBO FAMILY HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18243
-#EXTINF:-1  tvg-name="HBO Family" tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="HBO",HBO FHD H265¹
+#EXTINF:-1  tvg-name="HBO Family" tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="HBO",HBO FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18148
-#EXTINF:-1  tvg-name="HBO MUNDI" tvg-id="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="HBO",HBO MUNDI FHD H265¹
+#EXTINF:-1  tvg-name="HBO MUNDI" tvg-id="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="HBO",HBO MUNDI FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18157
-#EXTINF:-1  tvg-name="HBO MUNDI" tvg-id="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="HBO",HBO MUNDI FHD H265²
+#EXTINF:-1  tvg-name="HBO MUNDI" tvg-id="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="HBO",HBO MUNDI FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34679
 #EXTINF:-1  tvg-name="HBO MUNDI" tvg-id="HBO MUNDI " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="HBO",HBO MUNDI HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18251
-#EXTINF:-1  tvg-name="HBO PLUS" tvg-id="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="HBO",HBO PLUS  FHD H265¹
+#EXTINF:-1  tvg-name="HBO PLUS" tvg-id="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="HBO",HBO PLUS  FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/174926
-#EXTINF:-1  tvg-name="HBO PLUS" tvg-id="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="HBO",HBO PLUS  FHD H265²
+#EXTINF:-1  tvg-name="HBO PLUS" tvg-id="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="HBO",HBO PLUS  FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34683
 #EXTINF:-1  tvg-name="HBO PLUS" tvg-id="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="HBO",HBO PLUS  HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/174927
 #EXTINF:-1  tvg-name="HBO PLUS" tvg-id="HBO PLUS  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="HBO",HBO PLUS HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18245
-#EXTINF:-1  tvg-name="HBO POP" tvg-id="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" group-title="HBO",HBO POP  FHD H265¹
+#EXTINF:-1  tvg-name="HBO POP" tvg-id="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" group-title="HBO",HBO POP  FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/174930
-#EXTINF:-1  tvg-name="HBO POP" tvg-id="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" group-title="HBO",HBO POP  FHD H265²
+#EXTINF:-1  tvg-name="HBO POP" tvg-id="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" group-title="HBO",HBO POP  FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34677
 #EXTINF:-1  tvg-name="HBO POP" tvg-id="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" group-title="HBO",HBO POP HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18253
 #EXTINF:-1  tvg-name="HBO POP" tvg-id="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" group-title="HBO",HBO POP HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/174931
-#EXTINF:-1  tvg-name="HBO SIGNATURE" tvg-id="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="HBO",HBO SIGNATURE FHD H265¹
+#EXTINF:-1  tvg-name="HBO SIGNATURE" tvg-id="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="HBO",HBO SIGNATURE FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18150
-#EXTINF:-1  tvg-name="HBO SIGNATURE" tvg-id="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="HBO",HBO SIGNATURE FHD H265²
+#EXTINF:-1  tvg-name="HBO SIGNATURE" tvg-id="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="HBO",HBO SIGNATURE FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34682
 #EXTINF:-1  tvg-name="HBO SIGNATURE" tvg-id="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="HBO",HBO SIGNATURE HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18246
-#EXTINF:-1  tvg-name="HBO XTREME" tvg-id="HBO XTREME" tvg-logo="" group-title="HBO",HBO XTREME FHD
+#EXTINF:-1  tvg-name="HBO XTREME" tvg-id="HBO XTREME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLAlkz5tbR0T-xx058C0YWwSQ8Q0dxnxDK5Q&s" group-title="HBO",HBO XTREME FHD
 http://brqnt.pro:2082/amadeu97863/amad97637/18158
-#EXTINF:-1  tvg-name="HBO XTREME" tvg-id="HBO XTREME" tvg-logo="" group-title="HBO",HBO XTREME FHD H265²
+#EXTINF:-1  tvg-name="HBO XTREME" tvg-id="HBO XTREME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLAlkz5tbR0T-xx058C0YWwSQ8Q0dxnxDK5Q&s" group-title="HBO",HBO XTREME FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34678
-#EXTINF:-1  tvg-name="HBO XTREME" tvg-id="HBO XTREME" tvg-logo="" group-title="HBO",HBO XTREME HD¹
+#EXTINF:-1  tvg-name="HBO XTREME" tvg-id="HBO XTREME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLAlkz5tbR0T-xx058C0YWwSQ8Q0dxnxDK5Q&s" group-title="HBO",HBO XTREME HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18252
-#EXTINF:-1  tvg-name="HBO2" tvg-id="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="HBO",HBO 2 FHD H265²
+#EXTINF:-1  tvg-name="HBO2" tvg-id="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="HBO",HBO 2 FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34685
 #EXTINF:-1  tvg-name="HBO2" tvg-id="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="HBO",HBO 2 HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/38782
 #EXTINF:-1  tvg-name="HBO2" tvg-id="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="HBO",HBO 2 HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18242
-#EXTINF:-1  tvg-name="HGTV HD" tvg-id="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="VARIEDADES",HGTV FHD H265¹
+#EXTINF:-1  tvg-name="HGTV HD" tvg-id="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="VARIEDADES",HGTV FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18122
-#EXTINF:-1  tvg-name="HGTV HD" tvg-id="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="VARIEDADES",HGTV FHD H265²
+#EXTINF:-1  tvg-name="HGTV HD" tvg-id="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="VARIEDADES",HGTV FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34708
-#EXTINF:-1  tvg-name="HISTORY 2" tvg-id="HISTORY 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="DOCUMENTÁRIOS",HISTORY 2 FHD H265¹
+#EXTINF:-1  tvg-name="HISTORY 2" tvg-id="HISTORY 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="DOCUMENTÁRIOS",HISTORY 2 FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18153
-#EXTINF:-1  tvg-name="HISTORY 2" tvg-id="HISTORY 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="DOCUMENTÁRIOS",HISTORY 2 FHD²
+#EXTINF:-1  tvg-name="HISTORY 2" tvg-id="HISTORY 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="DOCUMENTÁRIOS",HISTORY 2
 http://brqnt.pro:2082/amadeu97863/amad97637/34687
 #EXTINF:-1  tvg-name="HISTORY 2" tvg-id="HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="DOCUMENTÁRIOS",HISTORY 2 HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18247
 #EXTINF:-1  tvg-name="HISTORY 2" tvg-id="HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="DOCUMENTÁRIOS",HISTORY 2 HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34960
-#EXTINF:-1  tvg-name="HISTORY CHANNEL" tvg-id="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL FHD H265¹
+#EXTINF:-1  tvg-name="HISTORY CHANNEL" tvg-id="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18152
-#EXTINF:-1  tvg-name="HISTORY CHANNEL" tvg-id="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL FHD H265²
+#EXTINF:-1  tvg-name="HISTORY CHANNEL" tvg-id="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34646
 #EXTINF:-1  tvg-name="HISTORY CHANNEL" tvg-id="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18248
-#EXTINF:-1  tvg-name="INVESTIGAÇÃO DISCOVERY" tvg-id="INVESTIGAÇÃO DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY FHD H265¹
+#EXTINF:-1  tvg-name="INVESTIGAÇÃO DISCOVERY" tvg-id="INVESTIGAÇÃO DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18154
-#EXTINF:-1  tvg-name="INVESTIGAÇÃO DISCOVERY" tvg-id="INVESTIGAÇÃO DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY FHD H265²
+#EXTINF:-1  tvg-name="INVESTIGAÇÃO DISCOVERY" tvg-id="INVESTIGAÇÃO DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34681
 #EXTINF:-1  tvg-name="INVESTIGAÇÃO DISCOVERY" tvg-id="INVESTIGAÇÃO DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18249
 #EXTINF:-1  tvg-name="INVESTIGAÇÃO DISCOVERY" tvg-id="INVESTIGAÇÃO DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34492
-#EXTINF:-1  tvg-name="Lifetime HD" tvg-id="Lifetime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="VARIEDADES",LIFETIME FHD H265¹
+#EXTINF:-1  tvg-name="Lifetime HD" tvg-id="Lifetime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="VARIEDADES",LIFETIME FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18155
-#EXTINF:-1  tvg-name="Lifetime HD" tvg-id="Lifetime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="VARIEDADES",LIFETIME FHD H265²
+#EXTINF:-1  tvg-name="Lifetime HD" tvg-id="Lifetime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="VARIEDADES",LIFETIME FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34680
 #EXTINF:-1  tvg-name="Lifetime HD" tvg-id="Lifetime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="VARIEDADES",LIFETIME HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18250
 #EXTINF:-1  tvg-name="Lifetime HD" tvg-id="Lifetime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="VARIEDADES",LIFETIME HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34968
-#EXTINF:-1  tvg-name="MEGAPIX" tvg-id="MEGAPIX" tvg-logo="https://i.imgur.com/qTYv5jt.png" group-title="FILMES E SÉRIES",MEGAPIX FHD H265¹
+#EXTINF:-1  tvg-name="MEGAPIX" tvg-id="MEGAPIX" tvg-logo="https://i.imgur.com/qTYv5jt.png" group-title="FILMES E SÉRIES",MEGAPIX FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18160
-#EXTINF:-1  tvg-name="MEGAPIX" tvg-id="MEGAPIX" tvg-logo="https://i.imgur.com/qTYv5jt.png" group-title="FILMES E SÉRIES",MEGAPIX FHD H265²
+#EXTINF:-1  tvg-name="MEGAPIX" tvg-id="MEGAPIX" tvg-logo="https://i.imgur.com/qTYv5jt.png" group-title="FILMES E SÉRIES",MEGAPIX FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34676
 #EXTINF:-1  tvg-name="MEGAPIX" tvg-id="MEGAPIX" tvg-logo="https://i.imgur.com/qTYv5jt.png" group-title="FILMES E SÉRIES",MEGAPIX HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18254
 #EXTINF:-1  tvg-name="MEGAPIX" tvg-id="MEGAPIX" tvg-logo="https://i.imgur.com/qTYv5jt.png" group-title="FILMES E SÉRIES",MEGAPIX HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34973
-#EXTINF:-1  tvg-name="MODO VIAGEM" tvg-id="MODO VIAGEM " tvg-logo="" group-title="VARIEDADES",MODO VIAGEM FHD
+#EXTINF:-1  tvg-name="MODO VIAGEM" tvg-id="MODO VIAGEM " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1280px-Logotipo_do_Modo_Viagem.svg.png" group-title="VARIEDADES",MODO VIAGEM FHD
 http://brqnt.pro:2082/amadeu97863/amad97637/151911
-#EXTINF:-1  tvg-name="MODO VIAGEM" tvg-id="MODO VIAGEM" tvg-logo="" group-title="VARIEDADES",MODO VIAGEM HD
+#EXTINF:-1  tvg-name="MODO VIAGEM" tvg-id="MODO VIAGEM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1280px-Logotipo_do_Modo_Viagem.svg.png" group-title="VARIEDADES",MODO VIAGEM HD
 http://brqnt.pro:2082/amadeu97863/amad97637/151912
-#EXTINF:-1  tvg-name="MODO VIAGEM" tvg-id="MODO VIAGEM " tvg-logo="" group-title="VARIEDADES",MODO VIAGEM HD¹
+#EXTINF:-1  tvg-name="MODO VIAGEM" tvg-id="MODO VIAGEM " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1280px-Logotipo_do_Modo_Viagem.svg.png" group-title="VARIEDADES",MODO VIAGEM HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18239
 #EXTINF:-1  tvg-name="MULTISHOW" tvg-id="MULTISHOW" tvg-logo="https://i.imgur.com/bqVg8nT.png" group-title="VARIEDADES",MULTISHOW 4K
 http://brqnt.pro:2082/amadeu97863/amad97637/173756
-#EXTINF:-1  tvg-name="MULTISHOW" tvg-id="MULTISHOW" tvg-logo="https://i.imgur.com/bqVg8nT.png" group-title="VARIEDADES",MULTISHOW FHD H265²
+#EXTINF:-1  tvg-name="MULTISHOW" tvg-id="MULTISHOW" tvg-logo="https://i.imgur.com/bqVg8nT.png" group-title="VARIEDADES",MULTISHOW FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34674
 #EXTINF:-1  tvg-name="MULTISHOW" tvg-id="MULTISHOW" tvg-logo="https://i.imgur.com/bqVg8nT.png" group-title="VARIEDADES",MULTISHOW FHD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/379817
@@ -243,39 +243,39 @@ http://brqnt.pro:2082/amadeu97863/amad97637/379817
 http://brqnt.pro:2082/amadeu97863/amad97637/18256
 #EXTINF:-1  tvg-name="MULTISHOW" tvg-id="MULTISHOW" tvg-logo="https://i.imgur.com/bqVg8nT.png" group-title="VARIEDADES",MULTISHOW HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34975
-#EXTINF:-1  tvg-name="NATIONAL GEOGRAPHIC" tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="DOCUMENTÁRIOS",NATGEO FHD H265²
+#EXTINF:-1  tvg-name="NATIONAL GEOGRAPHIC" tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="DOCUMENTÁRIOS",NATGEO FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34673
 #EXTINF:-1  tvg-name="NATIONAL GEOGRAPHIC" tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="DOCUMENTÁRIOS",NATGEO HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34978
-#EXTINF:-1  tvg-name="NATIONAL GEOGRAPHIC" tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD H265¹
+#EXTINF:-1  tvg-name="NATIONAL GEOGRAPHIC" tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18163
 #EXTINF:-1  tvg-name="NATIONAL GEOGRAPHIC" tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18257
-#EXTINF:-1  tvg-name="OFF" tvg-id="OFF" tvg-logo="https://i.imgur.com/1biaLgJ.png" group-title="VARIEDADES",OFF FHD H265¹
+#EXTINF:-1  tvg-name="OFF" tvg-id="OFF" tvg-logo="https://i.imgur.com/1biaLgJ.png" group-title="VARIEDADES",OFF FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18168
-#EXTINF:-1  tvg-name="OFF" tvg-id="OFF" tvg-logo="https://i.imgur.com/1biaLgJ.png" group-title="VARIEDADES",OFF FHD H265²
+#EXTINF:-1  tvg-name="OFF" tvg-id="OFF" tvg-logo="https://i.imgur.com/1biaLgJ.png" group-title="VARIEDADES",OFF FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/38742
 #EXTINF:-1  tvg-name="OFF" tvg-id="OFF" tvg-logo="https://i.imgur.com/1biaLgJ.png" group-title="VARIEDADES",OFF HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/35043
-#EXTINF:-1  tvg-name="PARAMOUNT" tvg-id="PARAMOUNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="FILMES E SÉRIES",PARAMOUNT FHD H265¹
+#EXTINF:-1  tvg-name="PARAMOUNT" tvg-id="PARAMOUNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="FILMES E SÉRIES",PARAMOUNT FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18169
-#EXTINF:-1  tvg-name="PARAMOUNT" tvg-id="PARAMOUNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="FILMES E SÉRIES",PARAMOUNT FHD H265²
+#EXTINF:-1  tvg-name="PARAMOUNT" tvg-id="PARAMOUNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="FILMES E SÉRIES",PARAMOUNT FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34668
 #EXTINF:-1  tvg-name="PARAMOUNT" tvg-id="PARAMOUNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="FILMES E SÉRIES",PARAMOUNT HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18263
 #EXTINF:-1  tvg-name="PARAMOUNT" tvg-id="PARAMOUNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="FILMES E SÉRIES",PARAMOUNT HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34981
-#EXTINF:-1  tvg-name="SONY" tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="FILMES E SÉRIES",CANAL SONY FHD H265¹
+#EXTINF:-1  tvg-name="SONY" tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="FILMES E SÉRIES",CANAL SONY FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18116
-#EXTINF:-1  tvg-name="SONY" tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="FILMES E SÉRIES",CANAL SONY FHD H265²
+#EXTINF:-1  tvg-name="SONY" tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="FILMES E SÉRIES",CANAL SONY FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34659
 #EXTINF:-1  tvg-name="SONY" tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="FILMES E SÉRIES",CANAL SONY HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18210
 #EXTINF:-1  tvg-name="SONY" tvg-id="SONY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="FILMES E SÉRIES",CANAL SONY HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34995
-#EXTINF:-1  tvg-name="SPACE" tvg-id="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="FILMES E SÉRIES",SPACE FHD H265¹
+#EXTINF:-1  tvg-name="SPACE" tvg-id="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="FILMES E SÉRIES",SPACE FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18179
-#EXTINF:-1  tvg-name="SPACE" tvg-id="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="FILMES E SÉRIES",SPACE FHD H265²
+#EXTINF:-1  tvg-name="SPACE" tvg-id="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="FILMES E SÉRIES",SPACE FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34658
 #EXTINF:-1  tvg-name="SPACE" tvg-id="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="FILMES E SÉRIES",SPACE HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18273
@@ -283,29 +283,29 @@ http://brqnt.pro:2082/amadeu97863/amad97637/18273
 http://brqnt.pro:2082/amadeu97863/amad97637/34523
 #EXTINF:-1  tvg-name="STAR CHANNEL" tvg-id="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="FILMES E SÉRIES",STAR CHANNEL 4K
 http://brqnt.pro:2082/amadeu97863/amad97637/173761
-#EXTINF:-1  tvg-name="STAR CHANNEL" tvg-id="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="FILMES E SÉRIES",STAR CHANNEL FHD H265¹
+#EXTINF:-1  tvg-name="STAR CHANNEL" tvg-id="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="FILMES E SÉRIES",STAR CHANNEL FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18138
-#EXTINF:-1  tvg-name="STAR CHANNEL" tvg-id="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="FILMES E SÉRIES",STAR CHANNEL FHD H265²
+#EXTINF:-1  tvg-name="STAR CHANNEL" tvg-id="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="FILMES E SÉRIES",STAR CHANNEL FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34698
 #EXTINF:-1  tvg-name="STAR CHANNEL" tvg-id="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="FILMES E SÉRIES",STAR CHANNEL HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18231
 #EXTINF:-1  tvg-name="STAR CHANNEL" tvg-id="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="FILMES E SÉRIES",STAR CHANNEL HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34475
-#EXTINF:-1  tvg-name="STAR LIFE" tvg-id="STAR LIFE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/512px-Star_Life_2021.svg.png" group-title="FILMES E SÉRIES",STAR LIFE FHD H265²
+#EXTINF:-1  tvg-name="STAR LIFE" tvg-id="STAR LIFE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/512px-Star_Life_2021.svg.png" group-title="FILMES E SÉRIES",STAR LIFE FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34476
 #EXTINF:-1  tvg-name="STAR LIFE" tvg-id="STAR LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/512px-Star_Life_2021.svg.png" group-title="FILMES E SÉRIES",STAR LIFE HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/34953
-#EXTINF:-1  tvg-name="STUDIO UNIVERSAL" tvg-id="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL FHD H265¹
+#EXTINF:-1  tvg-name="STUDIO UNIVERSAL" tvg-id="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18183
-#EXTINF:-1  tvg-name="STUDIO UNIVERSAL" tvg-id="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL FHD H265²
+#EXTINF:-1  tvg-name="STUDIO UNIVERSAL" tvg-id="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34654
 #EXTINF:-1  tvg-name="STUDIO UNIVERSAL" tvg-id="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18277
 #EXTINF:-1  tvg-name="STUDIO UNIVERSAL" tvg-id="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/35000
-#EXTINF:-1  tvg-name="SYFY" tvg-id="SYFY" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="FILMES E SÉRIES",USA FHD H265¹
+#EXTINF:-1  tvg-name="SYFY" tvg-id="SYFY" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="FILMES E SÉRIES",USA FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18184
-#EXTINF:-1  tvg-name="SYFY" tvg-id="SYFY" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="FILMES E SÉRIES",USA FHD H265²
+#EXTINF:-1  tvg-name="SYFY" tvg-id="SYFY" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="FILMES E SÉRIES",USA FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34653
 #EXTINF:-1  tvg-name="SYFY" tvg-id="SYFY" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="FILMES E SÉRIES",USA HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18278
@@ -315,9 +315,9 @@ http://brqnt.pro:2082/amadeu97863/amad97637/35001
 http://brqnt.pro:2082/amadeu97863/amad97637/177034
 #EXTINF:-1  tvg-name="TELECINE ACTION" tvg-id="TELECINE ACTION" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="TELECINE",TELECINE ACTION 4K 2
 http://brqnt.pro:2082/amadeu97863/amad97637/197921
-#EXTINF:-1  tvg-name="TELECINE ACTION" tvg-id="TELECINE ACTION" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="TELECINE",TELECINE ACTION FHD H265¹
+#EXTINF:-1  tvg-name="TELECINE ACTION" tvg-id="TELECINE ACTION" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="TELECINE",TELECINE ACTION FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18186
-#EXTINF:-1  tvg-name="TELECINE ACTION" tvg-id="TELECINE ACTION" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="TELECINE",TELECINE ACTION FHD H265²
+#EXTINF:-1  tvg-name="TELECINE ACTION" tvg-id="TELECINE ACTION" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="TELECINE",TELECINE ACTION FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34651
 #EXTINF:-1  tvg-name="TELECINE ACTION" tvg-id="TELECINE ACTION" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="TELECINE",TELECINE ACTION HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18280
@@ -325,17 +325,17 @@ http://brqnt.pro:2082/amadeu97863/amad97637/18280
 http://brqnt.pro:2082/amadeu97863/amad97637/34502
 #EXTINF:-1  tvg-name="TELECINE CULT" tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/6GuHXnr.png" group-title="TELECINE",TELECINE CULT FHD DUAL AUDIO
 http://brqnt.pro:2082/amadeu97863/amad97637/213285
-#EXTINF:-1  tvg-name="TELECINE CULT" tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/6GuHXnr.png" group-title="TELECINE",TELECINE CULT FHD H265¹
+#EXTINF:-1  tvg-name="TELECINE CULT" tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/6GuHXnr.png" group-title="TELECINE",TELECINE CULT FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18187
-#EXTINF:-1  tvg-name="TELECINE CULT" tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/6GuHXnr.png" group-title="TELECINE",TELECINE CULT FHD H265²
+#EXTINF:-1  tvg-name="TELECINE CULT" tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/6GuHXnr.png" group-title="TELECINE",TELECINE CULT FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34652
 #EXTINF:-1  tvg-name="TELECINE CULT" tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/6GuHXnr.png" group-title="TELECINE",TELECINE CULT HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18281
 #EXTINF:-1  tvg-name="TELECINE CULT" tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/6GuHXnr.png" group-title="TELECINE",TELECINE CULT HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/35005
-#EXTINF:-1  tvg-name="TELECINE FUN" tvg-id="TELECINE FUN " tvg-logo="https://i.imgur.com/MO2Ynki.png" group-title="TELECINE",TELECINE FUN FHD H265¹
+#EXTINF:-1  tvg-name="TELECINE FUN" tvg-id="TELECINE FUN " tvg-logo="https://i.imgur.com/MO2Ynki.png" group-title="TELECINE",TELECINE FUN FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18188
-#EXTINF:-1  tvg-name="TELECINE FUN" tvg-id="TELECINE FUN" tvg-logo="https://i.imgur.com/MO2Ynki.png" group-title="TELECINE",TELECINE FUN FHD H265²
+#EXTINF:-1  tvg-name="TELECINE FUN" tvg-id="TELECINE FUN" tvg-logo="https://i.imgur.com/MO2Ynki.png" group-title="TELECINE",TELECINE FUN FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34650
 #EXTINF:-1  tvg-name="TELECINE FUN" tvg-id="TELECINE FUN" tvg-logo="https://i.imgur.com/MO2Ynki.png" group-title="TELECINE",TELECINE FUN HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18282
@@ -343,9 +343,9 @@ http://brqnt.pro:2082/amadeu97863/amad97637/18282
 http://brqnt.pro:2082/amadeu97863/amad97637/35150
 #EXTINF:-1  tvg-name="TELECINE PIPOCA" tvg-id="TELECINE PIPOCA " tvg-logo="https://i.imgur.com/hW9JYXr.png" group-title="TELECINE",TELECINE PIPOCA 4K
 http://brqnt.pro:2082/amadeu97863/amad97637/177035
-#EXTINF:-1  tvg-name="TELECINE PIPOCA" tvg-id="TELECINE PIPOCA" tvg-logo="https://i.imgur.com/hW9JYXr.png" group-title="TELECINE",TELECINE PIPOCA FHD H265¹
+#EXTINF:-1  tvg-name="TELECINE PIPOCA" tvg-id="TELECINE PIPOCA" tvg-logo="https://i.imgur.com/hW9JYXr.png" group-title="TELECINE",TELECINE PIPOCA FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18189
-#EXTINF:-1  tvg-name="TELECINE PIPOCA" tvg-id="TELECINE PIPOCA" tvg-logo="https://i.imgur.com/hW9JYXr.png" group-title="TELECINE",TELECINE PIPOCA FHD H265²
+#EXTINF:-1  tvg-name="TELECINE PIPOCA" tvg-id="TELECINE PIPOCA" tvg-logo="https://i.imgur.com/hW9JYXr.png" group-title="TELECINE",TELECINE PIPOCA FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34649
 #EXTINF:-1  tvg-name="TELECINE PIPOCA" tvg-id="TELECINE PIPOCA" tvg-logo="https://i.imgur.com/hW9JYXr.png" group-title="TELECINE",TELECINE PIPOCA HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18283
@@ -355,9 +355,9 @@ http://brqnt.pro:2082/amadeu97863/amad97637/35007
 http://brqnt.pro:2082/amadeu97863/amad97637/173762
 #EXTINF:-1  tvg-name="TELECINE PREMIUM" tvg-id="TELECINE PREMIUM" tvg-logo="https://i.imgur.com/uVFgIr8.png" group-title="TELECINE",TELECINE PREMIUM FHD DUAL AUDIO
 http://brqnt.pro:2082/amadeu97863/amad97637/213286
-#EXTINF:-1  tvg-name="TELECINE PREMIUM" tvg-id="TELECINE PREMIUM" tvg-logo="https://i.imgur.com/uVFgIr8.png" group-title="TELECINE",TELECINE PREMIUM FHD H265¹
+#EXTINF:-1  tvg-name="TELECINE PREMIUM" tvg-id="TELECINE PREMIUM" tvg-logo="https://i.imgur.com/uVFgIr8.png" group-title="TELECINE",TELECINE PREMIUM FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18190
-#EXTINF:-1  tvg-name="TELECINE PREMIUM" tvg-id="TELECINE PREMIUM" tvg-logo="https://i.imgur.com/uVFgIr8.png" group-title="TELECINE",TELECINE PREMIUM FHD H265²
+#EXTINF:-1  tvg-name="TELECINE PREMIUM" tvg-id="TELECINE PREMIUM" tvg-logo="https://i.imgur.com/uVFgIr8.png" group-title="TELECINE",TELECINE PREMIUM FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34648
 #EXTINF:-1  tvg-name="TELECINE PREMIUM" tvg-id="TELECINE PREMIUM" tvg-logo="https://i.imgur.com/uVFgIr8.png" group-title="TELECINE",TELECINE PREMIUM HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18284
@@ -365,9 +365,9 @@ http://brqnt.pro:2082/amadeu97863/amad97637/18284
 http://brqnt.pro:2082/amadeu97863/amad97637/35008
 #EXTINF:-1  tvg-name="TELECINE TOUCH" tvg-id="TELECINE TOUCH" tvg-logo="https://i.imgur.com/Nky0hRo.png" group-title="TELECINE",TELECINE TOUCH FHD DUAL AUDIO
 http://brqnt.pro:2082/amadeu97863/amad97637/213287
-#EXTINF:-1  tvg-name="TELECINE TOUCH" tvg-id="TELECINE TOUCH" tvg-logo="https://i.imgur.com/Nky0hRo.png" group-title="TELECINE",TELECINE TOUCH FHD H265¹
+#EXTINF:-1  tvg-name="TELECINE TOUCH" tvg-id="TELECINE TOUCH" tvg-logo="https://i.imgur.com/Nky0hRo.png" group-title="TELECINE",TELECINE TOUCH FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18191
-#EXTINF:-1  tvg-name="TELECINE TOUCH" tvg-id="TELECINE TOUCH" tvg-logo="https://i.imgur.com/Nky0hRo.png" group-title="TELECINE",TELECINE TOUCH FHD H265²
+#EXTINF:-1  tvg-name="TELECINE TOUCH" tvg-id="TELECINE TOUCH" tvg-logo="https://i.imgur.com/Nky0hRo.png" group-title="TELECINE",TELECINE TOUCH FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34647
 #EXTINF:-1  tvg-name="TELECINE TOUCH" tvg-id="TELECINE TOUCH" tvg-logo="https://i.imgur.com/Nky0hRo.png" group-title="TELECINE",TELECINE TOUCH HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18285
@@ -375,7 +375,7 @@ http://brqnt.pro:2082/amadeu97863/amad97637/18285
 http://brqnt.pro:2082/amadeu97863/amad97637/35009
 #EXTINF:-1  tvg-name="TLC" tvg-id="TLC " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="VARIEDADES",TLC FHD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/560454
-#EXTINF:-1  tvg-name="TLC" tvg-id="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="VARIEDADES",TLC FHD²
+#EXTINF:-1  tvg-name="TLC" tvg-id="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="VARIEDADES",TLC
 http://brqnt.pro:2082/amadeu97863/amad97637/560455
 #EXTINF:-1  tvg-name="TLC" tvg-id="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="VARIEDADES",TLC FHD³
 http://brqnt.pro:2082/amadeu97863/amad97637/560456
@@ -385,9 +385,9 @@ http://brqnt.pro:2082/amadeu97863/amad97637/18286
 http://brqnt.pro:2082/amadeu97863/amad97637/35010
 #EXTINF:-1  tvg-name="TNT" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="FILMES E SÉRIES",TNT 4K
 http://brqnt.pro:2082/amadeu97863/amad97637/173763
-#EXTINF:-1  tvg-name="TNT" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="FILMES E SÉRIES",TNT FHD H265¹
+#EXTINF:-1  tvg-name="TNT" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="FILMES E SÉRIES",TNT FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18193
-#EXTINF:-1  tvg-name="TNT" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="FILMES E SÉRIES",TNT FHD H265²
+#EXTINF:-1  tvg-name="TNT" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="FILMES E SÉRIES",TNT FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34645
 #EXTINF:-1  tvg-name="TNT" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="FILMES E SÉRIES",TNT FHD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/176100
@@ -397,9 +397,9 @@ http://brqnt.pro:2082/amadeu97863/amad97637/18287
 http://brqnt.pro:2082/amadeu97863/amad97637/35011
 #EXTINF:-1  tvg-name="TNT SÉRIES" tvg-id="TNT SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="FILMES E SÉRIES",TNT SERIES 4K
 http://brqnt.pro:2082/amadeu97863/amad97637/173764
-#EXTINF:-1  tvg-name="TNT SÉRIES" tvg-id="TNT SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="FILMES E SÉRIES",TNT SERIES FHD H265¹
+#EXTINF:-1  tvg-name="TNT SÉRIES" tvg-id="TNT SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="FILMES E SÉRIES",TNT SERIES FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/188596
-#EXTINF:-1  tvg-name="TNT SÉRIES" tvg-id="TNT SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="FILMES E SÉRIES",TNT SERIES FHD H265²
+#EXTINF:-1  tvg-name="TNT SÉRIES" tvg-id="TNT SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="FILMES E SÉRIES",TNT SERIES FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34644
 #EXTINF:-1  tvg-name="TNT SÉRIES" tvg-id="TNT SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="FILMES E SÉRIES",TNT SERIES HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18288
@@ -407,17 +407,17 @@ http://brqnt.pro:2082/amadeu97863/amad97637/18288
 http://brqnt.pro:2082/amadeu97863/amad97637/35012
 #EXTINF:-1  tvg-name="UNIVERSAL CHANNEL" tvg-id="UNIVERSAL CHANNEL" tvg-logo="https://i.imgur.com/Jt0B1Ac.png" group-title="FILMES E SÉRIES",UNIVERSAL CHANNEL 4K
 http://brqnt.pro:2082/amadeu97863/amad97637/177036
-#EXTINF:-1  tvg-name="UNIVERSAL CHANNEL" tvg-id="UNIVERSAL CHANNEL" tvg-logo="https://i.imgur.com/Jt0B1Ac.png" group-title="FILMES E SÉRIES",UNIVERSAL CHANNEL FHD H265¹
+#EXTINF:-1  tvg-name="UNIVERSAL CHANNEL" tvg-id="UNIVERSAL CHANNEL" tvg-logo="https://i.imgur.com/Jt0B1Ac.png" group-title="FILMES E SÉRIES",UNIVERSAL CHANNEL FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18198
-#EXTINF:-1  tvg-name="UNIVERSAL CHANNEL" tvg-id="UNIVERSAL CHANNEL" tvg-logo="https://i.imgur.com/Jt0B1Ac.png" group-title="FILMES E SÉRIES",UNIVERSAL CHANNEL FHD H265²
+#EXTINF:-1  tvg-name="UNIVERSAL CHANNEL" tvg-id="UNIVERSAL CHANNEL" tvg-logo="https://i.imgur.com/Jt0B1Ac.png" group-title="FILMES E SÉRIES",UNIVERSAL CHANNEL FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34643
 #EXTINF:-1  tvg-name="UNIVERSAL CHANNEL" tvg-id="UNIVERSAL CHANNEL" tvg-logo="https://i.imgur.com/Jt0B1Ac.png" group-title="FILMES E SÉRIES",UNIVERSAL CHANNEL HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18293
 #EXTINF:-1  tvg-name="UNIVERSAL CHANNEL" tvg-id="UNIVERSAL CHANNEL" tvg-logo="https://i.imgur.com/Jt0B1Ac.png" group-title="FILMES E SÉRIES",UNIVERSAL CHANNEL HD²
 http://brqnt.pro:2082/amadeu97863/amad97637/38780
-#EXTINF:-1  tvg-name="WARNER CHANNEL" tvg-id="WARNER CHANNEL" tvg-logo="https://i.imgur.com/t6GQq2p.png" group-title="FILMES E SÉRIES",WARNER CHANNEL FHD H265¹
+#EXTINF:-1  tvg-name="WARNER CHANNEL" tvg-id="WARNER CHANNEL" tvg-logo="https://i.imgur.com/t6GQq2p.png" group-title="FILMES E SÉRIES",WARNER CHANNEL FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/18200
-#EXTINF:-1  tvg-name="WARNER CHANNEL" tvg-id="WARNER CHANNEL" tvg-logo="https://i.imgur.com/t6GQq2p.png" group-title="FILMES E SÉRIES",WARNER CHANNEL FHD H265²
+#EXTINF:-1  tvg-name="WARNER CHANNEL" tvg-id="WARNER CHANNEL" tvg-logo="https://i.imgur.com/t6GQq2p.png" group-title="FILMES E SÉRIES",WARNER CHANNEL FHD 
 http://brqnt.pro:2082/amadeu97863/amad97637/34642
 #EXTINF:-1  tvg-name="WARNER CHANNEL" tvg-id="WARNER CHANNEL" tvg-logo="https://i.imgur.com/t6GQq2p.png" group-title="FILMES E SÉRIES",WARNER CHANNEL HD¹
 http://brqnt.pro:2082/amadeu97863/amad97637/18296
