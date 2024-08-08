@@ -1,3 +1,7 @@
+
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="Canais | NOTÍCIAS",CNN BRASIL
+https://d25usgadhphvwi.cloudfront.net/hls/stv_plus_640x360/playlist.m3u8
+
 #EXTM3U
 #EXTINF:-1  tvg-name="GLOBONEWS" tvg-id="GLOBO NEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News HD
 https://abc.embedmax.site/globonews/tracks-v1a1/mono.m3u8
