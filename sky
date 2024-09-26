@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Disc. Home & Health HD" tvg-name="Disc. Home & Health HD" tvg-logo="https://imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Disc. Home & Health  HD
+https://cdn-5.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+
 #EXTINF:-1  tvg-name="" tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/178
 #EXTINF:-1  tvg-name="" tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
