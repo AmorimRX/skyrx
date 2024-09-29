@@ -1,139 +1,143 @@
-#EXTM3U url-tvg="https://cr7v.short.gy/MeuInsta@mano_limah" 
-#EXTINF:-1  tvg-name="RedeTV!" tvg-id="RedeTV!" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",RedeTV! PR HD
-https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="Canais | COMÉDIA",The Pet Collective
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/2F9asSD.png " group-title="Canais | VARIEDADES",TLC HD
-https://cdn-5.nxplay.com.br/TLC_BR_NX/index.m3u8 
-#EXTINF:-1  tvg-name="SPACE" tvg-id="SPACE" tvg-logo=" https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD
-https://cdn-5.nxplay.com.br/SPACE_TK/index.m3u8 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV HD
-https://cdn-5.nxplay.com.br/HGTV_BR_NX/index.m3u8 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/gLqV8bf.png" group-title="",Film & Arts HD
-https://cdn-5.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur .com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD
-https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8 
-#EXTINF:-1  tvg-name="ID" tvg-id="" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID HD
-https://cdn-5.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8 
+#EXTM3U
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/WjWjQ2A.png" group-title="Canais | ABERTO",Agro Brasil
+https://server.flixtv.com.br /agrobrasiltv/agrobrasiltv/playlist.m3u8 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/ebNRqmy.png" group-title="Canais | ABERTO",Agro Canal
+https://aovivo.equipea.com.br:5443/WebRTCAppEE/ streams/550918304441506960454875.m3u8 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="Canais | ABERTO",AgroMais HD
+https://cdn-2.nxplay.com.br/AGROMAIS_HD_TK/tracks-v1a1/mono.m3u8 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="",AgroMais HD [Alterar]
+http://187.95.95.243/AgroMais-HD/video.m3u8 
+#EXTINF:-1  tvg-name="AMC BRASIL" tvg-id="AMC BRASIL" tvg-logo="" group-title="Canais | FILMES E SERIES",AMC FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/229 
+#EXTINF:-1  tvg-name="AMC BRASIL" tvg-id="AMC BRASIL" tvg-logo="" group-title="Canais | FILMES E SERIES",AMC HD
+https://cdn-5.nxplay.com.br/AMC_BRASIL_TK/index.m3u8 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/t97qwNh.png" group-title=" Canais | VARIEDADES",Animal Planet HD
+https://cdn-5.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8 
+#EXTINF:-1  tvg-name="AXN" tvg-id="AXN" tvg-logo="https ://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN HD
+https://cdn-5.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8 
+#EXTINF:-1  tvg-name="BAND SPORTS" tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD
+https://cdn-5.nxplay.com.br/BAND_SPORTS/tracks-v2a1/mono.m3u8 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/isJAvqM.png" group-title="Canais | ABERTO",Canal do Boi
+https://aovivo. equipea.com.br:5443/WebRTCAppEE/streams/662566507635863535910662.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Canal Universal HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/319 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD
+https://cdn-5.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8 
+#EXTINF:-1  tvg-name="CINEMAX" tvg-id="CINEMAX" tvg-logo="https://imgur.com /v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX FHD
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43 
+#EXTINF:-1  tvg-name="CINEMAX" tvg-id="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="",CINEMAX HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/240 
+#EXTINF:-1  tvg-name="" tvg-id="COMEDY CENTRAL" tvg-logo="https:// imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central FHD
+http://186.226.215.132:80/carlos123/carlos123/502 
+#EXTINF:-1  tvg-name="" tvg-id="COMEDY CENTRAL" tvg-logo="https://imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central HD [Alterar]
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/98 
 #EXTINF:-1  tvg-name="Disc. Casa e Saúde HD" tvg-id="Disc. Casa e Saúde HD" tvg-logo="https://imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Disc. Casa e Saúde HD
 https://cdn-5.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/dgGgYjc .png" group-title="Canais | VARIEDADES",Discovery Channel HD
 https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD
-https://cdn-5.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8 
-#EXTINF:-1  tvg-name="BAND SPORTS" tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD
-https://cdn-5.nxplay.com.br/BAND_SPORTS/tracks-v2a1/mono.m3u8 
-#EXTINF:-1  tvg-name="AXN" tvg-id="AXN" tvg-logo="https ://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN HD
-https://cdn-5.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/4QWoV1Z.png" group-title="Canais | VARIEDADES",ARTE 1
-https://cdn-5.nxplay.com.br/ARTE1_TK/index.m3u8 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/t97qwNh.png" group-title=" Canais | VARIEDADES",Animal Planet HD
-https://cdn-5.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8 
-#EXTINF:-1  tvg-name="AMC BRASIL" tvg-id="AMC BRASIL" tvg-logo="" group-title="Canais | FILMES E SERIES",AMC HD
-https://cdn-5.nxplay.com.br/AMC_BRASIL_TK/index.m3u8 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur .com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD
+https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8 
+#EXTINF:-1  tvg-name="Disney Channel" tvg-id="" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais | FILMES E SERIES",Disney Channel FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/351 
+#EXTINF:-1  tvg-name="Disney Channel" tvg-id="" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais | FILMES E SERIES",Disney Channel HD
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3 
+#EXTINF:-1  tvg-name="Disney Channel" tvg-id="" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais | FILMES E SERIES",Disney Channel HD [Alterar]
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/352 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/yGT50Kk.png" group-title="Canais | VARIEDADES",E! HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/103 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/zkifc9i.png" group-title="Canais | COMÉDIA",FailArmy
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef23-629b-11eb- 86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=desconhecido&includeExtendedEvents=false&sid=06a388de-3b13-4ca7-8144-9c9d538f436c&userId=&serverSideAds=true 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/gLqV8bf.png" group-title="",Film & Arts HD
+https://cdn-5.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8 
+#EXTINF:-1  tvg-name="" tvg-id="GNT" tvg-logo="https://imgur.com/8RDEcE9.png" group-title="",GNT HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/107 
+#EXTINF:-1  tvg-name="HBO2" tvg-id="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SÉRIES",HBO 2 FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/248 
+#EXTINF:-1  tvg-name="" tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/253 
+#EXTINF:-1  tvg-name="HBO" tvg-id="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/255 
+#EXTINF:-1  tvg-name="ASSINATURA HBO" tvg-id="ASSINATURA HBO" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/262 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/289 
+#EXTINF:-1  tvg-name="HBO+" tvg-id="HBO+" tvg-logo=" https://imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/245 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV HD
+https://cdn-5.nxplay.com.br/HGTV_BR_NX/index.m3u8 
+#EXTINF:-1  tvg-name="ID" tvg-id="" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID HD
+https://cdn-5.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8 
+#EXTINF:-1  tvg-name="MEGAPIX" tvg-id="MEGAPIX" tvg-logo="" group-title="Canais | FILMES E SERIES",MEGAPIX FHD
+http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/12.m3u8 
+#EXTINF:-1  tvg-name="MEGAPIX" tvg-id="MEGAPIX" tvg-logo="https: //imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD [Alterar]
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/998 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/422 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/WTCdLuw. png" group-title="Canais | VARIEDADES",MTV HD
+http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/13.m3u8 
+#EXTINF:-1  tvg-name="MULTISHOW" tvg-id="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk .png" group-title="Canais | VARIEDADES",Multishow FHD
+http://78.159.104.203:2052/JgfgjjbcfyyDFD/678888yygfFFD/24 
+#EXTINF:-1  tvg-name="MULTISHOW" tvg-id="MULTISHOW" tvg-logo="https ://imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD
+http://216.230.233.87:80/m3u8/multishow.m3u8
+#EXTINF:-1  tvg-name="MULTISHOW" tvg-id="MULTISHOW" tvg-logo="https:/ /imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD [Alterar]
+http://dzcdn.vood.top:80/hls/377243_.m3u8 
+#EXTINF:-1  tvg-name="PARAMOUNT" tvg-id="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Network FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/276 
+#EXTINF:-1  tvg-name="" tvg-id="Prime Box Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Canais | VARIEDADES",Prime Box HD
+http://cdn-5.nxplay.com.br/PRIME_HD/index.m3u8 
 #EXTINF:-1  tvg-name="RedeTV!" tvg-id="RedeTV!" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",RedeTV!
 https://cdn2.easy.tv.br/redetv/index.m3u8 
 #EXTINF:-1  tvg-name="" tvg-id="RedeTV!" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Canais | ABERTO",RedeTV!
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/zkifc9i.png" group-title="Canais | COMÉDIA",FailArmy
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef23-629b-11eb- 86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=desconhecido&includeExtendedEvents=false&sid=06a388de-3b13-4ca7-8144-9c9d538f436c&userId=&serverSideAds=true 
-#EXTINF:-1  tvg-name="CINEMAX" tvg-id="CINEMAX" tvg-logo="https://imgur.com /v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX FHD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43 
-#EXTINF:-1  tvg-name="Disney Channel" tvg-id="" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais | FILMES E SERIES",Disney Channel HD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3 
-#EXTINF:-1  tvg-name="WARNER CHANNEL" tvg-id="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel HD [Alterar]
-http://gzcdn.vood.top:80/hls/749_.m3u8 
-#EXTINF:-1  tvg-name="MULTISHOW" tvg-id="MULTISHOW" tvg-logo="https:/ /imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD [Alterar]
-http://dzcdn.vood.top:80/hls/377243_.m3u8 
-#EXTINF:-1  tvg-name="TNT" tvg-id="TNT" tvg-logo="https ://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SÉRIES",TNT UHD
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/9.m3u8 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/WTCdLuw. png" group-title="Canais | VARIEDADES",MTV HD
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/13.m3u8 
-#EXTINF:-1  tvg-name="MEGAPIX" tvg-id="MEGAPIX" tvg-logo="" group-title="Canais | FILMES E SERIES",MEGAPIX FHD
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/12.m3u8 
-#EXTINF:-1  tvg-name="TELECINE PREMIUM" tvg-id="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium HD
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/11.m3u8 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com /cPTZMTo.png" group-title="Canais | FILMES E SÉRIE",Telecine Pipoca HD
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/10.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="Prime Box Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Canais | VARIEDADES",Prime Box HD
-http://cdn-5.nxplay.com.br/PRIME_HD/index.m3u8 
-#EXTINF:-1  tvg-name="MEGAPIX" tvg-id="MEGAPIX" tvg-logo="https: //imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD [Alterar]
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/998 
-#EXTINF:-1  tvg-name="" tvg-id="COMEDY CENTRAL" tvg-logo="https://imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central HD [Alterar]
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/98 
-#EXTINF:-1  tvg-name="CANAL WARNER" tvg-id="WARNER CANAL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel 4k
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/783 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/422 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="Canais | INFANTIL",Nick jr. HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/364
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur. com/sRw3v0a.png" group-title="Canais | INFANTIL",GLOOBINHO HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/360 
-#EXTINF:-1  tvg-name="Disney Channel" tvg-id="" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais | FILMES E SERIES",Disney Channel HD [Alterar]
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/352 
-#EXTINF:-1  tvg-name="Disney Channel" tvg-id="" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais | FILMES E SERIES",Disney Channel FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/351 
-#EXTINF:-1  tvg-name="WARNER CHANNEL" tvg-id="WARNER CHANNEL" tvg-logo="https ://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/320 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Canal Universal HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/319 
-#EXTINF:-1  tvg-name="TNT" tvg-id="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/313 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/310 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/301 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="",Telecine Cult FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/298 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/295 
-#EXTINF:-1  tvg-name="" tvg-id="TBS HD" tvg-logo="https://imgur.com/xnGAZOr.png " group-title="Canais | VARIEDADES",TBS HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/291 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/289 
-#EXTINF:-1  tvg-name="STAR CHANNEL" tvg-id="STAR CHANNEL" tvg-logo="" group-title="Canais | FILMES E SERIES",STAR CHANNEL HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/282 
-#EXTINF:-1  tvg-name="STAR CHANNEL" tvg-id="STAR CHANNEL" tvg-logo="" group-title="Canais | FILMES E SÉRIES",STAR CHANNEL HDR
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/281 
-#EXTINF:-1  tvg-name="PARAMOUNT" tvg-id="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Network FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/276 
-#EXTINF:-1  tvg-name="ASSINATURA HBO" tvg-id="ASSINATURA HBO" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/262 
-#EXTINF:-1  tvg-name="HBO" tvg-id="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/255 
-#EXTINF:-1  tvg-name="" tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/253 
-#EXTINF:-1  tvg-name="HBO2" tvg-id="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SÉRIES",HBO 2 FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/248 
-#EXTINF:-1  tvg-name="HBO+" tvg-id="HBO+" tvg-logo=" https://imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/245 
-#EXTINF:-1  tvg-name="CINEMAX" tvg-id="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="",CINEMAX HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/240 
-#EXTINF:-1  tvg-name="AMC BRASIL" tvg-id="AMC BRASIL" tvg-logo="" group-title="Canais | FILMES E SERIES",AMC FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/229 
-#EXTINF:-1  tvg-name="" tvg-id="GNT" tvg-logo="https://imgur.com/8RDEcE9.png" group-title="",GNT HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/107 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/yGT50Kk.png" group-title="Canais | VARIEDADES",E! HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/103 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/vH2tkQt .png" group-title="Canais | FILMES E SERIES",TNT Séries HD [Alterar]
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1004 
-#EXTINF:-1  tvg-name="TNT" tvg-id="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="",TNT HD [Ater]
-http://78.159.104.203:2052/JgfgjjbcfyyDFD/678888yygfFFD/35 
-#EXTINF:-1  tvg-name="MULTISHOW" tvg-id="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk .png" group-title="Canais | VARIEDADES",Multishow FHD
-http://78.159.104.203:2052/JgfgjjbcfyyDFD/678888yygfFFD/24 
+#EXTINF:-1  tvg-name="RedeTV!" tvg-id="RedeTV!" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",RedeTV! PR HD
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV 
+#EXTINF:-1  tvg-name="SPACE" tvg-id="SPACE" tvg-logo=" https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD
+https://cdn-5.nxplay.com.br/SPACE_TK/index.m3u8 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/t3GyT30.png" group-title="",Sport TV 1
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62071 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/t3GyT30.png " group-title="Canais | INTERNACIONAL",Sport TV 2
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62079 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/t3GyT30.png" group-title="Canais | INTERNACIONAL",Sport TV 3
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62076 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/t3GyT30.png" group-title=" Canais | INTERNACIONAL",Sport TV 4
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62074 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/t3GyT30.png" group-title="",Sport TV 1
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62071 
+#EXTINF:-1  tvg-name="STAR CHANNEL" tvg-id="STAR CHANNEL" tvg-logo="" group-title="Canais | FILMES E SERIES",STAR CHANNEL HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/282 
+#EXTINF:-1  tvg-name="STAR CHANNEL" tvg-id="STAR CHANNEL" tvg-logo="" group-title="Canais | FILMES E SÉRIES",STAR CHANNEL HDR
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/281 
+#EXTINF:-1  tvg-name="" tvg-id="TBS HD" tvg-logo="https://imgur.com/xnGAZOr.png " group-title="Canais | VARIEDADES",TBS HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/291 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/295 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="",Telecine Cult FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/298 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/301 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com /cPTZMTo.png" group-title="Canais | FILMES E SÉRIE",Telecine Pipoca HD
+http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/10.m3u8
+#EXTINF:-1  tvg-name="TELECINE PREMIUM" tvg-id="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium HD
+http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/11.m3u8 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/310 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/p7gJt8P.png" group-title="",TERRA VIVA HD
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="Canais | COMÉDIA",The Pet Collective
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/2F9asSD.png " group-title="Canais | VARIEDADES",TLC HD
+https://cdn-5.nxplay.com.br/TLC_BR_NX/index.m3u8 
+#EXTINF:-1  tvg-name="TNT" tvg-id="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/313 
+#EXTINF:-1  tvg-name="TNT" tvg-id="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="",TNT HD [Ater]
+http://78.159.104.203:2052/JgfgjjbcfyyDFD/678888yygfFFD/35 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/vH2tkQt .png" group-title="Canais | FILMES E SERIES",TNT Séries HD
 http://216.230.233.87:80/m3u8/tnt.m3u8 
-#EXTINF:-1  tvg-name="MULTISHOW" tvg-id="MULTISHOW" tvg-logo="https ://imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD
-http://216.230.233.87:80/m3u8/multishow.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="COMEDY CENTRAL" tvg-logo="https:// imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central FHD
-http://186.226.215.132:80/carlos123/carlos123/502 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="Canais | INFANTIL",Nick jr. HD
-http://186.226.215.132:80/carlos123/carlos123/500 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://imgur.com/vH2tkQt .png" group-title="Canais | FILMES E SERIES",TNT Séries HD [Alterar]
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1004 
+#EXTINF:-1  tvg-name="TNT" tvg-id="TNT" tvg-logo="https ://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SÉRIES",TNT UHD
+http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/9.m3u8 
+#EXTINF:-1  tvg-name="CANAL WARNER" tvg-id="WARNER CANAL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel 4k
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/783 
+#EXTINF:-1  tvg-name="WARNER CHANNEL" tvg-id="WARNER CHANNEL" tvg-logo="https ://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/320 
+#EXTINF:-1  tvg-name="WARNER CHANNEL" tvg-id="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel HD [Alterar]
+http://gzcdn.vood.top:80/hls/749_.m3u8 
