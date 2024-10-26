@@ -1,4 +1,25 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="Aquecimento A Fazenda " tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",Aquecimento A Fazenda 
+http://unividia.com:80/879083380/b350V7430w/397630
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 2 FHD" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 2 FHD
+http://unividia.com:80/879083380/b350V7430w/398918
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 2 HD " tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 2 HD 
+http://unividia.com:80/879083380/b350V7430w/397631
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 3 FHD" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 3 FHD
+http://unividia.com:80/879083380/b350V7430w/398919
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 3 HD" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 3 HD
+http://unividia.com:80/879083380/b350V7430w/397632
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 4 FHD" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 4 FHD
+http://unividia.com:80/879083380/b350V7430w/398920
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 4 HD " tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 4 HD 
+http://unividia.com:80/879083380/b350V7430w/397633
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 5 HD" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 5 HD
+http://unividia.com:80/879083380/b350V7430w/397634
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 6 FHD" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 6 FHD
+http://unividia.com:80/879083380/b350V7430w/398922
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 15 FHD" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 15 FHD
+http://unividia.com:80/879083380/b350V7430w/398926
+
 #EXTINF:-1  tvg-name="A&E FHD" tvg-id="Ae.br" tvg-logo="http://storage4you.net:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E FHD
 http://unividia.com:80/879083380/b350V7430w/666
 #EXTINF:-1  tvg-name="A&E HD" tvg-id="Ae.br" tvg-logo="http://storage4you.net:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E HD
