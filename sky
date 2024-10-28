@@ -1,579 +1,427 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="Aquecimento A Fazenda " tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",Aquecimento A Fazenda
-http://unividia.com:80/879083380/b350V7430w/397630
-#EXTINF:-1  tvg-name="A Fazenda 2 FHD" tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 2 FHD
-http://unividia.com:80/879083380/b350V7430w/398918
-#EXTINF:-1  tvg-name="A Fazenda 2 HD " tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 2 HD
-http://unividia.com:80/879083380/b350V7430w/397631
-#EXTINF:-1  tvg-name="A Fazenda 3 FHD" tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 3 FHD
-http://unividia.com:80/879083380/b350V7430w/398919
-#EXTINF:-1  tvg-name="A Fazenda 3 HD" tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 3 HD
-http://unividia.com:80/879083380/b350V7430w/397632
-#EXTINF:-1  tvg-name="A Fazenda 4 FHD" tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 4 FHD
-http://unividia.com:80/879083380/b350V7430w/398920
-#EXTINF:-1  tvg-name="A Fazenda 4 HD " tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 4 HD
-http://unividia.com:80/879083380/b350V7430w/397633
-#EXTINF:-1  tvg-name="A Fazenda 5 HD" tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 5 HD
-http://unividia.com:80/879083380/b350V7430w/397634
-#EXTINF:-1  tvg-name="A Fazenda 6 FHD" tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 6 FHD
-http://unividia.com:80/879083380/b350V7430w/398922
 #EXTINF:-1  tvg-name="A Fazenda 15 FHD" tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 15 FHD
-http://unividia.com:80/879083380/b350V7430w/398926
+http://uniplay.proxytv.in:80/375951418/9740705/398926
+#EXTINF:-1  tvg-name="A Fazenda 2 FHD" tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 2 FHD
+http://uniplay.proxytv.in:80/375951418/9740705/398918
+#EXTINF:-1  tvg-name="A Fazenda 2 HD " tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 2 HD
+http://uniplay.proxytv.in:80/375951418/9740705/397631
+#EXTINF:-1  tvg-name="A Fazenda 3 FHD" tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 3 FHD
+http://uniplay.proxytv.in:80/375951418/9740705/398919
+#EXTINF:-1  tvg-name="A Fazenda 3 HD" tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 3 HD
+http://uniplay.proxytv.in:80/375951418/9740705/397632
+#EXTINF:-1  tvg-name="A Fazenda 4 FHD" tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 4 FHD
+http://uniplay.proxytv.in:80/375951418/9740705/398920
+#EXTINF:-1  tvg-name="A Fazenda 4 HD " tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 4 HD
+http://uniplay.proxytv.in:80/375951418/9740705/397633
+#EXTINF:-1  tvg-name="A Fazenda 5 HD" tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 5 HD
+http://uniplay.proxytv.in:80/375951418/9740705/397634
+#EXTINF:-1  tvg-name="A Fazenda 6 FHD" tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 6 FHD
+http://uniplay.proxytv.in:80/375951418/9740705/398922
+#EXTINF:-1  tvg-name="Aquecimento A Fazenda " tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda Aquecimento
+http://uniplay.proxytv.in:80/375951418/9740705/397630
 #EXTINF:-1  tvg-name="A&E FHD" tvg-id="Ae.br" tvg-logo="http://storage4you.net:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E FHD
-http://unividia.com:80/879083380/b350V7430w/666
+http://uniplay.proxytv.in:80/375951418/9740705/666
 #EXTINF:-1  tvg-name="A&E HD" tvg-id="Ae.br" tvg-logo="http://storage4you.net:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E HD
-http://unividia.com:80/879083380/b350V7430w/664
+http://uniplay.proxytv.in:80/375951418/9740705/664
 #EXTINF:-1  tvg-name="A&E HD²" tvg-id="Ae.br" tvg-logo="http://storage4you.net:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E HD²
-http://unividia.com:80/879083380/b350V7430w/665
+http://uniplay.proxytv.in:80/375951418/9740705/665
 #EXTINF:-1  tvg-name="A&E UHD" tvg-id="Ae.br" tvg-logo="http://storage4you.net:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E UHD
-http://unividia.com:80/879083380/b350V7430w/21292
-#EXTINF:-1  tvg-name="AgroMais FHD" tvg-id="Agromais.br" tvg-logo="http://storage4you.net:2095/logoscanais/AGROMAIS.png" group-title="Canais | Noticias",AgroMais FHD
-http://unividia.com:80/879083380/b350V7430w/464
-#EXTINF:-1  tvg-name="AgroMais HD" tvg-id="Agromais.br" tvg-logo="http://storage4you.net:2095/logoscanais/AGROMAIS.png" group-title="Canais | Noticias",AgroMais HD
-http://unividia.com:80/879083380/b350V7430w/462
-#EXTINF:-1  tvg-name="AMC  4K " tvg-id="Amc.br" tvg-logo="http://storage4you.net:2095/logoscanais/AMC.png" group-title="Canais | 4K",AMC  4K
-http://unividia.com:80/879083380/b350V7430w/284602
+http://uniplay.proxytv.in:80/375951418/9740705/21292
 #EXTINF:-1  tvg-name="AMC FHD" tvg-id="Amc.br" tvg-logo="http://storage4you.net:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC FHD
-http://unividia.com:80/879083380/b350V7430w/671
+http://uniplay.proxytv.in:80/375951418/9740705/671
 #EXTINF:-1  tvg-name="AMC HD" tvg-id="Amc.br" tvg-logo="http://storage4you.net:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC HD
-http://unividia.com:80/879083380/b350V7430w/669
+http://uniplay.proxytv.in:80/375951418/9740705/669
 #EXTINF:-1  tvg-name="AMC HD²" tvg-id="Amc.br" tvg-logo="http://storage4you.net:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC HD²
-http://unividia.com:80/879083380/b350V7430w/670
+http://uniplay.proxytv.in:80/375951418/9740705/670
 #EXTINF:-1  tvg-name="AMC UHD" tvg-id="Amc.br" tvg-logo="http://storage4you.net:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC UHD
-http://unividia.com:80/879083380/b350V7430w/59171
-#EXTINF:-1  tvg-name="Animal Planet 4K " tvg-id="Animalplanet.br" tvg-logo="http://storage4you.net:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | 4K",Animal Planet 4K
-http://unividia.com:80/879083380/b350V7430w/284607
+http://uniplay.proxytv.in:80/375951418/9740705/59171
 #EXTINF:-1  tvg-name="Animal Planet FHD" tvg-id="Animalplanet.br" tvg-logo="http://storage4you.net:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet FHD
-http://unividia.com:80/879083380/b350V7430w/2602
+http://uniplay.proxytv.in:80/375951418/9740705/2602
 #EXTINF:-1  tvg-name="Animal Planet H265" tvg-id="Animalplanet.br" tvg-logo="http://storage4you.net:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet H265
-http://unividia.com:80/879083380/b350V7430w/141261
+http://uniplay.proxytv.in:80/375951418/9740705/141261
 #EXTINF:-1  tvg-name="Animal Planet HD" tvg-id="Animalplanet.br" tvg-logo="http://storage4you.net:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet HD
-http://unividia.com:80/879083380/b350V7430w/365234
+http://uniplay.proxytv.in:80/375951418/9740705/365234
 #EXTINF:-1  tvg-name="Animal Planet HD²" tvg-id="Animalplanet.br" tvg-logo="http://storage4you.net:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet HD²
-http://unividia.com:80/879083380/b350V7430w/2601
+http://uniplay.proxytv.in:80/375951418/9740705/2601
 #EXTINF:-1  tvg-name="Animal Planet UHD" tvg-id="Animalplanet.br" tvg-logo="http://storage4you.net:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet UHD
-http://unividia.com:80/879083380/b350V7430w/22305
-#EXTINF:-1  tvg-name="AXN 4K" tvg-id="Axn.br" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png" group-title="Canais | 4K",AXN 4K
-http://unividia.com:80/879083380/b350V7430w/284601
+http://uniplay.proxytv.in:80/375951418/9740705/22305
 #EXTINF:-1  tvg-name="AXN FHD" tvg-id="Axn.br" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN FHD
-http://unividia.com:80/879083380/b350V7430w/676
-#EXTINF:-1  tvg-name="AXN FHD [LEG ]" tvg-id="Axn.br" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png" group-title="Canais | Legendados",AXN FHD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118892
+http://uniplay.proxytv.in:80/375951418/9740705/676
 #EXTINF:-1  tvg-name="AXN HD" tvg-id="Axn.br" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN HD
-http://unividia.com:80/879083380/b350V7430w/674
-#EXTINF:-1  tvg-name="AXN HD [LEG ]" tvg-id="Axn.br" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png" group-title="Canais | Legendados",AXN HD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118891
+http://uniplay.proxytv.in:80/375951418/9740705/674
 #EXTINF:-1  tvg-name="AXN HD²" tvg-id="Axn.br" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN HD²
-http://unividia.com:80/879083380/b350V7430w/675
+http://uniplay.proxytv.in:80/375951418/9740705/675
 #EXTINF:-1  tvg-name="AXN UHD" tvg-id="Axn.br" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN UHD
-http://unividia.com:80/879083380/b350V7430w/21223
-#EXTINF:-1  tvg-name="Band News FHD" tvg-id="Bandnews.br" tvg-logo="http://storage4you.net:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News FHD
-http://unividia.com:80/879083380/b350V7430w/469
-#EXTINF:-1  tvg-name="Band News FHD²" tvg-id="Bandnews.br" tvg-logo="http://storage4you.net:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News FHD²
-http://unividia.com:80/879083380/b350V7430w/118883
-#EXTINF:-1  tvg-name="Band News HD" tvg-id="Bandnews.br" tvg-logo="http://storage4you.net:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News HD
-http://unividia.com:80/879083380/b350V7430w/467
-#EXTINF:-1  tvg-name="Band News HD²" tvg-id="Bandnews.br" tvg-logo="http://storage4you.net:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News HD²
-http://unividia.com:80/879083380/b350V7430w/468
-#EXTINF:-1  tvg-name="Band News UHD" tvg-id="Bandnews.br" tvg-logo="http://storage4you.net:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News UHD
-http://unividia.com:80/879083380/b350V7430w/21224
-#EXTINF:-1  tvg-name="BAND SP 4K " tvg-id="Boxkids.br" tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title="Canais | 4K",BAND SP 4K
-http://unividia.com:80/879083380/b350V7430w/284590
-#EXTINF:-1  tvg-name="Band SP FHD" tvg-id="Bandsp.br" tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band SP FHD
-http://unividia.com:80/879083380/b350V7430w/255465
-#EXTINF:-1  tvg-name="Band SP HD" tvg-id="Bandsp.br" tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band SP HD
-http://unividia.com:80/879083380/b350V7430w/255467
-#EXTINF:-1  tvg-name="Band SP HD²" tvg-id="Bandsp.br" tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band SP HD²
-http://unividia.com:80/879083380/b350V7430w/255468
-#EXTINF:-1  tvg-name="Band SP UHD" tvg-id="Bandsp.br" tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band SP UHD
-http://unividia.com:80/879083380/b350V7430w/255466
+http://uniplay.proxytv.in:80/375951418/9740705/21223
 #EXTINF:-1  tvg-name="Band Sports 4K UHD" tvg-id="Bandsports.br" tvg-logo="http://storage4you.net:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports 4K UHD
-http://unividia.com:80/879083380/b350V7430w/234278
+http://uniplay.proxytv.in:80/375951418/9740705/234278
 #EXTINF:-1  tvg-name="Band Sports FHD" tvg-id="Bandsports.br" tvg-logo="http://storage4you.net:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports FHD
-http://unividia.com:80/879083380/b350V7430w/235
+http://uniplay.proxytv.in:80/375951418/9740705/235
 #EXTINF:-1  tvg-name="Band Sports H265" tvg-id="Bandsports.br" tvg-logo="http://storage4you.net:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports H265
-http://unividia.com:80/879083380/b350V7430w/118755
+http://uniplay.proxytv.in:80/375951418/9740705/118755
 #EXTINF:-1  tvg-name="Band Sports HD" tvg-id="Bandsports.br" tvg-logo="http://storage4you.net:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports HD
-http://unividia.com:80/879083380/b350V7430w/233
+http://uniplay.proxytv.in:80/375951418/9740705/233
 #EXTINF:-1  tvg-name="Band Sports HD²" tvg-id="Bandsports.br" tvg-logo="http://storage4you.net:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports HD²
-http://unividia.com:80/879083380/b350V7430w/234
+http://uniplay.proxytv.in:80/375951418/9740705/234
 #EXTINF:-1  tvg-name="Band Sports HD²." tvg-id="Bandsports.br" tvg-logo="http://storage4you.net:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports HD².
-http://unividia.com:80/879083380/b350V7430w/244203
+http://uniplay.proxytv.in:80/375951418/9740705/244203
 #EXTINF:-1  tvg-name="Band Sports UHD" tvg-id="Bandsports.br" tvg-logo="http://storage4you.net:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports UHD
-http://unividia.com:80/879083380/b350V7430w/21225
-#EXTINF:-1  tvg-name="Canal Brasil FHD" tvg-id="Canalbrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="Canais | Filmes & Series",Canal Brasil FHD
-http://unividia.com:80/879083380/b350V7430w/146
-#EXTINF:-1  tvg-name="Canal Brasil HD" tvg-id="Canalbrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="Canais | Filmes & Series",Canal Brasil HD
-http://unividia.com:80/879083380/b350V7430w/145
-#EXTINF:-1  tvg-name="Canal Rural FHD" tvg-id="Canalrural.br" tvg-logo="http://storage4you.net:2095/logoscanais/CANALRURAL.png" group-title="Canais |  Abertos",Canal Rural FHD
-http://unividia.com:80/879083380/b350V7430w/364662
-#EXTINF:-1  tvg-name="Canal Rural HD" tvg-id="Canalrural.br" tvg-logo="http://storage4you.net:2095/logoscanais/CANALRURAL.png" group-title="Canais |  Abertos",Canal Rural HD
-http://unividia.com:80/879083380/b350V7430w/84036
-#EXTINF:-1  tvg-name="Canal Rural HD²" tvg-id="Canalrural.br" tvg-logo="http://storage4you.net:2095/logoscanais/CANALRURAL.png" group-title="Canais |  Abertos",Canal Rural HD²
-http://unividia.com:80/879083380/b350V7430w/364673
-#EXTINF:-1  tvg-name="Canal Rural UHD" tvg-id="Canalrural.br" tvg-logo="http://storage4you.net:2095/logoscanais/CANALRURAL.png" group-title="Canais |  Abertos",Canal Rural UHD
-http://unividia.com:80/879083380/b350V7430w/364672
+http://uniplay.proxytv.in:80/375951418/9740705/21225
 #EXTINF:-1  tvg-name="Canal Sony FHD" tvg-id="Sony.br" tvg-logo="http://storage4you.net:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony FHD
-http://unividia.com:80/879083380/b350V7430w/702
+http://uniplay.proxytv.in:80/375951418/9740705/702
 #EXTINF:-1  tvg-name="Canal Sony HD" tvg-id="Sony.br" tvg-logo="http://storage4you.net:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony HD
-http://unividia.com:80/879083380/b350V7430w/700
+http://uniplay.proxytv.in:80/375951418/9740705/700
 #EXTINF:-1  tvg-name="Canal Sony HD²" tvg-id="Sony.br" tvg-logo="http://storage4you.net:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony HD²
-http://unividia.com:80/879083380/b350V7430w/701
+http://uniplay.proxytv.in:80/375951418/9740705/701
 #EXTINF:-1  tvg-name="Canal Sony UHD" tvg-id="Sony.br" tvg-logo="http://storage4you.net:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony UHD
-http://unividia.com:80/879083380/b350V7430w/21229
-#EXTINF:-1  tvg-name="Cinemax FHD" tvg-id="Cinemax.br" tvg-logo="http://storage4you.net:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax FHD
-http://unividia.com:80/879083380/b350V7430w/682
-#EXTINF:-1  tvg-name="Cinemax HD" tvg-id="Cinemax.br" tvg-logo="http://storage4you.net:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax HD
-http://unividia.com:80/879083380/b350V7430w/680
-#EXTINF:-1  tvg-name="Cinemax HD²" tvg-id="Cinemax.br" tvg-logo="http://storage4you.net:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax HD²
-http://unividia.com:80/879083380/b350V7430w/681
-#EXTINF:-1  tvg-name="Cinemax UHD" tvg-id="Cinemax.br" tvg-logo="http://storage4you.net:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax UHD
-http://unividia.com:80/879083380/b350V7430w/21231
-#EXTINF:-1  tvg-name="CNN Brasil 4K " tvg-id="Cnn.br" tvg-logo="http://storage4you.net:2095/logoscanais/CNNBRASIL.png" group-title="Canais | 4K",CNN Brasil 4K
-http://unividia.com:80/879083380/b350V7430w/284591
-#EXTINF:-1  tvg-name="CNN Brasil FHD" tvg-id="Cnn.br" tvg-logo="http://storage4you.net:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil FHD
-http://unividia.com:80/879083380/b350V7430w/474
-#EXTINF:-1  tvg-name="CNN Brasil FHD²" tvg-id="Cnn.br" tvg-logo="http://storage4you.net:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil FHD²
-http://unividia.com:80/879083380/b350V7430w/118884
-#EXTINF:-1  tvg-name="CNN Brasil HD" tvg-id="Cnn.br" tvg-logo="http://storage4you.net:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil HD
-http://unividia.com:80/879083380/b350V7430w/472
-#EXTINF:-1  tvg-name="CNN Brasil HD²" tvg-id="Cnn.br" tvg-logo="http://storage4you.net:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil HD²
-http://unividia.com:80/879083380/b350V7430w/380909
-#EXTINF:-1  tvg-name="CNN Brasil UHD" tvg-id="Cnn.br" tvg-logo="http://storage4you.net:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil UHD
-http://unividia.com:80/879083380/b350V7430w/21353
-#EXTINF:-1  tvg-name="CNN Internacional  HD" tvg-id="Cnnint.br" tvg-logo="http://storage4you.net:2095/logoscanais/CNNINTERNATIONAL.png" group-title="Canais | Noticias",CNN Internacional  HD
-http://unividia.com:80/879083380/b350V7430w/118886
-#EXTINF:-1  tvg-name="CNN Internacional SD" tvg-id="Cnnint.br" tvg-logo="http://storage4you.net:2095/logoscanais/CNNINTERNATIONAL.png" group-title="Canais | Noticias",CNN Internacional SD
-http://unividia.com:80/879083380/b350V7430w/118887
-#EXTINF:-1  tvg-name="Disc. Channe 4K " tvg-id="Discovery.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | 4K",Disc. Channe 4K
-http://unividia.com:80/879083380/b350V7430w/284605
+http://uniplay.proxytv.in:80/375951418/9740705/21229
 #EXTINF:-1  tvg-name="Disc. Channel FHD" tvg-id="Discovery.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel FHD
-http://unividia.com:80/879083380/b350V7430w/2577
+http://uniplay.proxytv.in:80/375951418/9740705/2577
 #EXTINF:-1  tvg-name="Disc. Channel HD" tvg-id="Discovery.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel HD
-http://unividia.com:80/879083380/b350V7430w/2575
+http://uniplay.proxytv.in:80/375951418/9740705/2575
 #EXTINF:-1  tvg-name="Disc. Channel HD²" tvg-id="Discovery.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel HD²
-http://unividia.com:80/879083380/b350V7430w/2576
+http://uniplay.proxytv.in:80/375951418/9740705/2576
 #EXTINF:-1  tvg-name="Disc. Channel UHD" tvg-id="Discovery.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel UHD
-http://unividia.com:80/879083380/b350V7430w/21338
-#EXTINF:-1  tvg-name="Disc. Home &  Health" tvg-id="Homehealth.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | 4K",Disc. Home &  Health
-http://unividia.com:80/879083380/b350V7430w/284615
-#EXTINF:-1  tvg-name="Disc. Home &  Health 4K " tvg-id="Homehealth.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | 4K",Disc. Home &  Health 4K
-http://unividia.com:80/879083380/b350V7430w/284604
+http://uniplay.proxytv.in:80/375951418/9740705/21338
 #EXTINF:-1  tvg-name="Disc. Home &  Health FHD" tvg-id="Boxkids.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health FHD
-http://unividia.com:80/879083380/b350V7430w/2572
+http://uniplay.proxytv.in:80/375951418/9740705/2572
 #EXTINF:-1  tvg-name="Disc. Home &  Health HD" tvg-id="Homehealth.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health HD
-http://unividia.com:80/879083380/b350V7430w/2570
+http://uniplay.proxytv.in:80/375951418/9740705/2570
 #EXTINF:-1  tvg-name="Disc. Home &  Health HD²" tvg-id="Homehealth.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health HD²
-http://unividia.com:80/879083380/b350V7430w/2571
+http://uniplay.proxytv.in:80/375951418/9740705/2571
 #EXTINF:-1  tvg-name="Disc. Home &  Health UHD" tvg-id="Homehealth.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health UHD
-http://unividia.com:80/879083380/b350V7430w/21295
+http://uniplay.proxytv.in:80/375951418/9740705/21295
 #EXTINF:-1  tvg-name="Disc. Science FHD" tvg-id="Discscience.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science FHD
-http://unividia.com:80/879083380/b350V7430w/2582
+http://uniplay.proxytv.in:80/375951418/9740705/2582
 #EXTINF:-1  tvg-name="Disc. Science HD" tvg-id="Discscience.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science HD
-http://unividia.com:80/879083380/b350V7430w/2580
+http://uniplay.proxytv.in:80/375951418/9740705/2580
 #EXTINF:-1  tvg-name="Disc. Science HD²" tvg-id="Discscience.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science HD²
-http://unividia.com:80/879083380/b350V7430w/2581
+http://uniplay.proxytv.in:80/375951418/9740705/2581
 #EXTINF:-1  tvg-name="Disc. Science UHD" tvg-id="Discscience.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science UHD
-http://unividia.com:80/879083380/b350V7430w/21297
+http://uniplay.proxytv.in:80/375951418/9740705/21297
 #EXTINF:-1  tvg-name="Disc. Theater FHD" tvg-id="Disctheater.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater FHD
-http://unividia.com:80/879083380/b350V7430w/2587
+http://uniplay.proxytv.in:80/375951418/9740705/2587
 #EXTINF:-1  tvg-name="Disc. Theater HD" tvg-id="Disctheater.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater HD
-http://unividia.com:80/879083380/b350V7430w/2585
+http://uniplay.proxytv.in:80/375951418/9740705/2585
 #EXTINF:-1  tvg-name="Disc. Theater HD²" tvg-id="Disctheater.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater HD²
-http://unividia.com:80/879083380/b350V7430w/2586
+http://uniplay.proxytv.in:80/375951418/9740705/2586
 #EXTINF:-1  tvg-name="Disc. Theater UHD" tvg-id="Hdtheater.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater UHD
-http://unividia.com:80/879083380/b350V7430w/21298
+http://uniplay.proxytv.in:80/375951418/9740705/21298
 #EXTINF:-1  tvg-name="Disc. World FHD" tvg-id="Discworld.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World FHD
-http://unividia.com:80/879083380/b350V7430w/2597
+http://uniplay.proxytv.in:80/375951418/9740705/2597
 #EXTINF:-1  tvg-name="Disc. World HD" tvg-id="Discworld.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World HD
-http://unividia.com:80/879083380/b350V7430w/2595
+http://uniplay.proxytv.in:80/375951418/9740705/2595
 #EXTINF:-1  tvg-name="Disc. World HD²" tvg-id="Discworld.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World HD²
-http://unividia.com:80/879083380/b350V7430w/2596
+http://uniplay.proxytv.in:80/375951418/9740705/2596
 #EXTINF:-1  tvg-name="Disc. World UHD" tvg-id="Discworld.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World UHD
-http://unividia.com:80/879083380/b350V7430w/21300
+http://uniplay.proxytv.in:80/375951418/9740705/21300
 #EXTINF:-1  tvg-name="E! FHD" tvg-id="E.br" tvg-logo="http://storage4you.net:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E! FHD
-http://unividia.com:80/879083380/b350V7430w/2472
+http://uniplay.proxytv.in:80/375951418/9740705/2472
 #EXTINF:-1  tvg-name="E! HD" tvg-id="E.br" tvg-logo="http://storage4you.net:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E! HD
-http://unividia.com:80/879083380/b350V7430w/2471
+http://uniplay.proxytv.in:80/375951418/9740705/2471
+#EXTINF:-1  tvg-name="E! SD" tvg-id="E.br" tvg-logo="http://storage4you.net:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E! SD
+http://uniplay.proxytv.in:80/375951418/9740705/2470
 #EXTINF:-1  tvg-name="E! UHD" tvg-id="E.br" tvg-logo="http://storage4you.net:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E! UHD
-http://unividia.com:80/879083380/b350V7430w/21313
+http://uniplay.proxytv.in:80/375951418/9740705/21313
 #EXTINF:-1  tvg-name="F1 TV PRO 01" tvg-id="F1tv.br" tvg-logo="http://storage4you.net:2095/logoscanais/F1.png" group-title="Canais | Pay-per-view",F1 TV PRO 01
-http://unividia.com:80/879083380/b350V7430w/18297
+http://uniplay.proxytv.in:80/375951418/9740705/18297
 #EXTINF:-1  tvg-name="F1 TV PRO 02" tvg-id="F1tv.br" tvg-logo="http://storage4you.net:2095/logoscanais/F1.png" group-title="Canais | Pay-per-view",F1 TV PRO 02
-http://unividia.com:80/879083380/b350V7430w/18296
+http://uniplay.proxytv.in:80/375951418/9740705/18296
 #EXTINF:-1  tvg-name="F1 TV PRO 03" tvg-id="F1tv.br" tvg-logo="http://storage4you.net:2095/logoscanais/F1.png" group-title="Canais | Pay-per-view",F1 TV PRO 03
-http://unividia.com:80/879083380/b350V7430w/18295
+http://uniplay.proxytv.in:80/375951418/9740705/18295
 #EXTINF:-1  tvg-name="F1 TV PRO 04" tvg-id="F1tv.br" tvg-logo="http://storage4you.net:2095/logoscanais/F1.png" group-title="Canais | Pay-per-view",F1 TV PRO 04
-http://unividia.com:80/879083380/b350V7430w/18294
+http://uniplay.proxytv.in:80/375951418/9740705/18294
 #EXTINF:-1  tvg-name="FX FHD" tvg-id="Fx.br" tvg-logo="http://storage4you.net:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX FHD
-http://unividia.com:80/879083380/b350V7430w/594
-#EXTINF:-1  tvg-name="FX FHD [LEG ]" tvg-id="Fx.br" tvg-logo="http://storage4you.net:2095/logoscanais/FX.jpg" group-title="Canais | Legendados",FX FHD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118916
+http://uniplay.proxytv.in:80/375951418/9740705/594
 #EXTINF:-1  tvg-name="FX HD" tvg-id="Fx.br" tvg-logo="http://storage4you.net:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX HD
-http://unividia.com:80/879083380/b350V7430w/592
-#EXTINF:-1  tvg-name="FX HD [LEG ]" tvg-id="Fx.br" tvg-logo="http://storage4you.net:2095/logoscanais/FX.jpg" group-title="Canais | Legendados",FX HD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118915
+http://uniplay.proxytv.in:80/375951418/9740705/592
 #EXTINF:-1  tvg-name="FX HD²" tvg-id="Fx.br" tvg-logo="http://storage4you.net:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX HD²
-http://unividia.com:80/879083380/b350V7430w/593
+http://uniplay.proxytv.in:80/375951418/9740705/593
+#EXTINF:-1  tvg-name="FX SD" tvg-id="Fx.br" tvg-logo="http://storage4you.net:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX SD
+http://uniplay.proxytv.in:80/375951418/9740705/591
 #EXTINF:-1  tvg-name="FX UHD" tvg-id="Fx.br" tvg-logo="http://storage4you.net:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX UHD
-http://unividia.com:80/879083380/b350V7430w/21243
-#EXTINF:-1  tvg-name="GloboNews 4K " tvg-id="Globonews.br" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBONEWS.png" group-title="Canais | 4K",GloboNews 4K
-http://unividia.com:80/879083380/b350V7430w/284589
-#EXTINF:-1  tvg-name="GloboNews FHD" tvg-id="Globonews.br" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews FHD
-http://unividia.com:80/879083380/b350V7430w/479
-#EXTINF:-1  tvg-name="GloboNews HD" tvg-id="Globonews.br" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews HD
-http://unividia.com:80/879083380/b350V7430w/478
-#EXTINF:-1  tvg-name="GloboNews HD²" tvg-id="Globonews.br" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews HD²
-http://unividia.com:80/879083380/b350V7430w/380908
-#EXTINF:-1  tvg-name="GloboNews UHD" tvg-id="Globonews.br" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews UHD
-http://unividia.com:80/879083380/b350V7430w/21244
+http://uniplay.proxytv.in:80/375951418/9740705/21243
 #EXTINF:-1  tvg-name="GNT FHD" tvg-id="Gnt.br" tvg-logo="http://storage4you.net:2095/logoscanais/GNT.png" group-title="Canais |  Variedades ",GNT FHD
-http://unividia.com:80/879083380/b350V7430w/377238
+http://uniplay.proxytv.in:80/375951418/9740705/377238
 #EXTINF:-1  tvg-name="GNT HD" tvg-id="Gnt.br" tvg-logo="http://storage4you.net:2095/logoscanais/GNT.png" group-title="Canais |  Variedades ",GNT HD
-http://unividia.com:80/879083380/b350V7430w/377239
+http://uniplay.proxytv.in:80/375951418/9740705/377239
 #EXTINF:-1  tvg-name="GNT UHD" tvg-id="Gnt.br" tvg-logo="http://storage4you.net:2095/logoscanais/GNT.png" group-title="Canais |  Variedades ",GNT UHD
-http://unividia.com:80/879083380/b350V7430w/377237
+http://uniplay.proxytv.in:80/375951418/9740705/377237
 #EXTINF:-1  tvg-name="HBO + FHD" tvg-id="Hboplus.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO + FHD
-http://unividia.com:80/879083380/b350V7430w/18763
+http://uniplay.proxytv.in:80/375951418/9740705/18763
 #EXTINF:-1  tvg-name="HBO + HD" tvg-id="Hboplus.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO + HD
-http://unividia.com:80/879083380/b350V7430w/18764
+http://uniplay.proxytv.in:80/375951418/9740705/18764
 #EXTINF:-1  tvg-name="HBO + HD²" tvg-id="Hboplus.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO + HD²
-http://unividia.com:80/879083380/b350V7430w/18765
+http://uniplay.proxytv.in:80/375951418/9740705/18765
 #EXTINF:-1  tvg-name="HBO + UHD" tvg-id="Hboplus.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO + UHD
-http://unividia.com:80/879083380/b350V7430w/21249
+http://uniplay.proxytv.in:80/375951418/9740705/21249
 #EXTINF:-1  tvg-name="HBO 2 FHD" tvg-id="Hbo2.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2 FHD
-http://unividia.com:80/879083380/b350V7430w/18755
+http://uniplay.proxytv.in:80/375951418/9740705/18755
 #EXTINF:-1  tvg-name="HBO 2 HD" tvg-id="Hbo2.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2 HD
-http://unividia.com:80/879083380/b350V7430w/18756
+http://uniplay.proxytv.in:80/375951418/9740705/18756
 #EXTINF:-1  tvg-name="HBO 2 HD²" tvg-id="Hbo2.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2 HD²
-http://unividia.com:80/879083380/b350V7430w/18757
+http://uniplay.proxytv.in:80/375951418/9740705/18757
 #EXTINF:-1  tvg-name="HBO 2 UHD" tvg-id="Hbo2.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2 UHD
-http://unividia.com:80/879083380/b350V7430w/21246
-#EXTINF:-1  tvg-name="HBO 4K " tvg-id="Hbo.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | 4K",HBO 4K
-http://unividia.com:80/879083380/b350V7430w/284603
+http://uniplay.proxytv.in:80/375951418/9740705/21246
 #EXTINF:-1  tvg-name="HBO FAMILY FHD" tvg-id="Hbofamily.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY FHD
-http://unividia.com:80/879083380/b350V7430w/18759
+http://uniplay.proxytv.in:80/375951418/9740705/18759
 #EXTINF:-1  tvg-name="HBO FAMILY HD" tvg-id="Hbofamily.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY HD
-http://unividia.com:80/879083380/b350V7430w/18760
+http://uniplay.proxytv.in:80/375951418/9740705/18760
 #EXTINF:-1  tvg-name="HBO FAMILY HD²" tvg-id="Hbofamily.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY HD²
-http://unividia.com:80/879083380/b350V7430w/18761
+http://uniplay.proxytv.in:80/375951418/9740705/18761
+#EXTINF:-1  tvg-name="HBO FAMILY SD" tvg-id="Hbofamily.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY SD
+http://uniplay.proxytv.in:80/375951418/9740705/18762
 #EXTINF:-1  tvg-name="HBO FAMILY UHD" tvg-id="Hbofamily.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY UHD
-http://unividia.com:80/879083380/b350V7430w/21247
+http://uniplay.proxytv.in:80/375951418/9740705/21247
 #EXTINF:-1  tvg-name="HBO FHD" tvg-id="Hbo.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FHD
-http://unividia.com:80/879083380/b350V7430w/18751
-#EXTINF:-1  tvg-name="HBO FHD [LEG ]" tvg-id="Hbo.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | Legendados",HBO FHD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118896
+http://uniplay.proxytv.in:80/375951418/9740705/18751
 #EXTINF:-1  tvg-name="HBO H265" tvg-id="Hbo.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO H265
-http://unividia.com:80/879083380/b350V7430w/121578
+http://uniplay.proxytv.in:80/375951418/9740705/121578
 #EXTINF:-1  tvg-name="HBO HD" tvg-id="Hbo.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO HD
-http://unividia.com:80/879083380/b350V7430w/18752
-#EXTINF:-1  tvg-name="HBO HD [LEG ]" tvg-id="Hbo.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | Legendados",HBO HD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118895
+http://uniplay.proxytv.in:80/375951418/9740705/18752
 #EXTINF:-1  tvg-name="HBO HD²" tvg-id="Hbo.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO HD²
-http://unividia.com:80/879083380/b350V7430w/18753
+http://uniplay.proxytv.in:80/375951418/9740705/18753
 #EXTINF:-1  tvg-name="HBO MUNDI FHD" tvg-id="Hbomundi.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI FHD
-http://unividia.com:80/879083380/b350V7430w/18771
+http://uniplay.proxytv.in:80/375951418/9740705/18771
 #EXTINF:-1  tvg-name="HBO MUNDI HD" tvg-id="Hbomundi.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI HD
-http://unividia.com:80/879083380/b350V7430w/18772
+http://uniplay.proxytv.in:80/375951418/9740705/18772
 #EXTINF:-1  tvg-name="HBO MUNDI HD²" tvg-id="Hbomundi.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI HD²
-http://unividia.com:80/879083380/b350V7430w/18773
+http://uniplay.proxytv.in:80/375951418/9740705/18773
+#EXTINF:-1  tvg-name="HBO MUNDI SD" tvg-id="Hbomundi.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI SD
+http://uniplay.proxytv.in:80/375951418/9740705/18774
 #EXTINF:-1  tvg-name="HBO MUNDI UHD" tvg-id="Hbomundi.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI UHD
-http://unividia.com:80/879083380/b350V7430w/21254
-#EXTINF:-1  tvg-name="HBO PLUS HD LEG" tvg-id="" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | Legendados",HBO PLUS HD LEG
-http://unividia.com:80/879083380/b350V7430w/118897
+http://uniplay.proxytv.in:80/375951418/9740705/21254
 #EXTINF:-1  tvg-name="HBO POP FHD" tvg-id="Hbopop.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP FHD
-http://unividia.com:80/879083380/b350V7430w/18779
-#EXTINF:-1  tvg-name="HBO Pop FHD [LEG ]" tvg-id="Hbopop.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | Legendados",HBO Pop FHD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118918
+http://uniplay.proxytv.in:80/375951418/9740705/18779
 #EXTINF:-1  tvg-name="HBO POP HD" tvg-id="Hbopop.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP HD
-http://unividia.com:80/879083380/b350V7430w/18780
-#EXTINF:-1  tvg-name="HBO Pop HD [LEG ]" tvg-id="Hbopop.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | Legendados",HBO Pop HD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118917
+http://uniplay.proxytv.in:80/375951418/9740705/18780
 #EXTINF:-1  tvg-name="HBO POP HD²" tvg-id="Hbopop.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP HD²
-http://unividia.com:80/879083380/b350V7430w/18781
+http://uniplay.proxytv.in:80/375951418/9740705/18781
 #EXTINF:-1  tvg-name="HBO POP UHD" tvg-id="Hbopop.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP UHD
-http://unividia.com:80/879083380/b350V7430w/21256
+http://uniplay.proxytv.in:80/375951418/9740705/21256
+#EXTINF:-1  tvg-name="HBO SD" tvg-id="Hbo.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SD
+http://uniplay.proxytv.in:80/375951418/9740705/18754
 #EXTINF:-1  tvg-name="HBO SIGNATURE FHD" tvg-id="Hbosignature.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE FHD
-http://unividia.com:80/879083380/b350V7430w/18767
+http://uniplay.proxytv.in:80/375951418/9740705/18767
 #EXTINF:-1  tvg-name="HBO SIGNATURE HD" tvg-id="Hbosignature.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE HD
-http://unividia.com:80/879083380/b350V7430w/18768
+http://uniplay.proxytv.in:80/375951418/9740705/18768
 #EXTINF:-1  tvg-name="HBO SIGNATURE HD²" tvg-id="Hbosignature.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE HD²
-http://unividia.com:80/879083380/b350V7430w/18769
+http://uniplay.proxytv.in:80/375951418/9740705/18769
 #EXTINF:-1  tvg-name="HBO SIGNATURE UHD" tvg-id="Hbosignature.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE UHD
-http://unividia.com:80/879083380/b350V7430w/21250
+http://uniplay.proxytv.in:80/375951418/9740705/21250
 #EXTINF:-1  tvg-name="HBO UHD" tvg-id="Hbo.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO UHD
-http://unividia.com:80/879083380/b350V7430w/21248
+http://uniplay.proxytv.in:80/375951418/9740705/21248
 #EXTINF:-1  tvg-name="HBO XTREME FHD" tvg-id="Hboxtreme.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME FHD
-http://unividia.com:80/879083380/b350V7430w/18775
-#EXTINF:-1  tvg-name="HBO Xtreme FHD [LEG ]" tvg-id="Hboxtreme.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | Legendados",HBO Xtreme FHD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118899
+http://uniplay.proxytv.in:80/375951418/9740705/18775
 #EXTINF:-1  tvg-name="HBO XTREME HD" tvg-id="Hboxtreme.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME HD
-http://unividia.com:80/879083380/b350V7430w/18776
+http://uniplay.proxytv.in:80/375951418/9740705/18776
 #EXTINF:-1  tvg-name="HBO XTREME HD²" tvg-id="Hboxtreme.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME HD²
-http://unividia.com:80/879083380/b350V7430w/18777
+http://uniplay.proxytv.in:80/375951418/9740705/18777
 #EXTINF:-1  tvg-name="HBO XTREME UHD" tvg-id="Hboxtreme.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME UHD
-http://unividia.com:80/879083380/b350V7430w/21255
+http://uniplay.proxytv.in:80/375951418/9740705/21255
 #EXTINF:-1  tvg-name="HGTV FHD" tvg-id="Hgtv.br" tvg-logo="http://storage4you.net:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV FHD
-http://unividia.com:80/879083380/b350V7430w/2627
+http://uniplay.proxytv.in:80/375951418/9740705/2627
 #EXTINF:-1  tvg-name="HGTV H265" tvg-id="Hgtv.br" tvg-logo="http://storage4you.net:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV H265
-http://unividia.com:80/879083380/b350V7430w/141266
+http://uniplay.proxytv.in:80/375951418/9740705/141266
 #EXTINF:-1  tvg-name="HGTV HD" tvg-id="Hgtv.br" tvg-logo="http://storage4you.net:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV HD
-http://unividia.com:80/879083380/b350V7430w/2625
+http://uniplay.proxytv.in:80/375951418/9740705/2625
 #EXTINF:-1  tvg-name="HGTV HD²" tvg-id="Hgtv.br" tvg-logo="http://storage4you.net:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV HD²
-http://unividia.com:80/879083380/b350V7430w/2626
+http://uniplay.proxytv.in:80/375951418/9740705/2626
+#EXTINF:-1  tvg-name="HGTV SD" tvg-id="Hgtv.br" tvg-logo="http://storage4you.net:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV SD
+http://uniplay.proxytv.in:80/375951418/9740705/2624
 #EXTINF:-1  tvg-name="HGTV UHD" tvg-id="Hgtv.br" tvg-logo="http://storage4you.net:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV UHD
-http://unividia.com:80/879083380/b350V7430w/21294
+http://uniplay.proxytv.in:80/375951418/9740705/21294
 #EXTINF:-1  tvg-name="History 2 FHD" tvg-id="History2.br" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 FHD
-http://unividia.com:80/879083380/b350V7430w/2622
+http://uniplay.proxytv.in:80/375951418/9740705/2622
 #EXTINF:-1  tvg-name="History 2 HD" tvg-id="History2.br" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 HD
-http://unividia.com:80/879083380/b350V7430w/2620
+http://uniplay.proxytv.in:80/375951418/9740705/2620
 #EXTINF:-1  tvg-name="History 2 SD" tvg-id="History2.br" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 SD
-http://unividia.com:80/879083380/b350V7430w/2619
+http://uniplay.proxytv.in:80/375951418/9740705/2619
 #EXTINF:-1  tvg-name="History 2 UHD" tvg-id="History2.br" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 UHD
-http://unividia.com:80/879083380/b350V7430w/21322
+http://uniplay.proxytv.in:80/375951418/9740705/21322
 #EXTINF:-1  tvg-name="History FHD" tvg-id="History.br" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History FHD
-http://unividia.com:80/879083380/b350V7430w/2617
+http://uniplay.proxytv.in:80/375951418/9740705/2617
 #EXTINF:-1  tvg-name="History HD" tvg-id="History.br" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History HD
-http://unividia.com:80/879083380/b350V7430w/2615
+http://uniplay.proxytv.in:80/375951418/9740705/2615
+#EXTINF:-1  tvg-name="History HD²" tvg-id="History.br" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History HD²
+http://uniplay.proxytv.in:80/375951418/9740705/2616
 #EXTINF:-1  tvg-name="History UHD" tvg-id="History.br" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History UHD
-http://unividia.com:80/879083380/b350V7430w/59173
+http://uniplay.proxytv.in:80/375951418/9740705/59173
 #EXTINF:-1  tvg-name="ID FHD" tvg-id="Id.br" tvg-logo="http://storage4you.net:2095/logoscanais/ID.png" group-title="Canais | Documentarios",ID FHD
-http://unividia.com:80/879083380/b350V7430w/2632
+http://uniplay.proxytv.in:80/375951418/9740705/2632
 #EXTINF:-1  tvg-name="ID HD" tvg-id="Investigacaodiscoveryid.br" tvg-logo="http://storage4you.net:2095/logoscanais/ID.png" group-title="Canais | Documentarios",ID HD
-http://unividia.com:80/879083380/b350V7430w/2630
+http://uniplay.proxytv.in:80/375951418/9740705/2630
 #EXTINF:-1  tvg-name="ID HD²" tvg-id="Investigacaodiscoveryid.br" tvg-logo="http://storage4you.net:2095/logoscanais/ID.png" group-title="Canais | Documentarios",ID HD²
-http://unividia.com:80/879083380/b350V7430w/2631
+http://uniplay.proxytv.in:80/375951418/9740705/2631
 #EXTINF:-1  tvg-name="ID UHD" tvg-id="Id.br" tvg-logo="http://storage4you.net:2095/logoscanais/ID.png" group-title="Canais | Documentarios",ID UHD
-http://unividia.com:80/879083380/b350V7430w/21323
+http://uniplay.proxytv.in:80/375951418/9740705/21323
 #EXTINF:-1  tvg-name="Lifetime FHD" tvg-id="Lifetime.br" tvg-logo="http://storage4you.net:2095/logoscanais/LIFETIME.png" group-title="Canais |  Variedades ",Lifetime FHD
-http://unividia.com:80/879083380/b350V7430w/2488
+http://uniplay.proxytv.in:80/375951418/9740705/2488
 #EXTINF:-1  tvg-name="Lifetime HD" tvg-id="Lifetime.br" tvg-logo="http://storage4you.net:2095/logoscanais/LIFETIME.png" group-title="Canais |  Variedades ",Lifetime HD
-http://unividia.com:80/879083380/b350V7430w/2487
+http://uniplay.proxytv.in:80/375951418/9740705/2487
 #EXTINF:-1  tvg-name="Lifetime UHD" tvg-id="Lifetime.br" tvg-logo="http://storage4you.net:2095/logoscanais/LIFETIME.png" group-title="Canais |  Variedades ",Lifetime UHD
-http://unividia.com:80/879083380/b350V7430w/21252
+http://uniplay.proxytv.in:80/375951418/9740705/21252
+#EXTINF:-1  tvg-name="Liga Futsal 1 HD" tvg-id="" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_LNF_1.png" group-title="Canais | Pay-per-view",Liga Futsal 1 HD
+http://uniplay.proxytv.in:80/375951418/9740705/18301
+#EXTINF:-1  tvg-name="Liga Futsal 2 HD" tvg-id="" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_LNF_1.png" group-title="Canais | Pay-per-view",Liga Futsal 2 HD
+http://uniplay.proxytv.in:80/375951418/9740705/18300
+#EXTINF:-1  tvg-name="Liga Futsal 3 HD" tvg-id="" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_LNF_1.png" group-title="Canais | Pay-per-view",Liga Futsal 3 HD
+http://uniplay.proxytv.in:80/375951418/9740705/18299
+#EXTINF:-1  tvg-name="Markket FHD" tvg-id="Bishd.br" tvg-logo="http://storage4you.net:2095/logoscanais/MARKKET.png" group-title="Canais |  Variedades ",Markket FHD
+http://uniplay.proxytv.in:80/375951418/9740705/162355
+#EXTINF:-1  tvg-name="Markket HD" tvg-id="Bishd.br" tvg-logo="http://storage4you.net:2095/logoscanais/MARKKET.png" group-title="Canais |  Variedades ",Markket HD
+http://uniplay.proxytv.in:80/375951418/9740705/162356
 #EXTINF:-1  tvg-name="Megapix FHD" tvg-id="Megapix.br" tvg-logo="http://storage4you.net:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix FHD
-http://unividia.com:80/879083380/b350V7430w/692
-#EXTINF:-1  tvg-name="Megapix FHD [LEG ]" tvg-id="Megapix.br" tvg-logo="http://storage4you.net:2095/logoscanais/MEGAPIX.png" group-title="Canais | Legendados",Megapix FHD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118920
+http://uniplay.proxytv.in:80/375951418/9740705/692
 #EXTINF:-1  tvg-name="Megapix HD" tvg-id="Megapix.br" tvg-logo="http://storage4you.net:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix HD
-http://unividia.com:80/879083380/b350V7430w/690
-#EXTINF:-1  tvg-name="Megapix HD [LEG ]" tvg-id="Megapix.br" tvg-logo="http://storage4you.net:2095/logoscanais/MEGAPIX.png" group-title="Canais | Legendados",Megapix HD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118919
+http://uniplay.proxytv.in:80/375951418/9740705/690
 #EXTINF:-1  tvg-name="Megapix HD²" tvg-id="Megapix.br" tvg-logo="http://storage4you.net:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix HD²
-http://unividia.com:80/879083380/b350V7430w/691
+http://uniplay.proxytv.in:80/375951418/9740705/691
 #EXTINF:-1  tvg-name="Megapix UHD" tvg-id="Megapix.br" tvg-logo="http://storage4you.net:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix UHD
-http://unividia.com:80/879083380/b350V7430w/21257
-#EXTINF:-1  tvg-name="MTV FHD" tvg-id="Mtv.br" tvg-logo="http://storage4you.net:2095/logoscanais/MTV.png" group-title="Canais |  Variedades ",MTV FHD
-http://unividia.com:80/879083380/b350V7430w/2504
-#EXTINF:-1  tvg-name="MTV HD" tvg-id="Mtv.br" tvg-logo="http://storage4you.net:2095/logoscanais/MTV.png" group-title="Canais |  Variedades ",MTV HD
-http://unividia.com:80/879083380/b350V7430w/2503
-#EXTINF:-1  tvg-name="MTV LIVE HD" tvg-id="Mtvlive.br" tvg-logo="http://storage4you.net:2095/logoscanais/MTVLIVE.png" group-title="Canais |  Variedades ",MTV LIVE HD
-http://unividia.com:80/879083380/b350V7430w/2507
-#EXTINF:-1  tvg-name="MTV LIVE SD" tvg-id="Mtvlive.br" tvg-logo="http://storage4you.net:2095/logoscanais/MTVLIVE.png" group-title="Canais |  Variedades ",MTV LIVE SD
-http://unividia.com:80/879083380/b350V7430w/2506
-#EXTINF:-1  tvg-name="MTV LIVE UHD" tvg-id="Mtvlive.br" tvg-logo="http://storage4you.net:2095/logoscanais/MTVLIVE.png" group-title="Canais |  Variedades ",MTV LIVE UHD
-http://unividia.com:80/879083380/b350V7430w/21324
-#EXTINF:-1  tvg-name="MTV UHD" tvg-id="Mtv.br" tvg-logo="http://storage4you.net:2095/logoscanais/MTV.png" group-title="Canais |  Variedades ",MTV UHD
-http://unividia.com:80/879083380/b350V7430w/21258
-#EXTINF:-1  tvg-name="MTVs 00 HD" tvg-id="MTV00s.br" tvg-logo="http://storage4you.net:2095/logoscanais/MTV00S.png" group-title="Canais |  Variedades ",MTVs 00 HD
-http://unividia.com:80/879083380/b350V7430w/2511
-#EXTINF:-1  tvg-name="MTVs 00 SD" tvg-id="MTV00s.br" tvg-logo="http://storage4you.net:2095/logoscanais/MTV00S.png" group-title="Canais |  Variedades ",MTVs 00 SD
-http://unividia.com:80/879083380/b350V7430w/2510
-#EXTINF:-1  tvg-name="MTVs 00 UHD" tvg-id="MTV00s.br" tvg-logo="http://storage4you.net:2095/logoscanais/MTV00S.png" group-title="Canais |  Variedades ",MTVs 00 UHD
-http://unividia.com:80/879083380/b350V7430w/21289
-#EXTINF:-1  tvg-name="Multishow FHD" tvg-id="" tvg-logo="http://storage4you.net:2095/logoscanais/MULTISHOW.png" group-title="Canais |  Variedades ",Multishow FHD
-http://unividia.com:80/879083380/b350V7430w/377241
-#EXTINF:-1  tvg-name="Multishow HD" tvg-id="" tvg-logo="http://storage4you.net:2095/logoscanais/MULTISHOW.png" group-title="Canais |  Variedades ",Multishow HD
-http://unividia.com:80/879083380/b350V7430w/377243
-#EXTINF:-1  tvg-name="Multishow UHD" tvg-id="" tvg-logo="http://storage4you.net:2095/logoscanais/MULTISHOW.png" group-title="Canais |  Variedades ",Multishow UHD
-http://unividia.com:80/879083380/b350V7430w/377242
+http://uniplay.proxytv.in:80/375951418/9740705/21257
 #EXTINF:-1  tvg-name="National Geographic FHD" tvg-id="Nationalgeo.br" tvg-logo="http://storage4you.net:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic FHD
-http://unividia.com:80/879083380/b350V7430w/363194
+http://uniplay.proxytv.in:80/375951418/9740705/363194
 #EXTINF:-1  tvg-name="National Geographic H265" tvg-id="Nationalgeo.br" tvg-logo="http://storage4you.net:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic H265
-http://unividia.com:80/879083380/b350V7430w/141268
+http://uniplay.proxytv.in:80/375951418/9740705/141268
 #EXTINF:-1  tvg-name="National Geographic HD " tvg-id="Nationalgeo.br" tvg-logo="http://storage4you.net:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic HD
-http://unividia.com:80/879083380/b350V7430w/363200
+http://uniplay.proxytv.in:80/375951418/9740705/363200
 #EXTINF:-1  tvg-name="National Geographic HD²" tvg-id="Nationalgeo.br" tvg-logo="http://storage4you.net:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic HD²
-http://unividia.com:80/879083380/b350V7430w/2636
+http://uniplay.proxytv.in:80/375951418/9740705/2636
 #EXTINF:-1  tvg-name="National Geographic UHD" tvg-id="Nationalgeo.br" tvg-logo="http://storage4you.net:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic UHD
-http://unividia.com:80/879083380/b350V7430w/21260
+http://uniplay.proxytv.in:80/375951418/9740705/21260
+#EXTINF:-1  tvg-name="OFF FHD" tvg-id="Off.br" tvg-logo="http://storage4you.net:2095/logoscanais/OFF.png" group-title="Canais | Esportes",OFF FHD
+http://uniplay.proxytv.in:80/375951418/9740705/253
+#EXTINF:-1  tvg-name="OFF HD" tvg-id="Off.br" tvg-logo="http://storage4you.net:2095/logoscanais/OFF.png" group-title="Canais | Esportes",OFF HD
+http://uniplay.proxytv.in:80/375951418/9740705/252
+#EXTINF:-1  tvg-name="OFF UHD" tvg-id="Off.br" tvg-logo="http://storage4you.net:2095/logoscanais/OFF.png" group-title="Canais | Esportes",OFF UHD
+http://uniplay.proxytv.in:80/375951418/9740705/21264
 #EXTINF:-1  tvg-name="Paramount Network FHD" tvg-id="Paramount.br" tvg-logo="http://storage4you.net:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network FHD
-http://unividia.com:80/879083380/b350V7430w/697
+http://uniplay.proxytv.in:80/375951418/9740705/697
 #EXTINF:-1  tvg-name="Paramount Network HD" tvg-id="Paramount.br" tvg-logo="http://storage4you.net:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network HD
-http://unividia.com:80/879083380/b350V7430w/695
+http://uniplay.proxytv.in:80/375951418/9740705/695
 #EXTINF:-1  tvg-name="Paramount Network HD²" tvg-id="Paramount.br" tvg-logo="http://storage4you.net:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network HD²
-http://unividia.com:80/879083380/b350V7430w/696
+http://uniplay.proxytv.in:80/375951418/9740705/696
 #EXTINF:-1  tvg-name="Paramount Network UHD" tvg-id="Paramount.br" tvg-logo="http://storage4you.net:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network UHD
-http://unividia.com:80/879083380/b350V7430w/21265
+http://uniplay.proxytv.in:80/375951418/9740705/21265
 #EXTINF:-1  tvg-name="Space FHD" tvg-id="Space.br" tvg-logo="http://storage4you.net:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space FHD
-http://unividia.com:80/879083380/b350V7430w/707
-#EXTINF:-1  tvg-name="Space FHD [LEG ]" tvg-id="" tvg-logo="http://storage4you.net:2095/logoscanais/SPACE.png" group-title="Canais | Legendados",Space FHD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118922
+http://uniplay.proxytv.in:80/375951418/9740705/707
 #EXTINF:-1  tvg-name="Space HD" tvg-id="Space.br" tvg-logo="http://storage4you.net:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space HD
-http://unividia.com:80/879083380/b350V7430w/705
-#EXTINF:-1  tvg-name="Space HD [LEG ]" tvg-id="Space.br" tvg-logo="http://storage4you.net:2095/logoscanais/SPACE.png" group-title="Canais | Legendados",Space HD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118921
+http://uniplay.proxytv.in:80/375951418/9740705/705
 #EXTINF:-1  tvg-name="Space HD²" tvg-id="Space.br" tvg-logo="http://storage4you.net:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space HD²
-http://unividia.com:80/879083380/b350V7430w/706
+http://uniplay.proxytv.in:80/375951418/9740705/706
 #EXTINF:-1  tvg-name="Space UHD" tvg-id="Space.br" tvg-logo="http://storage4you.net:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space UHD
-http://unividia.com:80/879083380/b350V7430w/21272
-#EXTINF:-1  tvg-name="Star Channel 4K" tvg-id="Star.br" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png" group-title="Canais | 4K",Star Channel 4K
-http://unividia.com:80/879083380/b350V7430w/284612
+http://uniplay.proxytv.in:80/375951418/9740705/21272
 #EXTINF:-1  tvg-name="Star Channel FHD" tvg-id="Star.br" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel FHD
-http://unividia.com:80/879083380/b350V7430w/598
-#EXTINF:-1  tvg-name="Star Channel FHD [LEG ]" tvg-id="Star.br" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Legendados",Star Channel FHD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118894
+http://uniplay.proxytv.in:80/375951418/9740705/598
 #EXTINF:-1  tvg-name="Star Channel HD" tvg-id="Star.br" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel HD
-http://unividia.com:80/879083380/b350V7430w/597
-#EXTINF:-1  tvg-name="Star Channel HD [LEG ]" tvg-id="Boxkids.br" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Legendados",Star Channel HD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118893
+http://uniplay.proxytv.in:80/375951418/9740705/597
 #EXTINF:-1  tvg-name="Star Channel UHD" tvg-id="Star.br" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel UHD
-http://unividia.com:80/879083380/b350V7430w/21238
+http://uniplay.proxytv.in:80/375951418/9740705/21238
 #EXTINF:-1  tvg-name="Studio Universal FHD" tvg-id="Studiouniversal.br" tvg-logo="http://storage4you.net:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal FHD
-http://unividia.com:80/879083380/b350V7430w/713
+http://uniplay.proxytv.in:80/375951418/9740705/713
 #EXTINF:-1  tvg-name="Studio Universal HD" tvg-id="Studiouniversal.br" tvg-logo="http://storage4you.net:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal HD
-http://unividia.com:80/879083380/b350V7430w/711
+http://uniplay.proxytv.in:80/375951418/9740705/711
 #EXTINF:-1  tvg-name="Studio Universal HD²" tvg-id="Studiouniversal.br" tvg-logo="http://storage4you.net:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal HD²
-http://unividia.com:80/879083380/b350V7430w/712
+http://uniplay.proxytv.in:80/375951418/9740705/712
 #EXTINF:-1  tvg-name="Studio Universal UHD" tvg-id="Studiouniversal.br" tvg-logo="http://storage4you.net:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal UHD
-http://unividia.com:80/879083380/b350V7430w/21276
+http://uniplay.proxytv.in:80/375951418/9740705/21276
 #EXTINF:-1  tvg-name="SYFY FHD" tvg-id="Syfy.br" tvg-logo="http://storage4you.net:2095/logoscanais/SYFY.png" group-title="Canais | Filmes & Series",SYFY FHD
-http://unividia.com:80/879083380/b350V7430w/718
+http://uniplay.proxytv.in:80/375951418/9740705/718
 #EXTINF:-1  tvg-name="SYFY HD" tvg-id="Syfy.br" tvg-logo="http://storage4you.net:2095/logoscanais/SYFY.png" group-title="Canais | Filmes & Series",SYFY HD
-http://unividia.com:80/879083380/b350V7430w/716
+http://uniplay.proxytv.in:80/375951418/9740705/716
 #EXTINF:-1  tvg-name="SYFY HD²" tvg-id="Syfy.br" tvg-logo="http://storage4you.net:2095/logoscanais/SYFY.png" group-title="Canais | Filmes & Series",SYFY HD²
-http://unividia.com:80/879083380/b350V7430w/717
+http://uniplay.proxytv.in:80/375951418/9740705/717
 #EXTINF:-1  tvg-name="SYFY UHD" tvg-id="Cineskyplay.br" tvg-logo="http://storage4you.net:2095/logoscanais/SYFY.png" group-title="Canais | Filmes & Series",SYFY UHD
-http://unividia.com:80/879083380/b350V7430w/21277
-#EXTINF:-1  tvg-name="Telecine Action 4K " tvg-id="Tcaction.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | 4K",Telecine Action 4K
-http://unividia.com:80/879083380/b350V7430w/284597
+http://uniplay.proxytv.in:80/375951418/9740705/21277
 #EXTINF:-1  tvg-name="Telecine Action FHD" tvg-id="Tcaction.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action FHD
-http://unividia.com:80/879083380/b350V7430w/615
-#EXTINF:-1  tvg-name="Telecine Action FHD [LEG ]" tvg-id="Tcaction.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Action FHD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118902
+http://uniplay.proxytv.in:80/375951418/9740705/615
 #EXTINF:-1  tvg-name="Telecine Action HD" tvg-id="Tcaction.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action HD
-http://unividia.com:80/879083380/b350V7430w/613
-#EXTINF:-1  tvg-name="Telecine Action HD [LEG ]" tvg-id="Tcaction.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Action HD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118901
+http://uniplay.proxytv.in:80/375951418/9740705/613
 #EXTINF:-1  tvg-name="Telecine Action HD²" tvg-id="Tcaction.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action HD²
-http://unividia.com:80/879083380/b350V7430w/614
+http://uniplay.proxytv.in:80/375951418/9740705/614
 #EXTINF:-1  tvg-name="Telecine Action UHD" tvg-id="Tcaction.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action UHD
-http://unividia.com:80/879083380/b350V7430w/21279
+http://uniplay.proxytv.in:80/375951418/9740705/21279
 #EXTINF:-1  tvg-name="Telecine Fun FHD" tvg-id="Tcfun.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun FHD
-http://unividia.com:80/879083380/b350V7430w/625
-#EXTINF:-1  tvg-name="Telecine Fun FHD [LEG ]" tvg-id="Tcfun.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Fun FHD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118906
+http://uniplay.proxytv.in:80/375951418/9740705/625
 #EXTINF:-1  tvg-name="Telecine Fun HD" tvg-id="Tcfun.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun HD
-http://unividia.com:80/879083380/b350V7430w/623
-#EXTINF:-1  tvg-name="Telecine Fun HD [LEG ]" tvg-id="Tcfun.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Fun HD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118905
+http://uniplay.proxytv.in:80/375951418/9740705/623
 #EXTINF:-1  tvg-name="Telecine Fun HD²" tvg-id="Tcfun.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun HD²
-http://unividia.com:80/879083380/b350V7430w/624
+http://uniplay.proxytv.in:80/375951418/9740705/624
 #EXTINF:-1  tvg-name="Telecine Fun UHD" tvg-id="Tcfun.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun UHD
-http://unividia.com:80/879083380/b350V7430w/21281
-#EXTINF:-1  tvg-name="Telecine Pipoca 4K" tvg-id="Tcpipoca.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | 4K",Telecine Pipoca 4K
-http://unividia.com:80/879083380/b350V7430w/284598
+http://uniplay.proxytv.in:80/375951418/9740705/21281
 #EXTINF:-1  tvg-name="Telecine Pipoca FHD" tvg-id="Tcpipoca.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca FHD
-http://unividia.com:80/879083380/b350V7430w/630
-#EXTINF:-1  tvg-name="Telecine Pipoca FHD [LEG ]" tvg-id="Tcpipoca.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Pipoca FHD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118908
+http://uniplay.proxytv.in:80/375951418/9740705/630
 #EXTINF:-1  tvg-name="Telecine Pipoca HD" tvg-id="Tcpipoca.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca HD
-http://unividia.com:80/879083380/b350V7430w/628
-#EXTINF:-1  tvg-name="Telecine Pipoca HD [LEG ]" tvg-id="Tcpipoca.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Pipoca HD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118907
+http://uniplay.proxytv.in:80/375951418/9740705/628
 #EXTINF:-1  tvg-name="Telecine Pipoca HD²" tvg-id="Tcpipoca.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca HD²
-http://unividia.com:80/879083380/b350V7430w/629
+http://uniplay.proxytv.in:80/375951418/9740705/629
 #EXTINF:-1  tvg-name="Telecine Pipoca UHD" tvg-id="Tcpipoca.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca UHD
-http://unividia.com:80/879083380/b350V7430w/21282
-#EXTINF:-1  tvg-name="Telecine Premium 4K " tvg-id="Tcpremium.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | 4K",Telecine Premium 4K
-http://unividia.com:80/879083380/b350V7430w/284599
+http://uniplay.proxytv.in:80/375951418/9740705/21282
 #EXTINF:-1  tvg-name="Telecine Premium FHD" tvg-id="Tcpremium.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium FHD
-http://unividia.com:80/879083380/b350V7430w/635
-#EXTINF:-1  tvg-name="Telecine Premium FHD [LEG ]" tvg-id="Tcpremium.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Premium FHD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118910
+http://uniplay.proxytv.in:80/375951418/9740705/635
 #EXTINF:-1  tvg-name="Telecine Premium HD" tvg-id="Tcpremium.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium HD
-http://unividia.com:80/879083380/b350V7430w/633
-#EXTINF:-1  tvg-name="Telecine Premium HD [LEG ]" tvg-id="Tcpremium.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Premium HD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118909
+http://uniplay.proxytv.in:80/375951418/9740705/633
 #EXTINF:-1  tvg-name="Telecine Premium HD²" tvg-id="Tcpremium.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium HD²
-http://unividia.com:80/879083380/b350V7430w/634
+http://uniplay.proxytv.in:80/375951418/9740705/634
 #EXTINF:-1  tvg-name="Telecine Premium UHD" tvg-id="Tcpremium.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium UHD
-http://unividia.com:80/879083380/b350V7430w/21283
+http://uniplay.proxytv.in:80/375951418/9740705/21283
 #EXTINF:-1  tvg-name="Telecine Touch FHD" tvg-id="Tctouch.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch FHD
-http://unividia.com:80/879083380/b350V7430w/589
-#EXTINF:-1  tvg-name="Telecine Touch FHD [LEG ]" tvg-id="Tctouch.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Touch FHD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118912
+http://uniplay.proxytv.in:80/375951418/9740705/589
 #EXTINF:-1  tvg-name="Telecine Touch HD" tvg-id="Tctouch.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch HD
-http://unividia.com:80/879083380/b350V7430w/587
-#EXTINF:-1  tvg-name="TELECINE TOUCH HD LEG" tvg-id="Tctouch.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Legendados",TELECINE TOUCH HD LEG
-http://unividia.com:80/879083380/b350V7430w/118911
+http://uniplay.proxytv.in:80/375951418/9740705/587
 #EXTINF:-1  tvg-name="Telecine Touch HD²" tvg-id="Tctouch.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch HD²
-http://unividia.com:80/879083380/b350V7430w/588
+http://uniplay.proxytv.in:80/375951418/9740705/588
 #EXTINF:-1  tvg-name="Telecine Touch UHD" tvg-id="Tctouch.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch UHD
-http://unividia.com:80/879083380/b350V7430w/21284
+http://uniplay.proxytv.in:80/375951418/9740705/21284
 #EXTINF:-1  tvg-name="TLC FHD" tvg-id="Tlc.br" tvg-logo="http://storage4you.net:2095/logoscanais/TLC.png" group-title="Canais | Filmes & Series",TLC FHD
-http://unividia.com:80/879083380/b350V7430w/728
+http://uniplay.proxytv.in:80/375951418/9740705/728
 #EXTINF:-1  tvg-name="TLC HD" tvg-id="Tlc.br" tvg-logo="http://storage4you.net:2095/logoscanais/TLC.png" group-title="Canais | Filmes & Series",TLC HD
-http://unividia.com:80/879083380/b350V7430w/726
+http://uniplay.proxytv.in:80/375951418/9740705/726
 #EXTINF:-1  tvg-name="TLC HD²" tvg-id="Tlc.br" tvg-logo="http://storage4you.net:2095/logoscanais/TLC.png" group-title="Canais | Filmes & Series",TLC HD²
-http://unividia.com:80/879083380/b350V7430w/727
+http://uniplay.proxytv.in:80/375951418/9740705/727
 #EXTINF:-1  tvg-name="TLC UHD" tvg-id="Tlc.br" tvg-logo="http://storage4you.net:2095/logoscanais/TLC.png" group-title="Canais | Filmes & Series",TLC UHD
-http://unividia.com:80/879083380/b350V7430w/21349
+http://uniplay.proxytv.in:80/375951418/9740705/21349
 #EXTINF:-1  tvg-name="TNT FHD" tvg-id="Tnt.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT FHD
-http://unividia.com:80/879083380/b350V7430w/733
-#EXTINF:-1  tvg-name="TNT FHD [LEG ]" tvg-id="Tnt.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Legendados",TNT FHD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118914
+http://uniplay.proxytv.in:80/375951418/9740705/733
 #EXTINF:-1  tvg-name="TNT HD" tvg-id="Tnt.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT HD
-http://unividia.com:80/879083380/b350V7430w/731
-#EXTINF:-1  tvg-name="TNT HD [LEG ]" tvg-id="Agromais.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Legendados",TNT HD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118913
+http://uniplay.proxytv.in:80/375951418/9740705/731
 #EXTINF:-1  tvg-name="TNT HD²" tvg-id="Tnt.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT HD²
-http://unividia.com:80/879083380/b350V7430w/732
+http://uniplay.proxytv.in:80/375951418/9740705/732
 #EXTINF:-1  tvg-name="TNT Novelas  HD" tvg-id="Tntnovelas.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Novelas  HD
-http://unividia.com:80/879083380/b350V7430w/264556
+http://uniplay.proxytv.in:80/375951418/9740705/264556
+#EXTINF:-1  tvg-name="TNT Novelas  SD" tvg-id="Tntnovelas.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Novelas  SD
+http://uniplay.proxytv.in:80/375951418/9740705/264557
 #EXTINF:-1  tvg-name="TNT Novelas FHD" tvg-id="Tntnovelas.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Novelas FHD
-http://unividia.com:80/879083380/b350V7430w/264555
-#EXTINF:-1  tvg-name="TNT Series 4K" tvg-id="Tntseries.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNTSERIES.png" group-title="Canais | 4K",TNT Series 4K
-http://unividia.com:80/879083380/b350V7430w/284617
+http://uniplay.proxytv.in:80/375951418/9740705/264555
 #EXTINF:-1  tvg-name="TNT Series FHD" tvg-id="Tntseries.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series FHD
-http://unividia.com:80/879083380/b350V7430w/738
-#EXTINF:-1  tvg-name="TNT Series FHD [LEG ]" tvg-id="Tntseries.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNTSERIES.png" group-title="Canais | Legendados",TNT Series FHD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118924
+http://uniplay.proxytv.in:80/375951418/9740705/738
 #EXTINF:-1  tvg-name="TNT Series HD" tvg-id="Tntseries.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series HD
-http://unividia.com:80/879083380/b350V7430w/736
-#EXTINF:-1  tvg-name="TNT Series HD [LEG ]" tvg-id="Tntseries.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNTSERIES.png" group-title="Canais | Legendados",TNT Series HD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118923
+http://uniplay.proxytv.in:80/375951418/9740705/736
 #EXTINF:-1  tvg-name="TNT Series HD²" tvg-id="Tntseries.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series HD²
-http://unividia.com:80/879083380/b350V7430w/737
+http://uniplay.proxytv.in:80/375951418/9740705/737
+#EXTINF:-1  tvg-name="TNT Series SD" tvg-id="Tntseries.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series SD
+http://uniplay.proxytv.in:80/375951418/9740705/735
 #EXTINF:-1  tvg-name="TNT Series UHD" tvg-id="Tntseries.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series UHD
-http://unividia.com:80/879083380/b350V7430w/21286
+http://uniplay.proxytv.in:80/375951418/9740705/21286
 #EXTINF:-1  tvg-name="TNT UHD" tvg-id="Tnt.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT UHD
-http://unividia.com:80/879083380/b350V7430w/21285
-#EXTINF:-1  tvg-name="Universal TV 4K " tvg-id="Universaltv.br" tvg-logo="http://storage4you.net:2095/logoscanais/UNIVERSALTV.png" group-title="Canais | 4K",Universal TV 4K
-http://unividia.com:80/879083380/b350V7430w/284596
+http://uniplay.proxytv.in:80/375951418/9740705/21285
 #EXTINF:-1  tvg-name="Universal TV FHD" tvg-id="Universaltv.br" tvg-logo="http://storage4you.net:2095/logoscanais/UNIVERSALTV.png" group-title="Canais | Filmes & Series",Universal TV FHD
-http://unividia.com:80/879083380/b350V7430w/743
+http://uniplay.proxytv.in:80/375951418/9740705/743
 #EXTINF:-1  tvg-name="Universal TV HD" tvg-id="Universaltv.br" tvg-logo="http://storage4you.net:2095/logoscanais/UNIVERSALTV.png" group-title="Canais | Filmes & Series",Universal TV HD
-http://unividia.com:80/879083380/b350V7430w/742
+http://uniplay.proxytv.in:80/375951418/9740705/742
 #EXTINF:-1  tvg-name="Universal TV UHD" tvg-id="Universaltv.br" tvg-logo="http://storage4you.net:2095/logoscanais/UNIVERSALTV.png" group-title="Canais | Filmes & Series",Universal TV UHD
-http://unividia.com:80/879083380/b350V7430w/21288
-#EXTINF:-1  tvg-name="Viva 4K" tvg-id="Viva.br" tvg-logo="http://storage4you.net:2095/logoscanais/VIVA.png" group-title="Canais | 4K",Viva 4K
-http://unividia.com:80/879083380/b350V7430w/284616
+http://uniplay.proxytv.in:80/375951418/9740705/21288
 #EXTINF:-1  tvg-name="Viva FHD" tvg-id="Viva.br" tvg-logo="http://storage4you.net:2095/logoscanais/VIVA.png" group-title="Canais |  Variedades ",Viva FHD
-http://unividia.com:80/879083380/b350V7430w/2537
+http://uniplay.proxytv.in:80/375951418/9740705/2537
 #EXTINF:-1  tvg-name="Viva HD" tvg-id="Viva.br" tvg-logo="http://storage4you.net:2095/logoscanais/VIVA.png" group-title="Canais |  Variedades ",Viva HD
-http://unividia.com:80/879083380/b350V7430w/2536
+http://uniplay.proxytv.in:80/375951418/9740705/2536
 #EXTINF:-1  tvg-name="Viva UHD" tvg-id="Viva.br" tvg-logo="http://storage4you.net:2095/logoscanais/VIVA.png" group-title="Canais |  Variedades ",Viva UHD
-http://unividia.com:80/879083380/b350V7430w/21290
+http://uniplay.proxytv.in:80/375951418/9740705/21290
 #EXTINF:-1  tvg-name="Warner Channel FHD" tvg-id="Warner.br" tvg-logo="http://storage4you.net:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel FHD
-http://unividia.com:80/879083380/b350V7430w/749
-#EXTINF:-1  tvg-name="Warner Channel FHD [LEG ]" tvg-id="Warner.br" tvg-logo="http://storage4you.net:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | Legendados",Warner Channel FHD [LEG ]
-http://unividia.com:80/879083380/b350V7430w/118926
+http://uniplay.proxytv.in:80/375951418/9740705/749
 #EXTINF:-1  tvg-name="Warner Channel HD" tvg-id="Warner.br" tvg-logo="http://storage4you.net:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel HD
-http://unividia.com:80/879083380/b350V7430w/746
-#EXTINF:-1  tvg-name="Warner Channel HD [LEG]" tvg-id="Warner.br" tvg-logo="http://storage4you.net:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | Legendados",Warner Channel HD [LEG]
-http://unividia.com:80/879083380/b350V7430w/118925
+http://uniplay.proxytv.in:80/375951418/9740705/746
 #EXTINF:-1  tvg-name="Warner Channel HD²" tvg-id="Warner.br" tvg-logo="http://storage4you.net:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel HD²
-http://unividia.com:80/879083380/b350V7430w/748
+http://uniplay.proxytv.in:80/375951418/9740705/748
 #EXTINF:-1  tvg-name="Warner Channel UHD" tvg-id="Warner.br" tvg-logo="http://storage4you.net:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel UHD
-http://unividia.com:80/879083380/b350V7430w/21291
+http://uniplay.proxytv.in:80/375951418/9740705/21291
