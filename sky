@@ -119,8 +119,6 @@ http://uniplay.proxytv.in:80/375951418/9740705/21300
 http://uniplay.proxytv.in:80/375951418/9740705/2472
 #EXTINF:-1  tvg-name="E! HD" tvg-id="E.br" tvg-logo="http://storage4you.net:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E! HD
 http://uniplay.proxytv.in:80/375951418/9740705/2471
-#EXTINF:-1  tvg-name="E! SD" tvg-id="E.br" tvg-logo="http://storage4you.net:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E! SD
-http://uniplay.proxytv.in:80/375951418/9740705/2470
 #EXTINF:-1  tvg-name="E! UHD" tvg-id="E.br" tvg-logo="http://storage4you.net:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E! UHD
 http://uniplay.proxytv.in:80/375951418/9740705/21313
 #EXTINF:-1  tvg-name="F1 TV PRO 01" tvg-id="F1tv.br" tvg-logo="http://storage4you.net:2095/logoscanais/F1.png" group-title="Canais | Pay-per-view",F1 TV PRO 01
@@ -169,8 +167,6 @@ http://uniplay.proxytv.in:80/375951418/9740705/18759
 http://uniplay.proxytv.in:80/375951418/9740705/18760
 #EXTINF:-1  tvg-name="HBO FAMILY HD²" tvg-id="Hbofamily.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY HD²
 http://uniplay.proxytv.in:80/375951418/9740705/18761
-#EXTINF:-1  tvg-name="HBO FAMILY SD" tvg-id="Hbofamily.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY SD
-http://uniplay.proxytv.in:80/375951418/9740705/18762
 #EXTINF:-1  tvg-name="HBO FAMILY UHD" tvg-id="Hbofamily.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY UHD
 http://uniplay.proxytv.in:80/375951418/9740705/21247
 #EXTINF:-1  tvg-name="HBO FHD" tvg-id="Hbo.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FHD
@@ -187,8 +183,6 @@ http://uniplay.proxytv.in:80/375951418/9740705/18771
 http://uniplay.proxytv.in:80/375951418/9740705/18772
 #EXTINF:-1  tvg-name="HBO MUNDI HD²" tvg-id="Hbomundi.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI HD²
 http://uniplay.proxytv.in:80/375951418/9740705/18773
-#EXTINF:-1  tvg-name="HBO MUNDI SD" tvg-id="Hbomundi.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI SD
-http://uniplay.proxytv.in:80/375951418/9740705/18774
 #EXTINF:-1  tvg-name="HBO MUNDI UHD" tvg-id="Hbomundi.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI UHD
 http://uniplay.proxytv.in:80/375951418/9740705/21254
 #EXTINF:-1  tvg-name="HBO POP FHD" tvg-id="Hbopop.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP FHD
@@ -199,8 +193,6 @@ http://uniplay.proxytv.in:80/375951418/9740705/18780
 http://uniplay.proxytv.in:80/375951418/9740705/18781
 #EXTINF:-1  tvg-name="HBO POP UHD" tvg-id="Hbopop.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP UHD
 http://uniplay.proxytv.in:80/375951418/9740705/21256
-#EXTINF:-1  tvg-name="HBO SD" tvg-id="Hbo.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SD
-http://uniplay.proxytv.in:80/375951418/9740705/18754
 #EXTINF:-1  tvg-name="HBO SIGNATURE FHD" tvg-id="Hbosignature.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE FHD
 http://uniplay.proxytv.in:80/375951418/9740705/18767
 #EXTINF:-1  tvg-name="HBO SIGNATURE HD" tvg-id="Hbosignature.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE HD
@@ -227,8 +219,6 @@ http://uniplay.proxytv.in:80/375951418/9740705/141266
 http://uniplay.proxytv.in:80/375951418/9740705/2625
 #EXTINF:-1  tvg-name="HGTV HD²" tvg-id="Hgtv.br" tvg-logo="http://storage4you.net:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV HD²
 http://uniplay.proxytv.in:80/375951418/9740705/2626
-#EXTINF:-1  tvg-name="HGTV SD" tvg-id="Hgtv.br" tvg-logo="http://storage4you.net:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV SD
-http://uniplay.proxytv.in:80/375951418/9740705/2624
 #EXTINF:-1  tvg-name="HGTV UHD" tvg-id="Hgtv.br" tvg-logo="http://storage4you.net:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV UHD
 http://uniplay.proxytv.in:80/375951418/9740705/21294
 #EXTINF:-1  tvg-name="History 2 FHD" tvg-id="History2.br" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 FHD
@@ -261,16 +251,6 @@ http://uniplay.proxytv.in:80/375951418/9740705/2488
 http://uniplay.proxytv.in:80/375951418/9740705/2487
 #EXTINF:-1  tvg-name="Lifetime UHD" tvg-id="Lifetime.br" tvg-logo="http://storage4you.net:2095/logoscanais/LIFETIME.png" group-title="Canais |  Variedades ",Lifetime UHD
 http://uniplay.proxytv.in:80/375951418/9740705/21252
-#EXTINF:-1  tvg-name="Liga Futsal 1 HD" tvg-id="" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_LNF_1.png" group-title="Canais | Pay-per-view",Liga Futsal 1 HD
-http://uniplay.proxytv.in:80/375951418/9740705/18301
-#EXTINF:-1  tvg-name="Liga Futsal 2 HD" tvg-id="" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_LNF_1.png" group-title="Canais | Pay-per-view",Liga Futsal 2 HD
-http://uniplay.proxytv.in:80/375951418/9740705/18300
-#EXTINF:-1  tvg-name="Liga Futsal 3 HD" tvg-id="" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_LNF_1.png" group-title="Canais | Pay-per-view",Liga Futsal 3 HD
-http://uniplay.proxytv.in:80/375951418/9740705/18299
-#EXTINF:-1  tvg-name="Markket FHD" tvg-id="Bishd.br" tvg-logo="http://storage4you.net:2095/logoscanais/MARKKET.png" group-title="Canais |  Variedades ",Markket FHD
-http://uniplay.proxytv.in:80/375951418/9740705/162355
-#EXTINF:-1  tvg-name="Markket HD" tvg-id="Bishd.br" tvg-logo="http://storage4you.net:2095/logoscanais/MARKKET.png" group-title="Canais |  Variedades ",Markket HD
-http://uniplay.proxytv.in:80/375951418/9740705/162356
 #EXTINF:-1  tvg-name="Megapix FHD" tvg-id="Megapix.br" tvg-logo="http://storage4you.net:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix FHD
 http://uniplay.proxytv.in:80/375951418/9740705/692
 #EXTINF:-1  tvg-name="Megapix HD" tvg-id="Megapix.br" tvg-logo="http://storage4you.net:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix HD
@@ -289,12 +269,6 @@ http://uniplay.proxytv.in:80/375951418/9740705/363200
 http://uniplay.proxytv.in:80/375951418/9740705/2636
 #EXTINF:-1  tvg-name="National Geographic UHD" tvg-id="Nationalgeo.br" tvg-logo="http://storage4you.net:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic UHD
 http://uniplay.proxytv.in:80/375951418/9740705/21260
-#EXTINF:-1  tvg-name="OFF FHD" tvg-id="Off.br" tvg-logo="http://storage4you.net:2095/logoscanais/OFF.png" group-title="Canais | Esportes",OFF FHD
-http://uniplay.proxytv.in:80/375951418/9740705/253
-#EXTINF:-1  tvg-name="OFF HD" tvg-id="Off.br" tvg-logo="http://storage4you.net:2095/logoscanais/OFF.png" group-title="Canais | Esportes",OFF HD
-http://uniplay.proxytv.in:80/375951418/9740705/252
-#EXTINF:-1  tvg-name="OFF UHD" tvg-id="Off.br" tvg-logo="http://storage4you.net:2095/logoscanais/OFF.png" group-title="Canais | Esportes",OFF UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21264
 #EXTINF:-1  tvg-name="Paramount Network FHD" tvg-id="Paramount.br" tvg-logo="http://storage4you.net:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network FHD
 http://uniplay.proxytv.in:80/375951418/9740705/697
 #EXTINF:-1  tvg-name="Paramount Network HD" tvg-id="Paramount.br" tvg-logo="http://storage4you.net:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network HD
@@ -389,8 +363,6 @@ http://uniplay.proxytv.in:80/375951418/9740705/731
 http://uniplay.proxytv.in:80/375951418/9740705/732
 #EXTINF:-1  tvg-name="TNT Novelas  HD" tvg-id="Tntnovelas.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Novelas  HD
 http://uniplay.proxytv.in:80/375951418/9740705/264556
-#EXTINF:-1  tvg-name="TNT Novelas  SD" tvg-id="Tntnovelas.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Novelas  SD
-http://uniplay.proxytv.in:80/375951418/9740705/264557
 #EXTINF:-1  tvg-name="TNT Novelas FHD" tvg-id="Tntnovelas.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Novelas FHD
 http://uniplay.proxytv.in:80/375951418/9740705/264555
 #EXTINF:-1  tvg-name="TNT Series FHD" tvg-id="Tntseries.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series FHD
@@ -399,8 +371,6 @@ http://uniplay.proxytv.in:80/375951418/9740705/738
 http://uniplay.proxytv.in:80/375951418/9740705/736
 #EXTINF:-1  tvg-name="TNT Series HD²" tvg-id="Tntseries.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series HD²
 http://uniplay.proxytv.in:80/375951418/9740705/737
-#EXTINF:-1  tvg-name="TNT Series SD" tvg-id="Tntseries.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series SD
-http://uniplay.proxytv.in:80/375951418/9740705/735
 #EXTINF:-1  tvg-name="TNT Series UHD" tvg-id="Tntseries.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series UHD
 http://uniplay.proxytv.in:80/375951418/9740705/21286
 #EXTINF:-1  tvg-name="TNT UHD" tvg-id="Tnt.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT UHD
