@@ -1,397 +1,615 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="A Fazenda 15 FHD" tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 15 FHD
-http://uniplay.proxytv.in:80/375951418/9740705/398926
-#EXTINF:-1  tvg-name="A Fazenda 2 FHD" tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 2 FHD
-http://uniplay.proxytv.in:80/375951418/9740705/398918
-#EXTINF:-1  tvg-name="A Fazenda 2 HD " tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 2 HD
-http://uniplay.proxytv.in:80/375951418/9740705/397631
-#EXTINF:-1  tvg-name="A Fazenda 3 FHD" tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 3 FHD
-http://uniplay.proxytv.in:80/375951418/9740705/398919
-#EXTINF:-1  tvg-name="A Fazenda 3 HD" tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 3 HD
-http://uniplay.proxytv.in:80/375951418/9740705/397632
-#EXTINF:-1  tvg-name="A Fazenda 4 FHD" tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 4 FHD
-http://uniplay.proxytv.in:80/375951418/9740705/398920
-#EXTINF:-1  tvg-name="A Fazenda 4 HD " tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 4 HD
-http://uniplay.proxytv.in:80/375951418/9740705/397633
-#EXTINF:-1  tvg-name="A Fazenda 5 HD" tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 5 HD
-http://uniplay.proxytv.in:80/375951418/9740705/397634
-#EXTINF:-1  tvg-name="A Fazenda 6 FHD" tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 6 FHD
-http://uniplay.proxytv.in:80/375951418/9740705/398922
-#EXTINF:-1  tvg-name="Aquecimento A Fazenda " tvg-id="Afazenda.br" tvg-logo="http://storage4you.net:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda Aquecimento
-http://uniplay.proxytv.in:80/375951418/9740705/397630
-#EXTINF:-1  tvg-name="A&E FHD" tvg-id="Ae.br" tvg-logo="http://storage4you.net:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E FHD
-http://uniplay.proxytv.in:80/375951418/9740705/666
-#EXTINF:-1  tvg-name="A&E HD" tvg-id="Ae.br" tvg-logo="http://storage4you.net:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E HD
-http://uniplay.proxytv.in:80/375951418/9740705/664
-#EXTINF:-1  tvg-name="A&E HD²" tvg-id="Ae.br" tvg-logo="http://storage4you.net:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E HD²
-http://uniplay.proxytv.in:80/375951418/9740705/665
-#EXTINF:-1  tvg-name="A&E UHD" tvg-id="Ae.br" tvg-logo="http://storage4you.net:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21292
-#EXTINF:-1  tvg-name="AMC FHD" tvg-id="Amc.br" tvg-logo="http://storage4you.net:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC FHD
-http://uniplay.proxytv.in:80/375951418/9740705/671
-#EXTINF:-1  tvg-name="AMC HD" tvg-id="Amc.br" tvg-logo="http://storage4you.net:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC HD
-http://uniplay.proxytv.in:80/375951418/9740705/669
-#EXTINF:-1  tvg-name="AMC HD²" tvg-id="Amc.br" tvg-logo="http://storage4you.net:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC HD²
-http://uniplay.proxytv.in:80/375951418/9740705/670
-#EXTINF:-1  tvg-name="AMC UHD" tvg-id="Amc.br" tvg-logo="http://storage4you.net:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC UHD
-http://uniplay.proxytv.in:80/375951418/9740705/59171
-#EXTINF:-1  tvg-name="Animal Planet FHD" tvg-id="Animalplanet.br" tvg-logo="http://storage4you.net:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet FHD
-http://uniplay.proxytv.in:80/375951418/9740705/2602
-#EXTINF:-1  tvg-name="Animal Planet H265" tvg-id="Animalplanet.br" tvg-logo="http://storage4you.net:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet H265
-http://uniplay.proxytv.in:80/375951418/9740705/141261
-#EXTINF:-1  tvg-name="Animal Planet HD" tvg-id="Animalplanet.br" tvg-logo="http://storage4you.net:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet HD
-http://uniplay.proxytv.in:80/375951418/9740705/365234
-#EXTINF:-1  tvg-name="Animal Planet HD²" tvg-id="Animalplanet.br" tvg-logo="http://storage4you.net:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet HD²
-http://uniplay.proxytv.in:80/375951418/9740705/2601
-#EXTINF:-1  tvg-name="Animal Planet UHD" tvg-id="Animalplanet.br" tvg-logo="http://storage4you.net:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet UHD
-http://uniplay.proxytv.in:80/375951418/9740705/22305
-#EXTINF:-1  tvg-name="AXN FHD" tvg-id="Axn.br" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN FHD
-http://uniplay.proxytv.in:80/375951418/9740705/676
-#EXTINF:-1  tvg-name="AXN HD" tvg-id="Axn.br" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN HD
-http://uniplay.proxytv.in:80/375951418/9740705/674
-#EXTINF:-1  tvg-name="AXN HD²" tvg-id="Axn.br" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN HD²
-http://uniplay.proxytv.in:80/375951418/9740705/675
-#EXTINF:-1  tvg-name="AXN UHD" tvg-id="Axn.br" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21223
-#EXTINF:-1  tvg-name="Band Sports 4K UHD" tvg-id="Bandsports.br" tvg-logo="http://storage4you.net:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports 4K UHD
-http://uniplay.proxytv.in:80/375951418/9740705/234278
-#EXTINF:-1  tvg-name="Band Sports FHD" tvg-id="Bandsports.br" tvg-logo="http://storage4you.net:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports FHD
-http://uniplay.proxytv.in:80/375951418/9740705/235
-#EXTINF:-1  tvg-name="Band Sports H265" tvg-id="Bandsports.br" tvg-logo="http://storage4you.net:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports H265
-http://uniplay.proxytv.in:80/375951418/9740705/118755
-#EXTINF:-1  tvg-name="Band Sports HD" tvg-id="Bandsports.br" tvg-logo="http://storage4you.net:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports HD
-http://uniplay.proxytv.in:80/375951418/9740705/233
-#EXTINF:-1  tvg-name="Band Sports HD²" tvg-id="Bandsports.br" tvg-logo="http://storage4you.net:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports HD²
-http://uniplay.proxytv.in:80/375951418/9740705/234
-#EXTINF:-1  tvg-name="Band Sports HD²." tvg-id="Bandsports.br" tvg-logo="http://storage4you.net:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports HD².
-http://uniplay.proxytv.in:80/375951418/9740705/244203
-#EXTINF:-1  tvg-name="Band Sports UHD" tvg-id="Bandsports.br" tvg-logo="http://storage4you.net:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21225
-#EXTINF:-1  tvg-name="Canal Sony FHD" tvg-id="Sony.br" tvg-logo="http://storage4you.net:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony FHD
-http://uniplay.proxytv.in:80/375951418/9740705/702
-#EXTINF:-1  tvg-name="Canal Sony HD" tvg-id="Sony.br" tvg-logo="http://storage4you.net:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony HD
-http://uniplay.proxytv.in:80/375951418/9740705/700
-#EXTINF:-1  tvg-name="Canal Sony HD²" tvg-id="Sony.br" tvg-logo="http://storage4you.net:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony HD²
-http://uniplay.proxytv.in:80/375951418/9740705/701
-#EXTINF:-1  tvg-name="Canal Sony UHD" tvg-id="Sony.br" tvg-logo="http://storage4you.net:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21229
-#EXTINF:-1  tvg-name="Disc. Channel FHD" tvg-id="Discovery.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel FHD
-http://uniplay.proxytv.in:80/375951418/9740705/2577
-#EXTINF:-1  tvg-name="Disc. Channel HD" tvg-id="Discovery.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel HD
-http://uniplay.proxytv.in:80/375951418/9740705/2575
-#EXTINF:-1  tvg-name="Disc. Channel HD²" tvg-id="Discovery.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel HD²
-http://uniplay.proxytv.in:80/375951418/9740705/2576
-#EXTINF:-1  tvg-name="Disc. Channel UHD" tvg-id="Discovery.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21338
-#EXTINF:-1  tvg-name="Disc. Home &  Health FHD" tvg-id="Boxkids.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health FHD
-http://uniplay.proxytv.in:80/375951418/9740705/2572
-#EXTINF:-1  tvg-name="Disc. Home &  Health HD" tvg-id="Homehealth.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health HD
-http://uniplay.proxytv.in:80/375951418/9740705/2570
-#EXTINF:-1  tvg-name="Disc. Home &  Health HD²" tvg-id="Homehealth.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health HD²
-http://uniplay.proxytv.in:80/375951418/9740705/2571
-#EXTINF:-1  tvg-name="Disc. Home &  Health UHD" tvg-id="Homehealth.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21295
-#EXTINF:-1  tvg-name="Disc. Science FHD" tvg-id="Discscience.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science FHD
-http://uniplay.proxytv.in:80/375951418/9740705/2582
-#EXTINF:-1  tvg-name="Disc. Science HD" tvg-id="Discscience.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science HD
-http://uniplay.proxytv.in:80/375951418/9740705/2580
-#EXTINF:-1  tvg-name="Disc. Science HD²" tvg-id="Discscience.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science HD²
-http://uniplay.proxytv.in:80/375951418/9740705/2581
-#EXTINF:-1  tvg-name="Disc. Science UHD" tvg-id="Discscience.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21297
-#EXTINF:-1  tvg-name="Disc. Theater FHD" tvg-id="Disctheater.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater FHD
-http://uniplay.proxytv.in:80/375951418/9740705/2587
-#EXTINF:-1  tvg-name="Disc. Theater HD" tvg-id="Disctheater.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater HD
-http://uniplay.proxytv.in:80/375951418/9740705/2585
-#EXTINF:-1  tvg-name="Disc. Theater HD²" tvg-id="Disctheater.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater HD²
-http://uniplay.proxytv.in:80/375951418/9740705/2586
-#EXTINF:-1  tvg-name="Disc. Theater UHD" tvg-id="Hdtheater.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21298
-#EXTINF:-1  tvg-name="Disc. World FHD" tvg-id="Discworld.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World FHD
-http://uniplay.proxytv.in:80/375951418/9740705/2597
-#EXTINF:-1  tvg-name="Disc. World HD" tvg-id="Discworld.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World HD
-http://uniplay.proxytv.in:80/375951418/9740705/2595
-#EXTINF:-1  tvg-name="Disc. World HD²" tvg-id="Discworld.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World HD²
-http://uniplay.proxytv.in:80/375951418/9740705/2596
-#EXTINF:-1  tvg-name="Disc. World UHD" tvg-id="Discworld.br" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21300
-#EXTINF:-1  tvg-name="E! FHD" tvg-id="E.br" tvg-logo="http://storage4you.net:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E! FHD
-http://uniplay.proxytv.in:80/375951418/9740705/2472
-#EXTINF:-1  tvg-name="E! HD" tvg-id="E.br" tvg-logo="http://storage4you.net:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E! HD
-http://uniplay.proxytv.in:80/375951418/9740705/2471
-#EXTINF:-1  tvg-name="E! UHD" tvg-id="E.br" tvg-logo="http://storage4you.net:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E! UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21313
-#EXTINF:-1  tvg-name="F1 TV PRO 01" tvg-id="F1tv.br" tvg-logo="http://storage4you.net:2095/logoscanais/F1.png" group-title="Canais | Pay-per-view",F1 TV PRO 01
-http://uniplay.proxytv.in:80/375951418/9740705/18297
-#EXTINF:-1  tvg-name="F1 TV PRO 02" tvg-id="F1tv.br" tvg-logo="http://storage4you.net:2095/logoscanais/F1.png" group-title="Canais | Pay-per-view",F1 TV PRO 02
-http://uniplay.proxytv.in:80/375951418/9740705/18296
-#EXTINF:-1  tvg-name="F1 TV PRO 03" tvg-id="F1tv.br" tvg-logo="http://storage4you.net:2095/logoscanais/F1.png" group-title="Canais | Pay-per-view",F1 TV PRO 03
-http://uniplay.proxytv.in:80/375951418/9740705/18295
-#EXTINF:-1  tvg-name="F1 TV PRO 04" tvg-id="F1tv.br" tvg-logo="http://storage4you.net:2095/logoscanais/F1.png" group-title="Canais | Pay-per-view",F1 TV PRO 04
-http://uniplay.proxytv.in:80/375951418/9740705/18294
-#EXTINF:-1  tvg-name="FX FHD" tvg-id="Fx.br" tvg-logo="http://storage4you.net:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX FHD
-http://uniplay.proxytv.in:80/375951418/9740705/594
-#EXTINF:-1  tvg-name="FX HD" tvg-id="Fx.br" tvg-logo="http://storage4you.net:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX HD
-http://uniplay.proxytv.in:80/375951418/9740705/592
-#EXTINF:-1  tvg-name="FX HD²" tvg-id="Fx.br" tvg-logo="http://storage4you.net:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX HD²
-http://uniplay.proxytv.in:80/375951418/9740705/593
-#EXTINF:-1  tvg-name="FX SD" tvg-id="Fx.br" tvg-logo="http://storage4you.net:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX SD
-http://uniplay.proxytv.in:80/375951418/9740705/591
-#EXTINF:-1  tvg-name="FX UHD" tvg-id="Fx.br" tvg-logo="http://storage4you.net:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21243
-#EXTINF:-1  tvg-name="GNT FHD" tvg-id="Gnt.br" tvg-logo="http://storage4you.net:2095/logoscanais/GNT.png" group-title="Canais |  Variedades ",GNT FHD
-http://uniplay.proxytv.in:80/375951418/9740705/377238
-#EXTINF:-1  tvg-name="GNT HD" tvg-id="Gnt.br" tvg-logo="http://storage4you.net:2095/logoscanais/GNT.png" group-title="Canais |  Variedades ",GNT HD
-http://uniplay.proxytv.in:80/375951418/9740705/377239
-#EXTINF:-1  tvg-name="GNT UHD" tvg-id="Gnt.br" tvg-logo="http://storage4you.net:2095/logoscanais/GNT.png" group-title="Canais |  Variedades ",GNT UHD
-http://uniplay.proxytv.in:80/375951418/9740705/377237
-#EXTINF:-1  tvg-name="HBO + FHD" tvg-id="Hboplus.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO + FHD
-http://uniplay.proxytv.in:80/375951418/9740705/18763
-#EXTINF:-1  tvg-name="HBO + HD" tvg-id="Hboplus.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO + HD
-http://uniplay.proxytv.in:80/375951418/9740705/18764
-#EXTINF:-1  tvg-name="HBO + HD²" tvg-id="Hboplus.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO + HD²
-http://uniplay.proxytv.in:80/375951418/9740705/18765
-#EXTINF:-1  tvg-name="HBO + UHD" tvg-id="Hboplus.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO + UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21249
-#EXTINF:-1  tvg-name="HBO 2 FHD" tvg-id="Hbo2.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2 FHD
-http://uniplay.proxytv.in:80/375951418/9740705/18755
-#EXTINF:-1  tvg-name="HBO 2 HD" tvg-id="Hbo2.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2 HD
-http://uniplay.proxytv.in:80/375951418/9740705/18756
-#EXTINF:-1  tvg-name="HBO 2 HD²" tvg-id="Hbo2.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2 HD²
-http://uniplay.proxytv.in:80/375951418/9740705/18757
-#EXTINF:-1  tvg-name="HBO 2 UHD" tvg-id="Hbo2.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2 UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21246
-#EXTINF:-1  tvg-name="HBO FAMILY FHD" tvg-id="Hbofamily.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY FHD
-http://uniplay.proxytv.in:80/375951418/9740705/18759
-#EXTINF:-1  tvg-name="HBO FAMILY HD" tvg-id="Hbofamily.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY HD
-http://uniplay.proxytv.in:80/375951418/9740705/18760
-#EXTINF:-1  tvg-name="HBO FAMILY HD²" tvg-id="Hbofamily.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY HD²
-http://uniplay.proxytv.in:80/375951418/9740705/18761
-#EXTINF:-1  tvg-name="HBO FAMILY UHD" tvg-id="Hbofamily.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21247
-#EXTINF:-1  tvg-name="HBO FHD" tvg-id="Hbo.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FHD
-http://uniplay.proxytv.in:80/375951418/9740705/18751
-#EXTINF:-1  tvg-name="HBO H265" tvg-id="Hbo.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO H265
-http://uniplay.proxytv.in:80/375951418/9740705/121578
-#EXTINF:-1  tvg-name="HBO HD" tvg-id="Hbo.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO HD
-http://uniplay.proxytv.in:80/375951418/9740705/18752
-#EXTINF:-1  tvg-name="HBO HD²" tvg-id="Hbo.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO HD²
-http://uniplay.proxytv.in:80/375951418/9740705/18753
-#EXTINF:-1  tvg-name="HBO MUNDI FHD" tvg-id="Hbomundi.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI FHD
-http://uniplay.proxytv.in:80/375951418/9740705/18771
-#EXTINF:-1  tvg-name="HBO MUNDI HD" tvg-id="Hbomundi.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI HD
-http://uniplay.proxytv.in:80/375951418/9740705/18772
-#EXTINF:-1  tvg-name="HBO MUNDI HD²" tvg-id="Hbomundi.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI HD²
-http://uniplay.proxytv.in:80/375951418/9740705/18773
-#EXTINF:-1  tvg-name="HBO MUNDI UHD" tvg-id="Hbomundi.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21254
-#EXTINF:-1  tvg-name="HBO POP FHD" tvg-id="Hbopop.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP FHD
-http://uniplay.proxytv.in:80/375951418/9740705/18779
-#EXTINF:-1  tvg-name="HBO POP HD" tvg-id="Hbopop.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP HD
-http://uniplay.proxytv.in:80/375951418/9740705/18780
-#EXTINF:-1  tvg-name="HBO POP HD²" tvg-id="Hbopop.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP HD²
-http://uniplay.proxytv.in:80/375951418/9740705/18781
-#EXTINF:-1  tvg-name="HBO POP UHD" tvg-id="Hbopop.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21256
-#EXTINF:-1  tvg-name="HBO SIGNATURE FHD" tvg-id="Hbosignature.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE FHD
-http://uniplay.proxytv.in:80/375951418/9740705/18767
-#EXTINF:-1  tvg-name="HBO SIGNATURE HD" tvg-id="Hbosignature.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE HD
-http://uniplay.proxytv.in:80/375951418/9740705/18768
-#EXTINF:-1  tvg-name="HBO SIGNATURE HD²" tvg-id="Hbosignature.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE HD²
-http://uniplay.proxytv.in:80/375951418/9740705/18769
-#EXTINF:-1  tvg-name="HBO SIGNATURE UHD" tvg-id="Hbosignature.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21250
-#EXTINF:-1  tvg-name="HBO UHD" tvg-id="Hbo.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21248
-#EXTINF:-1  tvg-name="HBO XTREME FHD" tvg-id="Hboxtreme.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME FHD
-http://uniplay.proxytv.in:80/375951418/9740705/18775
-#EXTINF:-1  tvg-name="HBO XTREME HD" tvg-id="Hboxtreme.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME HD
-http://uniplay.proxytv.in:80/375951418/9740705/18776
-#EXTINF:-1  tvg-name="HBO XTREME HD²" tvg-id="Hboxtreme.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME HD²
-http://uniplay.proxytv.in:80/375951418/9740705/18777
-#EXTINF:-1  tvg-name="HBO XTREME UHD" tvg-id="Hboxtreme.br" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21255
-#EXTINF:-1  tvg-name="HGTV FHD" tvg-id="Hgtv.br" tvg-logo="http://storage4you.net:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV FHD
-http://uniplay.proxytv.in:80/375951418/9740705/2627
-#EXTINF:-1  tvg-name="HGTV H265" tvg-id="Hgtv.br" tvg-logo="http://storage4you.net:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV H265
-http://uniplay.proxytv.in:80/375951418/9740705/141266
-#EXTINF:-1  tvg-name="HGTV HD" tvg-id="Hgtv.br" tvg-logo="http://storage4you.net:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV HD
-http://uniplay.proxytv.in:80/375951418/9740705/2625
-#EXTINF:-1  tvg-name="HGTV HD²" tvg-id="Hgtv.br" tvg-logo="http://storage4you.net:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV HD²
-http://uniplay.proxytv.in:80/375951418/9740705/2626
-#EXTINF:-1  tvg-name="HGTV UHD" tvg-id="Hgtv.br" tvg-logo="http://storage4you.net:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21294
-#EXTINF:-1  tvg-name="History 2 FHD" tvg-id="History2.br" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 FHD
-http://uniplay.proxytv.in:80/375951418/9740705/2622
-#EXTINF:-1  tvg-name="History 2 HD" tvg-id="History2.br" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 HD
-http://uniplay.proxytv.in:80/375951418/9740705/2620
-#EXTINF:-1  tvg-name="History 2 SD" tvg-id="History2.br" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 SD
-http://uniplay.proxytv.in:80/375951418/9740705/2619
-#EXTINF:-1  tvg-name="History 2 UHD" tvg-id="History2.br" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21322
-#EXTINF:-1  tvg-name="History FHD" tvg-id="History.br" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History FHD
-http://uniplay.proxytv.in:80/375951418/9740705/2617
-#EXTINF:-1  tvg-name="History HD" tvg-id="History.br" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History HD
-http://uniplay.proxytv.in:80/375951418/9740705/2615
-#EXTINF:-1  tvg-name="History HD²" tvg-id="History.br" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History HD²
-http://uniplay.proxytv.in:80/375951418/9740705/2616
-#EXTINF:-1  tvg-name="History UHD" tvg-id="History.br" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History UHD
-http://uniplay.proxytv.in:80/375951418/9740705/59173
-#EXTINF:-1  tvg-name="ID FHD" tvg-id="Id.br" tvg-logo="http://storage4you.net:2095/logoscanais/ID.png" group-title="Canais | Documentarios",ID FHD
-http://uniplay.proxytv.in:80/375951418/9740705/2632
-#EXTINF:-1  tvg-name="ID HD" tvg-id="Investigacaodiscoveryid.br" tvg-logo="http://storage4you.net:2095/logoscanais/ID.png" group-title="Canais | Documentarios",ID HD
-http://uniplay.proxytv.in:80/375951418/9740705/2630
-#EXTINF:-1  tvg-name="ID HD²" tvg-id="Investigacaodiscoveryid.br" tvg-logo="http://storage4you.net:2095/logoscanais/ID.png" group-title="Canais | Documentarios",ID HD²
-http://uniplay.proxytv.in:80/375951418/9740705/2631
-#EXTINF:-1  tvg-name="ID UHD" tvg-id="Id.br" tvg-logo="http://storage4you.net:2095/logoscanais/ID.png" group-title="Canais | Documentarios",ID UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21323
-#EXTINF:-1  tvg-name="Lifetime FHD" tvg-id="Lifetime.br" tvg-logo="http://storage4you.net:2095/logoscanais/LIFETIME.png" group-title="Canais |  Variedades ",Lifetime FHD
-http://uniplay.proxytv.in:80/375951418/9740705/2488
-#EXTINF:-1  tvg-name="Lifetime HD" tvg-id="Lifetime.br" tvg-logo="http://storage4you.net:2095/logoscanais/LIFETIME.png" group-title="Canais |  Variedades ",Lifetime HD
-http://uniplay.proxytv.in:80/375951418/9740705/2487
-#EXTINF:-1  tvg-name="Lifetime UHD" tvg-id="Lifetime.br" tvg-logo="http://storage4you.net:2095/logoscanais/LIFETIME.png" group-title="Canais |  Variedades ",Lifetime UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21252
-#EXTINF:-1  tvg-name="Megapix FHD" tvg-id="Megapix.br" tvg-logo="http://storage4you.net:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix FHD
-http://uniplay.proxytv.in:80/375951418/9740705/692
-#EXTINF:-1  tvg-name="Megapix HD" tvg-id="Megapix.br" tvg-logo="http://storage4you.net:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix HD
-http://uniplay.proxytv.in:80/375951418/9740705/690
-#EXTINF:-1  tvg-name="Megapix HD²" tvg-id="Megapix.br" tvg-logo="http://storage4you.net:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix HD²
-http://uniplay.proxytv.in:80/375951418/9740705/691
-#EXTINF:-1  tvg-name="Megapix UHD" tvg-id="Megapix.br" tvg-logo="http://storage4you.net:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21257
-#EXTINF:-1  tvg-name="National Geographic FHD" tvg-id="Nationalgeo.br" tvg-logo="http://storage4you.net:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic FHD
-http://uniplay.proxytv.in:80/375951418/9740705/363194
-#EXTINF:-1  tvg-name="National Geographic H265" tvg-id="Nationalgeo.br" tvg-logo="http://storage4you.net:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic H265
-http://uniplay.proxytv.in:80/375951418/9740705/141268
-#EXTINF:-1  tvg-name="National Geographic HD " tvg-id="Nationalgeo.br" tvg-logo="http://storage4you.net:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic HD
-http://uniplay.proxytv.in:80/375951418/9740705/363200
-#EXTINF:-1  tvg-name="National Geographic HD²" tvg-id="Nationalgeo.br" tvg-logo="http://storage4you.net:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic HD²
-http://uniplay.proxytv.in:80/375951418/9740705/2636
-#EXTINF:-1  tvg-name="National Geographic UHD" tvg-id="Nationalgeo.br" tvg-logo="http://storage4you.net:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21260
-#EXTINF:-1  tvg-name="Paramount Network FHD" tvg-id="Paramount.br" tvg-logo="http://storage4you.net:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network FHD
-http://uniplay.proxytv.in:80/375951418/9740705/697
-#EXTINF:-1  tvg-name="Paramount Network HD" tvg-id="Paramount.br" tvg-logo="http://storage4you.net:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network HD
-http://uniplay.proxytv.in:80/375951418/9740705/695
-#EXTINF:-1  tvg-name="Paramount Network HD²" tvg-id="Paramount.br" tvg-logo="http://storage4you.net:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network HD²
-http://uniplay.proxytv.in:80/375951418/9740705/696
-#EXTINF:-1  tvg-name="Paramount Network UHD" tvg-id="Paramount.br" tvg-logo="http://storage4you.net:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21265
-#EXTINF:-1  tvg-name="Space FHD" tvg-id="Space.br" tvg-logo="http://storage4you.net:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space FHD
-http://uniplay.proxytv.in:80/375951418/9740705/707
-#EXTINF:-1  tvg-name="Space HD" tvg-id="Space.br" tvg-logo="http://storage4you.net:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space HD
-http://uniplay.proxytv.in:80/375951418/9740705/705
-#EXTINF:-1  tvg-name="Space HD²" tvg-id="Space.br" tvg-logo="http://storage4you.net:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space HD²
-http://uniplay.proxytv.in:80/375951418/9740705/706
-#EXTINF:-1  tvg-name="Space UHD" tvg-id="Space.br" tvg-logo="http://storage4you.net:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21272
-#EXTINF:-1  tvg-name="Star Channel FHD" tvg-id="Star.br" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel FHD
-http://uniplay.proxytv.in:80/375951418/9740705/598
-#EXTINF:-1  tvg-name="Star Channel HD" tvg-id="Star.br" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel HD
-http://uniplay.proxytv.in:80/375951418/9740705/597
-#EXTINF:-1  tvg-name="Star Channel UHD" tvg-id="Star.br" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21238
-#EXTINF:-1  tvg-name="Studio Universal FHD" tvg-id="Studiouniversal.br" tvg-logo="http://storage4you.net:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal FHD
-http://uniplay.proxytv.in:80/375951418/9740705/713
-#EXTINF:-1  tvg-name="Studio Universal HD" tvg-id="Studiouniversal.br" tvg-logo="http://storage4you.net:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal HD
-http://uniplay.proxytv.in:80/375951418/9740705/711
-#EXTINF:-1  tvg-name="Studio Universal HD²" tvg-id="Studiouniversal.br" tvg-logo="http://storage4you.net:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal HD²
-http://uniplay.proxytv.in:80/375951418/9740705/712
-#EXTINF:-1  tvg-name="Studio Universal UHD" tvg-id="Studiouniversal.br" tvg-logo="http://storage4you.net:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21276
-#EXTINF:-1  tvg-name="SYFY FHD" tvg-id="Syfy.br" tvg-logo="http://storage4you.net:2095/logoscanais/SYFY.png" group-title="Canais | Filmes & Series",SYFY FHD
-http://uniplay.proxytv.in:80/375951418/9740705/718
-#EXTINF:-1  tvg-name="SYFY HD" tvg-id="Syfy.br" tvg-logo="http://storage4you.net:2095/logoscanais/SYFY.png" group-title="Canais | Filmes & Series",SYFY HD
-http://uniplay.proxytv.in:80/375951418/9740705/716
-#EXTINF:-1  tvg-name="SYFY HD²" tvg-id="Syfy.br" tvg-logo="http://storage4you.net:2095/logoscanais/SYFY.png" group-title="Canais | Filmes & Series",SYFY HD²
-http://uniplay.proxytv.in:80/375951418/9740705/717
-#EXTINF:-1  tvg-name="SYFY UHD" tvg-id="Cineskyplay.br" tvg-logo="http://storage4you.net:2095/logoscanais/SYFY.png" group-title="Canais | Filmes & Series",SYFY UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21277
-#EXTINF:-1  tvg-name="Telecine Action FHD" tvg-id="Tcaction.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action FHD
-http://uniplay.proxytv.in:80/375951418/9740705/615
-#EXTINF:-1  tvg-name="Telecine Action HD" tvg-id="Tcaction.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action HD
-http://uniplay.proxytv.in:80/375951418/9740705/613
-#EXTINF:-1  tvg-name="Telecine Action HD²" tvg-id="Tcaction.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action HD²
-http://uniplay.proxytv.in:80/375951418/9740705/614
-#EXTINF:-1  tvg-name="Telecine Action UHD" tvg-id="Tcaction.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21279
-#EXTINF:-1  tvg-name="Telecine Fun FHD" tvg-id="Tcfun.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun FHD
-http://uniplay.proxytv.in:80/375951418/9740705/625
-#EXTINF:-1  tvg-name="Telecine Fun HD" tvg-id="Tcfun.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun HD
-http://uniplay.proxytv.in:80/375951418/9740705/623
-#EXTINF:-1  tvg-name="Telecine Fun HD²" tvg-id="Tcfun.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun HD²
-http://uniplay.proxytv.in:80/375951418/9740705/624
-#EXTINF:-1  tvg-name="Telecine Fun UHD" tvg-id="Tcfun.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21281
-#EXTINF:-1  tvg-name="Telecine Pipoca FHD" tvg-id="Tcpipoca.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca FHD
-http://uniplay.proxytv.in:80/375951418/9740705/630
-#EXTINF:-1  tvg-name="Telecine Pipoca HD" tvg-id="Tcpipoca.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca HD
-http://uniplay.proxytv.in:80/375951418/9740705/628
-#EXTINF:-1  tvg-name="Telecine Pipoca HD²" tvg-id="Tcpipoca.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca HD²
-http://uniplay.proxytv.in:80/375951418/9740705/629
-#EXTINF:-1  tvg-name="Telecine Pipoca UHD" tvg-id="Tcpipoca.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21282
-#EXTINF:-1  tvg-name="Telecine Premium FHD" tvg-id="Tcpremium.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium FHD
-http://uniplay.proxytv.in:80/375951418/9740705/635
-#EXTINF:-1  tvg-name="Telecine Premium HD" tvg-id="Tcpremium.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium HD
-http://uniplay.proxytv.in:80/375951418/9740705/633
-#EXTINF:-1  tvg-name="Telecine Premium HD²" tvg-id="Tcpremium.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium HD²
-http://uniplay.proxytv.in:80/375951418/9740705/634
-#EXTINF:-1  tvg-name="Telecine Premium UHD" tvg-id="Tcpremium.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21283
-#EXTINF:-1  tvg-name="Telecine Touch FHD" tvg-id="Tctouch.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch FHD
-http://uniplay.proxytv.in:80/375951418/9740705/589
-#EXTINF:-1  tvg-name="Telecine Touch HD" tvg-id="Tctouch.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch HD
-http://uniplay.proxytv.in:80/375951418/9740705/587
-#EXTINF:-1  tvg-name="Telecine Touch HD²" tvg-id="Tctouch.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch HD²
-http://uniplay.proxytv.in:80/375951418/9740705/588
-#EXTINF:-1  tvg-name="Telecine Touch UHD" tvg-id="Tctouch.br" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21284
-#EXTINF:-1  tvg-name="TLC FHD" tvg-id="Tlc.br" tvg-logo="http://storage4you.net:2095/logoscanais/TLC.png" group-title="Canais | Filmes & Series",TLC FHD
-http://uniplay.proxytv.in:80/375951418/9740705/728
-#EXTINF:-1  tvg-name="TLC HD" tvg-id="Tlc.br" tvg-logo="http://storage4you.net:2095/logoscanais/TLC.png" group-title="Canais | Filmes & Series",TLC HD
-http://uniplay.proxytv.in:80/375951418/9740705/726
-#EXTINF:-1  tvg-name="TLC HD²" tvg-id="Tlc.br" tvg-logo="http://storage4you.net:2095/logoscanais/TLC.png" group-title="Canais | Filmes & Series",TLC HD²
-http://uniplay.proxytv.in:80/375951418/9740705/727
-#EXTINF:-1  tvg-name="TLC UHD" tvg-id="Tlc.br" tvg-logo="http://storage4you.net:2095/logoscanais/TLC.png" group-title="Canais | Filmes & Series",TLC UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21349
-#EXTINF:-1  tvg-name="TNT FHD" tvg-id="Tnt.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT FHD
-http://uniplay.proxytv.in:80/375951418/9740705/733
-#EXTINF:-1  tvg-name="TNT HD" tvg-id="Tnt.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT HD
-http://uniplay.proxytv.in:80/375951418/9740705/731
-#EXTINF:-1  tvg-name="TNT HD²" tvg-id="Tnt.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT HD²
-http://uniplay.proxytv.in:80/375951418/9740705/732
-#EXTINF:-1  tvg-name="TNT Novelas  HD" tvg-id="Tntnovelas.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Novelas  HD
-http://uniplay.proxytv.in:80/375951418/9740705/264556
-#EXTINF:-1  tvg-name="TNT Novelas FHD" tvg-id="Tntnovelas.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Novelas FHD
-http://uniplay.proxytv.in:80/375951418/9740705/264555
-#EXTINF:-1  tvg-name="TNT Series FHD" tvg-id="Tntseries.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series FHD
-http://uniplay.proxytv.in:80/375951418/9740705/738
-#EXTINF:-1  tvg-name="TNT Series HD" tvg-id="Tntseries.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series HD
-http://uniplay.proxytv.in:80/375951418/9740705/736
-#EXTINF:-1  tvg-name="TNT Series HD²" tvg-id="Tntseries.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series HD²
-http://uniplay.proxytv.in:80/375951418/9740705/737
-#EXTINF:-1  tvg-name="TNT Series UHD" tvg-id="Tntseries.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21286
-#EXTINF:-1  tvg-name="TNT UHD" tvg-id="Tnt.br" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21285
-#EXTINF:-1  tvg-name="Universal TV FHD" tvg-id="Universaltv.br" tvg-logo="http://storage4you.net:2095/logoscanais/UNIVERSALTV.png" group-title="Canais | Filmes & Series",Universal TV FHD
-http://uniplay.proxytv.in:80/375951418/9740705/743
-#EXTINF:-1  tvg-name="Universal TV HD" tvg-id="Universaltv.br" tvg-logo="http://storage4you.net:2095/logoscanais/UNIVERSALTV.png" group-title="Canais | Filmes & Series",Universal TV HD
-http://uniplay.proxytv.in:80/375951418/9740705/742
-#EXTINF:-1  tvg-name="Universal TV UHD" tvg-id="Universaltv.br" tvg-logo="http://storage4you.net:2095/logoscanais/UNIVERSALTV.png" group-title="Canais | Filmes & Series",Universal TV UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21288
-#EXTINF:-1  tvg-name="Viva FHD" tvg-id="Viva.br" tvg-logo="http://storage4you.net:2095/logoscanais/VIVA.png" group-title="Canais |  Variedades ",Viva FHD
-http://uniplay.proxytv.in:80/375951418/9740705/2537
-#EXTINF:-1  tvg-name="Viva HD" tvg-id="Viva.br" tvg-logo="http://storage4you.net:2095/logoscanais/VIVA.png" group-title="Canais |  Variedades ",Viva HD
-http://uniplay.proxytv.in:80/375951418/9740705/2536
-#EXTINF:-1  tvg-name="Viva UHD" tvg-id="Viva.br" tvg-logo="http://storage4you.net:2095/logoscanais/VIVA.png" group-title="Canais |  Variedades ",Viva UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21290
-#EXTINF:-1  tvg-name="Warner Channel FHD" tvg-id="Warner.br" tvg-logo="http://storage4you.net:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel FHD
-http://uniplay.proxytv.in:80/375951418/9740705/749
-#EXTINF:-1  tvg-name="Warner Channel HD" tvg-id="Warner.br" tvg-logo="http://storage4you.net:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel HD
-http://uniplay.proxytv.in:80/375951418/9740705/746
-#EXTINF:-1  tvg-name="Warner Channel HD²" tvg-id="Warner.br" tvg-logo="http://storage4you.net:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel HD²
-http://uniplay.proxytv.in:80/375951418/9740705/748
-#EXTINF:-1  tvg-name="Warner Channel UHD" tvg-id="Warner.br" tvg-logo="http://storage4you.net:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel UHD
-http://uniplay.proxytv.in:80/375951418/9740705/21291
+#EXTINF:-1  tvg-name="A FAZENDA 16  CAM 01" tvg-id="" tvg-logo="" group-title="CANAIS | REALITY",A FAZENDA 16  CAM 01
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/425964.ts
+#EXTINF:-1  tvg-name="A FAZENDA 16 CAM 02" tvg-id="" tvg-logo="" group-title="CANAIS | REALITY",A FAZENDA 16 CAM 02
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/425965.ts
+#EXTINF:-1  tvg-name="A FAZENDA 16 CAM 03" tvg-id="" tvg-logo="" group-title="CANAIS | REALITY",A FAZENDA 16 CAM 03
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/425966.ts
+#EXTINF:-1  tvg-name="A FAZENDA 16 CAM 04" tvg-id="" tvg-logo="" group-title="CANAIS | REALITY",A FAZENDA 16 CAM 04
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/425967.ts
+#EXTINF:-1  tvg-name="A FAZENDA 16 CAM 05" tvg-id="" tvg-logo="" group-title="CANAIS | REALITY",A FAZENDA 16 CAM 05
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/425968.ts
+#EXTINF:-1  tvg-name="A FAZENDA 16 CAM 06" tvg-id="" tvg-logo="" group-title="CANAIS | REALITY",A FAZENDA 16 CAM 06
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/425969.ts
+#EXTINF:-1  tvg-name="A FAZENDA 16 CAM 07" tvg-id="" tvg-logo="" group-title="CANAIS | REALITY",A FAZENDA 16 CAM 07
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/425970.ts
+#EXTINF:-1  tvg-name="A FAZENDA 16 CAM 08" tvg-id="" tvg-logo="" group-title="CANAIS | REALITY",A FAZENDA 16 CAM 08
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/425971.ts
+#EXTINF:-1  tvg-name="A&E FHD H265" tvg-id="Ae.br" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES",A&E FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/32.ts
+#EXTINF:-1  tvg-name="A&E FHD H265²" tvg-id="Ae.br" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES",A&E FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234861.ts
+#EXTINF:-1  tvg-name="A&E FHD²" tvg-id="Ae.br" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES",A&E FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234862.ts
+#EXTINF:-1  tvg-name="A&E HD" tvg-id="Ae.br" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES",A&E HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/332.ts
+#EXTINF:-1  tvg-name="A&E HD²" tvg-id="Ae.br" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES",A&E HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234863.ts
+#EXTINF:-1  tvg-name="AMC FHD H265" tvg-id="Amc.br" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" group-title="CANAIS | FILMES E SERIES",AMC FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/175.ts
+#EXTINF:-1  tvg-name="AMC HD" tvg-id="Amc.br" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" group-title="CANAIS | FILMES E SERIES",AMC HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/330.ts
+#EXTINF:-1  tvg-name="AMC SD" tvg-id="Amc.br" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" group-title="CANAIS | FILMES E SERIES",AMC SD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/367.ts
+#EXTINF:-1  tvg-name="ANIMAL PLANET 4K H265" tvg-id="Animalplanet.br" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="Canais | UHD 4K",ANIMAL PLANET 4K H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311509.ts
+#EXTINF:-1  tvg-name="ANIMAL PLANET FHD H265" tvg-id="Animalplanet.br" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/33.ts
+#EXTINF:-1  tvg-name="ANIMAL PLANET FHD H265²" tvg-id="Animalplanet.br" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234869.ts
+#EXTINF:-1  tvg-name="ANIMAL PLANET FHD²" tvg-id="Animalplanet.br" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234870.ts
+#EXTINF:-1  tvg-name="ANIMAL PLANET HD" tvg-id="Animalplanet.br" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/349.ts
+#EXTINF:-1  tvg-name="ANIMAL PLANET HD²" tvg-id="Animalplanet.br" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234871.ts
+#EXTINF:-1  tvg-name="APPLE TV 01" tvg-id="Appletvplus.br" tvg-logo="https://www.rochagalaxia.live/logos/apple-tv250.png" group-title="CANAIS | ESPORTES",APPLE TV 01
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/316772.ts
+#EXTINF:-1  tvg-name="APPLE TV 02" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/apple-tv250.png" group-title="CANAIS | ESPORTES",APPLE TV 02
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/316773.ts
+#EXTINF:-1  tvg-name="APPLE TV 03" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/apple-tv250.png" group-title="CANAIS | ESPORTES",APPLE TV 03
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/316774.ts
+#EXTINF:-1  tvg-name="APPLE TV 04" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/apple-tv250.png" group-title="CANAIS | ESPORTES",APPLE TV 04
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/316775.ts
+#EXTINF:-1  tvg-name="AXN 4K H265" tvg-id="Axn.br" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="Canais | UHD 4K",AXN 4K H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311496.ts
+#EXTINF:-1  tvg-name="AXN FHD H265" tvg-id="Axn.br" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="CANAIS | FILMES E SERIES",AXN FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/34.ts
+#EXTINF:-1  tvg-name="AXN FHD H265²" tvg-id="Axn.br" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="CANAIS | FILMES E SERIES",AXN FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234877.ts
+#EXTINF:-1  tvg-name="AXN FHD LEG" tvg-id="Axn.br" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="CANAIS | LEGENDADOS",AXN FHD LEG
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311537.ts
+#EXTINF:-1  tvg-name="AXN FHD²" tvg-id="Axn.br" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="CANAIS | FILMES E SERIES",AXN FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234878.ts
+#EXTINF:-1  tvg-name="AXN HD" tvg-id="Axn.br" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="CANAIS | FILMES E SERIES",AXN HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/329.ts
+#EXTINF:-1  tvg-name="AXN HD²" tvg-id="Axn.br" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="CANAIS | FILMES E SERIES",AXN HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234879.ts
+#EXTINF:-1  tvg-name="BAND SPORTS FHD H265" tvg-id="Bandsportshd.br" tvg-logo="http://www.rochagalaxia.live/logos/bandsport250.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/37.ts
+#EXTINF:-1  tvg-name="BAND SPORTS FHD H265²" tvg-id="Bandsportshd.br" tvg-logo="http://www.rochagalaxia.live/logos/bandsport250.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234890.ts
+#EXTINF:-1  tvg-name="BAND SPORTS FHD²" tvg-id="Bandsportshd.br" tvg-logo="http://www.rochagalaxia.live/logos/bandsport250.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234891.ts
+#EXTINF:-1  tvg-name="BAND SPORTS HD" tvg-id="Bandsportshd.br" tvg-logo="http://www.rochagalaxia.live/logos/bandsport250.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/321.ts
+#EXTINF:-1  tvg-name="CANAL SONY FHD H265²" tvg-id="Sony.br" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" group-title="CANAIS | FILMES E SERIES",CANAL SONY FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234914.ts
+#EXTINF:-1  tvg-name="CANAL SONY FHD²" tvg-id="Sony.br" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" group-title="CANAIS | FILMES E SERIES",CANAL SONY FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234915.ts
+#EXTINF:-1  tvg-name="CANAL SONY HD" tvg-id="Sony.br" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" group-title="CANAIS | FILMES E SERIES",CANAL SONY HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/286151.ts
+#EXTINF:-1  tvg-name="CANAL SONY HD LEG" tvg-id="Sony.br" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" group-title="CANAIS | LEGENDADOS",CANAL SONY HD LEG
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311521.ts
+#EXTINF:-1  tvg-name="CANAL SONY HD²" tvg-id="Sony.br" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" group-title="CANAIS | FILMES E SERIES",CANAL SONY HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234916.ts
+#EXTINF:-1  tvg-name="CINE 01" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 01
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/110737.ts
+#EXTINF:-1  tvg-name="CINE 02" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 02
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/110738.ts
+#EXTINF:-1  tvg-name="CINE 03" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 03
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/110739.ts
+#EXTINF:-1  tvg-name="CINE 04" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 04
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/110740.ts
+#EXTINF:-1  tvg-name="CINE 06" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 06
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/110742.ts
+#EXTINF:-1  tvg-name="CINE 08" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 08
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/110744.ts
+#EXTINF:-1  tvg-name="CINE 12" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 12
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/110748.ts
+#EXTINF:-1  tvg-name="CINE 13" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 13
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/110749.ts
+#EXTINF:-1  tvg-name="CINE 16" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 16
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/110752.ts
+#EXTINF:-1  tvg-name="CINE SKY 1" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 1
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/20574.ts
+#EXTINF:-1  tvg-name="CINE SKY 10" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 10
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/25716.ts
+#EXTINF:-1  tvg-name="CINE SKY 11" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 11
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/25717.ts
+#EXTINF:-1  tvg-name="CINE SKY 12" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 12
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/25718.ts
+#EXTINF:-1  tvg-name="CINE SKY 13" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 13
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/25719.ts
+#EXTINF:-1  tvg-name="CINE SKY 14" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 14
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/25720.ts
+#EXTINF:-1  tvg-name="CINE SKY 15" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 15
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/25721.ts
+#EXTINF:-1  tvg-name="CINE SKY 2" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 2
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/20575.ts
+#EXTINF:-1  tvg-name="CINE SKY 3" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 3
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/20629.ts
+#EXTINF:-1  tvg-name="CINE SKY 4" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 4
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/20630.ts
+#EXTINF:-1  tvg-name="CINE SKY 5" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 5
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/20719.ts
+#EXTINF:-1  tvg-name="CINE SKY 6" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 6
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/20729.ts
+#EXTINF:-1  tvg-name="CINE SKY 7" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 7
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/20730.ts
+#EXTINF:-1  tvg-name="CINE SKY 8" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 8
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/25714.ts
+#EXTINF:-1  tvg-name="CINE SKY 9" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 9
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/25715.ts
+#EXTINF:-1  tvg-name="CINEMAX FHD H265" tvg-id="Cinemax.br" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="CANAIS | FILMES E SERIES",CINEMAX FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/81.ts
+#EXTINF:-1  tvg-name="CINEMAX FHD H265²" tvg-id="Cinemax.br" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="CANAIS | FILMES E SERIES",CINEMAX FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234928.ts
+#EXTINF:-1  tvg-name="CINEMAX FHD²" tvg-id="Cinemax.br" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="CANAIS | FILMES E SERIES",CINEMAX FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234929.ts
+#EXTINF:-1  tvg-name="CINEMAX HD" tvg-id="Cinemax.br" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="CANAIS | FILMES E SERIES",CINEMAX HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/339.ts
+#EXTINF:-1  tvg-name="CINEMAX HD²" tvg-id="Cinemax.br" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="CANAIS | FILMES E SERIES",CINEMAX HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234930.ts
+#EXTINF:-1  tvg-name="COMEDY CENTRAL 4K H265" tvg-id="Comedycentral.br" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="Canais | UHD 4K",COMEDY CENTRAL 4K H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311510.ts
+#EXTINF:-1  tvg-name="COMEDY CENTRAL FHD H265" tvg-id="Comedycentral.br" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="CANAIS | FILMES E SERIES",COMEDY CENTRAL FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/40.ts
+#EXTINF:-1  tvg-name="COMEDY CENTRAL FHD H265²" tvg-id="Comedycentral.br" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="CANAIS | FILMES E SERIES",COMEDY CENTRAL FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234939.ts
+#EXTINF:-1  tvg-name="COMEDY CENTRAL FHD²" tvg-id="Comedycentral.br" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="CANAIS | FILMES E SERIES",COMEDY CENTRAL FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234940.ts
+#EXTINF:-1  tvg-name="COMEDY CENTRAL HD" tvg-id="Comedycentral.br" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="CANAIS | FILMES E SERIES",COMEDY CENTRAL HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/341.ts
+#EXTINF:-1  tvg-name="COMEDY CENTRAL HD²" tvg-id="Comedycentral.br" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="CANAIS | FILMES E SERIES",COMEDY CENTRAL HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234941.ts
+#EXTINF:-1  tvg-name="DISCOVERY CHANNEL 4K H265" tvg-id="Discovery.br" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="Canais | UHD 4K",DISCOVERY CHANNEL 4K H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311507.ts
+#EXTINF:-1  tvg-name="DISCOVERY CHANNEL FHD H265" tvg-id="Discovery.br" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/114.ts
+#EXTINF:-1  tvg-name="DISCOVERY CHANNEL FHD H265²" tvg-id="Discovery.br" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234801.ts
+#EXTINF:-1  tvg-name="DISCOVERY CHANNEL FHD²" tvg-id="Discovery.br" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234802.ts
+#EXTINF:-1  tvg-name="DISCOVERY CHANNEL HD" tvg-id="Discovery.br" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/342.ts
+#EXTINF:-1  tvg-name="DISCOVERY CHANNEL HD²" tvg-id="Discovery.br" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234803.ts
+#EXTINF:-1  tvg-name="DISCOVERY H&H 4K H265" tvg-id="Homehealth.br" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="Canais | UHD 4K",DISCOVERY H&H 4K H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311506.ts
+#EXTINF:-1  tvg-name="DISCOVERY H&H FHD H265" tvg-id="Homehealth.br" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY H&H FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/135.ts
+#EXTINF:-1  tvg-name="DISCOVERY H&H FHD H265²" tvg-id="Homehealth.br" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY H&H FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234805.ts
+#EXTINF:-1  tvg-name="DISCOVERY H&H FHD²" tvg-id="Homehealth.br" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY H&H FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234806.ts
+#EXTINF:-1  tvg-name="DISCOVERY H&H HD" tvg-id="Homehealth.br" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY H&H HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/343.ts
+#EXTINF:-1  tvg-name="DISCOVERY H&H HD²" tvg-id="Homehealth.br" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY H&H HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234807.ts
+#EXTINF:-1  tvg-name="DISCOVERY SCIENCE FHD H265" tvg-id="DiscoveryScience.br" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/121.ts
+#EXTINF:-1  tvg-name="DISCOVERY SCIENCE FHD H265²" tvg-id="DiscoveryScience.br" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234813.ts
+#EXTINF:-1  tvg-name="DISCOVERY SCIENCE FHD²" tvg-id="DiscoveryScience.br" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234814.ts
+#EXTINF:-1  tvg-name="DISCOVERY SCIENCE HD" tvg-id="DiscoveryScience.br" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/344.ts
+#EXTINF:-1  tvg-name="DISCOVERY SCIENCE HD²" tvg-id="DiscoveryScience.br" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234815.ts
+#EXTINF:-1  tvg-name="DISCOVERY THEATER FHD H265" tvg-id="Hdtheater.br" tvg-logo="http://www.rochagalaxia.live/logos/discovery-theater-hd_m.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATER FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/82.ts
+#EXTINF:-1  tvg-name="DISCOVERY THEATER FHD H265²" tvg-id="Hdtheater.br" tvg-logo="https://www.rochagalaxia.live/logos/discovery-theater-hd_m.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATER FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234817.ts
+#EXTINF:-1  tvg-name="DISCOVERY THEATER FHD²" tvg-id="Hdtheater.br" tvg-logo="https://www.rochagalaxia.live/logos/discovery-theater-hd_m.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATER FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234818.ts
+#EXTINF:-1  tvg-name="DISCOVERY THEATER HD" tvg-id="Hdtheater.br" tvg-logo="https://www.rochagalaxia.live/logos/discovery-theater-hd_m.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATER HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/345.ts
+#EXTINF:-1  tvg-name="DISCOVERY THEATER HD²" tvg-id="Hdtheater.br" tvg-logo="https://www.rochagalaxia.live/logos/discovery-theater-hd_m.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATER HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234819.ts
+#EXTINF:-1  tvg-name="DISCOVERY WORLD FHD H265" tvg-id="Discoveryworldhd.br" tvg-logo="http://www.rochagalaxia.live/logos/DSC_D_pos.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/84.ts
+#EXTINF:-1  tvg-name="DISCOVERY WORLD FHD H265²" tvg-id="Discoveryworldhd.br" tvg-logo="http://www.rochagalaxia.live/logos/DSC_D_pos.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234825.ts
+#EXTINF:-1  tvg-name="DISCOVERY WORLD FHD²" tvg-id="Discoveryworldhd.br" tvg-logo="http://www.rochagalaxia.live/logos/DSC_D_pos.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234826.ts
+#EXTINF:-1  tvg-name="DISCOVERY WORLD HD" tvg-id="Discoveryworldhd.br" tvg-logo="http://www.rochagalaxia.live/logos/DSC_D_pos.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/346.ts
+#EXTINF:-1  tvg-name="DISCOVERY WORLD HD²" tvg-id="Discoveryworldhd.br" tvg-logo="http://www.rochagalaxia.live/logos/DSC_D_pos.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234827.ts
+#EXTINF:-1  tvg-name="DISNEY CHANNEL FHD H265" tvg-id="Disneychannel.br" tvg-logo="http://www.rochagalaxia.live/logos/DISNEY%20CHANNEL.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/85.ts
+#EXTINF:-1  tvg-name="DISNEY CHANNEL FHD H265²" tvg-id="Disneychannel.br" tvg-logo="http://www.rochagalaxia.live/logos/DISNEY%20CHANNEL.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234961.ts
+#EXTINF:-1  tvg-name="DISNEY CHANNEL FHD²" tvg-id="Disneychannel.br" tvg-logo="http://www.rochagalaxia.live/logos/DISNEY%20CHANNEL.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234962.ts
+#EXTINF:-1  tvg-name="DISNEY CHANNEL HD" tvg-id="Disneychannel.br" tvg-logo="http://www.rochagalaxia.live/logos/DISNEY%20CHANNEL.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/347.ts
+#EXTINF:-1  tvg-name="DISNEY CHANNEL HD²" tvg-id="Disneychannel.br" tvg-logo="http://www.rochagalaxia.live/logos/DISNEY%20CHANNEL.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234963.ts
+#EXTINF:-1  tvg-name="E! FHD H265" tvg-id="E.br" tvg-logo="http://www.rochagalaxia.live/logos/e!250.png" group-title="CANAIS | VARIEDADES",E! FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/17970.ts
+#EXTINF:-1  tvg-name="E! FHD H265²" tvg-id="E.br" tvg-logo="http://www.rochagalaxia.live/logos/e!250.png" group-title="CANAIS | VARIEDADES",E! FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234977.ts
+#EXTINF:-1  tvg-name="E! FHD²" tvg-id="E.br" tvg-logo="http://www.rochagalaxia.live/logos/e!250.png" group-title="CANAIS | VARIEDADES",E! FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234978.ts
+#EXTINF:-1  tvg-name="E! HD" tvg-id="E.br" tvg-logo="http://www.rochagalaxia.live/logos/e!250.png" group-title="CANAIS | VARIEDADES",E! HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/2206.ts
+#EXTINF:-1  tvg-name="E! HD²" tvg-id="E.br" tvg-logo="http://www.rochagalaxia.live/logos/e!250.png" group-title="CANAIS | VARIEDADES",E! HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234979.ts
+#EXTINF:-1  tvg-name="F1 TV PRO 01" tvg-id="F1TV.br" tvg-logo="http://www.rochagalaxia.live/logos/formula1250.png" group-title="CANAIS | ESPORTES",F1 TV PRO 01
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/109398.ts
+#EXTINF:-1  tvg-name="F1 TV PRO 02" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/formula1250.png" group-title="CANAIS | ESPORTES",F1 TV PRO 02
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/109399.ts
+#EXTINF:-1  tvg-name="F1 TV PRO 02" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/formula1250.png" group-title="CANAIS | ESPORTES",F1 TV PRO 02
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/286322.ts
+#EXTINF:-1  tvg-name="F1 TV PRO 03" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/formula1250.png" group-title="CANAIS | ESPORTES",F1 TV PRO 03
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/286323.ts
+#EXTINF:-1  tvg-name="F1 TV PRO 03" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/formula1250.png" group-title="CANAIS | ESPORTES",F1 TV PRO 03
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/286321.ts
+#EXTINF:-1  tvg-name="F1 TV PRO 04" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/formula1250.png" group-title="CANAIS | ESPORTES",F1 TV PRO 04
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/286324.ts
+#EXTINF:-1  tvg-name="F1 TV PRO 05" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/formula1250.png" group-title="CANAIS | ESPORTES",F1 TV PRO 05
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/286325.ts
+#EXTINF:-1  tvg-name="F1 TV PRO 06" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/formula1250.png" group-title="CANAIS | ESPORTES",F1 TV PRO 06
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/286326.ts
+#EXTINF:-1  tvg-name="F1 TV PRO 07" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/formula1250.png" group-title="CANAIS | ESPORTES",F1 TV PRO 07
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/286327.ts
+#EXTINF:-1  tvg-name="F1 TV PRO 08" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/formula1250.png" group-title="CANAIS | ESPORTES",F1 TV PRO 08
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/286328.ts
+#EXTINF:-1  tvg-name="FX FHD H265" tvg-id="Fx.br" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="CANAIS | FILMES E SERIES",FX FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/90.ts
+#EXTINF:-1  tvg-name="FX FHD H265²" tvg-id="Fx.br" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="CANAIS | FILMES E SERIES",FX FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235000.ts
+#EXTINF:-1  tvg-name="FX FHD LEG" tvg-id="Fx.br" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="CANAIS | LEGENDADOS",FX FHD LEG
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311527.ts
+#EXTINF:-1  tvg-name="FX FHD²" tvg-id="Fx.br" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="CANAIS | FILMES E SERIES",FX FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235001.ts
+#EXTINF:-1  tvg-name="FX HD" tvg-id="Fx.br" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="CANAIS | FILMES E SERIES",FX HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/2208.ts
+#EXTINF:-1  tvg-name="FX HD²" tvg-id="Fx.br" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="CANAIS | FILMES E SERIES",FX HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235002.ts
+#EXTINF:-1  tvg-name="GNT 4K H265" tvg-id="Gnt.br" tvg-logo="http://www.rochagalaxia.live/logos/GNT.jpg" group-title="Canais | UHD 4K",GNT 4K H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311514.ts
+#EXTINF:-1  tvg-name="GNT FHD H265" tvg-id="Gnt.br" tvg-logo="http://www.rochagalaxia.live/logos/GNT.jpg" group-title="CANAIS | VARIEDADES",GNT FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/116.ts
+#EXTINF:-1  tvg-name="GNT HD" tvg-id="Gnt.br" tvg-logo="http://www.rochagalaxia.live/logos/GNT.jpg" group-title="CANAIS | VARIEDADES",GNT HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/2082.ts
+#EXTINF:-1  tvg-name="HBO + FHD H265²" tvg-id="Hboplus.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | REDE HBO",HBO + FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234477.ts
+#EXTINF:-1  tvg-name="HBO + FHD²" tvg-id="Hboplus.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | REDE HBO",HBO + FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234478.ts
+#EXTINF:-1  tvg-name="HBO + HD²" tvg-id="Hboplus.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | REDE HBO",HBO + HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234479.ts
+#EXTINF:-1  tvg-name="HBO 2 FHD H265" tvg-id="Hbo2.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO2.png" group-title="CANAIS | REDE HBO",HBO 2 FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/51.ts
+#EXTINF:-1  tvg-name="HBO 2 FHD H265²" tvg-id="Hbo2.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO2.png" group-title="CANAIS | REDE HBO",HBO 2 FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234467.ts
+#EXTINF:-1  tvg-name="HBO 2 FHD²" tvg-id="Hbo2.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO2.png" group-title="CANAIS | REDE HBO",HBO 2 FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234468.ts
+#EXTINF:-1  tvg-name="HBO 2 HD" tvg-id="Hbo2.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO2.png" group-title="CANAIS | REDE HBO",HBO 2 HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/279.ts
+#EXTINF:-1  tvg-name="HBO 2 HD²" tvg-id="Hbo2.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO2.png" group-title="CANAIS | REDE HBO",HBO 2 HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234469.ts
+#EXTINF:-1  tvg-name="HBO FAMILY FHD H265" tvg-id="Hbofamily.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20FAMILY.png" group-title="CANAIS | REDE HBO",HBO FAMILY FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/118.ts
+#EXTINF:-1  tvg-name="HBO FAMILY FHD H265²" tvg-id="Hbofamily.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20FAMILY.png" group-title="CANAIS | REDE HBO",HBO FAMILY FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234470.ts
+#EXTINF:-1  tvg-name="HBO FAMILY FHD²" tvg-id="Hbofamily.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20FAMILY.png" group-title="CANAIS | REDE HBO",HBO FAMILY FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234471.ts
+#EXTINF:-1  tvg-name="HBO FAMILY HD" tvg-id="Hbofamily.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20FAMILY.png" group-title="CANAIS | REDE HBO",HBO FAMILY HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/2085.ts
+#EXTINF:-1  tvg-name="HBO FAMILY HD²" tvg-id="Hbofamily.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20FAMILY.png" group-title="CANAIS | REDE HBO",HBO FAMILY HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234472.ts
+#EXTINF:-1  tvg-name="HBO FAMILY SD" tvg-id="Hbofamily.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20FAMILY.png" group-title="CANAIS | REDE HBO",HBO FAMILY SD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/2084.ts
+#EXTINF:-1  tvg-name="HBO FHD H265" tvg-id="Hbo.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | REDE HBO",HBO FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/52.ts
+#EXTINF:-1  tvg-name="HBO FHD H265²" tvg-id="Hbo.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | REDE HBO",HBO FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234474.ts
+#EXTINF:-1  tvg-name="HBO FHD LEG" tvg-id="Hbo.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | LEGENDADOS",HBO FHD LEG
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311535.ts
+#EXTINF:-1  tvg-name="HBO FHD²" tvg-id="Hbo.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | REDE HBO",HBO FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234475.ts
+#EXTINF:-1  tvg-name="HBO HD" tvg-id="Hbo.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | REDE HBO",HBO HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/278.ts
+#EXTINF:-1  tvg-name="HBO HD²" tvg-id="Hbo.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | REDE HBO",HBO HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234476.ts
+#EXTINF:-1  tvg-name="HBO MUNDI FHD H265" tvg-id="Max.br" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="CANAIS | REDE HBO",HBO MUNDI FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/95.ts
+#EXTINF:-1  tvg-name="HBO MUNDI FHD H265²" tvg-id="Max.br" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="CANAIS | REDE HBO",HBO MUNDI FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234480.ts
+#EXTINF:-1  tvg-name="HBO MUNDI FHD²" tvg-id="Max.br" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="CANAIS | REDE HBO",HBO MUNDI FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234481.ts
+#EXTINF:-1  tvg-name="HBO MUNDI HD" tvg-id="Max.br" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="CANAIS | REDE HBO",HBO MUNDI HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/2210.ts
+#EXTINF:-1  tvg-name="HBO MUNDI HD²" tvg-id="Max.br" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="CANAIS | REDE HBO",HBO MUNDI HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234482.ts
+#EXTINF:-1  tvg-name="HBO PLUS FHD LEG" tvg-id="Hboplus.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | LEGENDADOS",HBO PLUS FHD LEG
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311534.ts
+#EXTINF:-1  tvg-name="HBO POP FHD H265" tvg-id="Maxup.br" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="CANAIS | REDE HBO",HBO POP FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/126.ts
+#EXTINF:-1  tvg-name="HBO POP FHD H265²" tvg-id="Maxup.br" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="CANAIS | REDE HBO",HBO POP FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234484.ts
+#EXTINF:-1  tvg-name="HBO POP FHD LEG" tvg-id="Maxup.br" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="CANAIS | LEGENDADOS",HBO POP FHD LEG
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311526.ts
+#EXTINF:-1  tvg-name="HBO POP FHD²" tvg-id="Maxup.br" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="CANAIS | REDE HBO",HBO POP FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234485.ts
+#EXTINF:-1  tvg-name="HBO POP HD" tvg-id="Maxup.br" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="CANAIS | REDE HBO",HBO POP HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/2211.ts
+#EXTINF:-1  tvg-name="HBO POP HD²" tvg-id="Maxup.br" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="CANAIS | REDE HBO",HBO POP HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234486.ts
+#EXTINF:-1  tvg-name="HBO SIGNATURE FHD H265" tvg-id="Hbosignature.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20SIGNATURE.png" group-title="CANAIS | REDE HBO",HBO SIGNATURE FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/92.ts
+#EXTINF:-1  tvg-name="HBO SIGNATURE FHD H265²" tvg-id="Hbosignature.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20SIGNATURE.png" group-title="CANAIS | REDE HBO",HBO SIGNATURE FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234487.ts
+#EXTINF:-1  tvg-name="HBO SIGNATURE FHD²" tvg-id="Hbosignature.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20SIGNATURE.png" group-title="CANAIS | REDE HBO",HBO SIGNATURE FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234488.ts
+#EXTINF:-1  tvg-name="HBO SIGNATURE HD" tvg-id="Hbosignature.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20SIGNATURE.png" group-title="CANAIS | REDE HBO",HBO SIGNATURE HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/366.ts
+#EXTINF:-1  tvg-name="HBO SIGNATURE HD²" tvg-id="Hbosignature.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20SIGNATURE.png" group-title="CANAIS | REDE HBO",HBO SIGNATURE HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234489.ts
+#EXTINF:-1  tvg-name="HBO XTREME FHD H265" tvg-id="Maxprime.br" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="CANAIS | REDE HBO",HBO XTREME FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/54.ts
+#EXTINF:-1  tvg-name="HBO XTREME FHD H265²" tvg-id="Maxprime.br" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="CANAIS | REDE HBO",HBO XTREME FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234490.ts
+#EXTINF:-1  tvg-name="HBO XTREME FHD²" tvg-id="Maxprime.br" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="CANAIS | REDE HBO",HBO XTREME FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234491.ts
+#EXTINF:-1  tvg-name="HBO XTREME HD" tvg-id="Maxprime.br" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="CANAIS | REDE HBO",HBO XTREME HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/283.ts
+#EXTINF:-1  tvg-name="HBO XTREME HD²" tvg-id="Maxprime.br" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="CANAIS | REDE HBO",HBO XTREME HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234492.ts
+#EXTINF:-1  tvg-name="HBO+ FHD H265" tvg-id="Hboplus.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | REDE HBO",HBO+ FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/1992.ts
+#EXTINF:-1  tvg-name="HBO+ HD" tvg-id="Hbo.br" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | REDE HBO",HBO+ HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/183686.ts
+#EXTINF:-1  tvg-name="HGTV FHD H265" tvg-id="DiscoveryCivilization.br" tvg-logo="http://www.rochagalaxia.live/logos/hgtv250.png" group-title="CANAIS | DOCUMENTARIOS",HGTV FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/120.ts
+#EXTINF:-1  tvg-name="HGTV FHD H265²" tvg-id="DiscoveryCivilization.br" tvg-logo="http://www.rochagalaxia.live/logos/hgtv250.png" group-title="CANAIS | DOCUMENTARIOS",HGTV FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235004.ts
+#EXTINF:-1  tvg-name="HGTV FHD²" tvg-id="DiscoveryCivilization.br" tvg-logo="http://www.rochagalaxia.live/logos/hgtv250.png" group-title="CANAIS | DOCUMENTARIOS",HGTV FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235005.ts
+#EXTINF:-1  tvg-name="HGTV HD" tvg-id="DiscoveryCivilization.br" tvg-logo="http://www.rochagalaxia.live/logos/hgtv250.png" group-title="CANAIS | DOCUMENTARIOS",HGTV HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/352.ts
+#EXTINF:-1  tvg-name="HGTV HD²" tvg-id="DiscoveryCivilization.br" tvg-logo="http://www.rochagalaxia.live/logos/hgtv250.png" group-title="CANAIS | DOCUMENTARIOS",HGTV HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235006.ts
+#EXTINF:-1  tvg-name="HISTORY 2 FHD H265" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/HISTORY.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY 2 FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/50.ts
+#EXTINF:-1  tvg-name="History 2 HD" tvg-id="H2.br" tvg-logo="http://www.rochagalaxia.live/logos/HISTORY.png" group-title="CANAIS | DOCUMENTARIOS",History 2 HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/286149.ts
+#EXTINF:-1  tvg-name="HISTORY CHANNEL FHD H265²" tvg-id="Historychannel.br" tvg-logo="http://www.rochagalaxia.live/logos/HISTORYCHANNEL.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY CHANNEL FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235007.ts
+#EXTINF:-1  tvg-name="HISTORY CHANNEL FHD²" tvg-id="Historychannel.br" tvg-logo="http://www.rochagalaxia.live/logos/HISTORYCHANNEL.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY CHANNEL FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235008.ts
+#EXTINF:-1  tvg-name="HISTORY CHANNEL HD²" tvg-id="Historychannel.br" tvg-logo="http://www.rochagalaxia.live/logos/HISTORYCHANNEL.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY CHANNEL HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235009.ts
+#EXTINF:-1  tvg-name="HISTORY CHANNEL SD²" tvg-id="Historychannel.br" tvg-logo="http://www.rochagalaxia.live/logos/HISTORYCHANNEL.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY CHANNEL SD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235010.ts
+#EXTINF:-1  tvg-name="HISTORY FHD H265" tvg-id="Historychannel.br" tvg-logo="http://www.rochagalaxia.live/logos/HISTORYCHANNEL.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/93.ts
+#EXTINF:-1  tvg-name="HISTORY HD" tvg-id="Historychannel.br" tvg-logo="http://www.rochagalaxia.live/logos/HISTORYCHANNEL.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/281.ts
+#EXTINF:-1  tvg-name="LIFETIME FHD H265" tvg-id="Lifetime.br" tvg-logo="http://www.rochagalaxia.live/logos/LIFETIME.png" group-title="CANAIS | VARIEDADES",LIFETIME FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/94.ts
+#EXTINF:-1  tvg-name="LIFETIME FHD H265²" tvg-id="Lifetime.br" tvg-logo="http://www.rochagalaxia.live/logos/LIFETIME.png" group-title="CANAIS | VARIEDADES",LIFETIME FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235018.ts
+#EXTINF:-1  tvg-name="LIFETIME FHD²" tvg-id="Lifetime.br" tvg-logo="http://www.rochagalaxia.live/logos/LIFETIME.png" group-title="CANAIS | VARIEDADES",LIFETIME FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235019.ts
+#EXTINF:-1  tvg-name="LIFETIME HD" tvg-id="Lifetime.br" tvg-logo="http://www.rochagalaxia.live/logos/LIFETIME.png" group-title="CANAIS | VARIEDADES",LIFETIME HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/2209.ts
+#EXTINF:-1  tvg-name="LIFETIME HD²" tvg-id="Lifetime.br" tvg-logo="http://www.rochagalaxia.live/logos/LIFETIME.png" group-title="CANAIS | VARIEDADES",LIFETIME HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235020.ts
+#EXTINF:-1  tvg-name="MEGAPIX FHD H265" tvg-id="Megapix.br" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/145.ts
+#EXTINF:-1  tvg-name="MEGAPIX FHD H265²" tvg-id="Megapix.br" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235030.ts
+#EXTINF:-1  tvg-name="MEGAPIX FHD LEG" tvg-id="Megapix.br" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="CANAIS | LEGENDADOS",MEGAPIX FHD LEG
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311525.ts
+#EXTINF:-1  tvg-name="MEGAPIX FHD²" tvg-id="Megapix.br" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235031.ts
+#EXTINF:-1  tvg-name="MEGAPIX HD" tvg-id="Megapix.br" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/356.ts
+#EXTINF:-1  tvg-name="MEGAPIX HD²" tvg-id="Megapix.br" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235032.ts
+#EXTINF:-1  tvg-name="MTV 00 FHD H265²" tvg-id="Musicboxbrazil.br" tvg-logo="https://www.rochagalaxia.live/logos/mtv00-250.png" group-title="CANAIS | MUSICA",MTV 00 FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235034.ts
+#EXTINF:-1  tvg-name="MTV 00 FHD²" tvg-id="VH1.br" tvg-logo="https://www.rochagalaxia.live/logos/mtv00-250.png" group-title="CANAIS | MUSICA",MTV 00 FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235035.ts
+#EXTINF:-1  tvg-name="MTV 00 HD²" tvg-id="VH1.br" tvg-logo="https://www.rochagalaxia.live/logos/mtv00-250.png" group-title="CANAIS | MUSICA",MTV 00 HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235036.ts
+#EXTINF:-1  tvg-name="PARAMOUNT FHD H265" tvg-id="Paramounthd.br" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/100.ts
+#EXTINF:-1  tvg-name="PARAMOUNT FHD H265²" tvg-id="Paramounthd.br" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235076.ts
+#EXTINF:-1  tvg-name="PARAMOUNT FHD²" tvg-id="Paramounthd.br" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235077.ts
+#EXTINF:-1  tvg-name="PARAMOUNT HD" tvg-id="Paramounthd.br" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/2215.ts
+#EXTINF:-1  tvg-name="PARAMOUNT HD²" tvg-id="Paramounthd.br" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235078.ts
+#EXTINF:-1  tvg-name="SONY FHD H265" tvg-id="Sony.br" tvg-logo="http://www.rochagalaxia.live/logos/SONY.png" group-title="CANAIS | FILMES E SERIES",SONY FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/106.ts
+#EXTINF:-1  tvg-name="SONY HD" tvg-id="Sony.br" tvg-logo="http://www.rochagalaxia.live/logos/SONY.png" group-title="CANAIS | FILMES E SERIES",SONY HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/337.ts
+#EXTINF:-1  tvg-name="SPACE FHD H265" tvg-id="Space.br" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" group-title="CANAIS | FILMES E SERIES",SPACE FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/67.ts
+#EXTINF:-1  tvg-name="SPACE FHD H265²" tvg-id="Space.br" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" group-title="CANAIS | FILMES E SERIES",SPACE FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235103.ts
+#EXTINF:-1  tvg-name="SPACE FHD LEG" tvg-id="Space.br" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" group-title="CANAIS | LEGENDADOS",SPACE FHD LEG
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311524.ts
+#EXTINF:-1  tvg-name="SPACE FHD²" tvg-id="Space.br" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" group-title="CANAIS | FILMES E SERIES",SPACE FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235104.ts
+#EXTINF:-1  tvg-name="SPACE HD" tvg-id="Space.br" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" group-title="CANAIS | FILMES E SERIES",SPACE HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/2219.ts
+#EXTINF:-1  tvg-name="SPACE HD²" tvg-id="Space.br" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" group-title="CANAIS | FILMES E SERIES",SPACE HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235105.ts
+#EXTINF:-1  tvg-name="STAR CHANNEL 4K H265" tvg-id="Fox.br" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" group-title="Canais | UHD 4K",STAR CHANNEL 4K H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311513.ts
+#EXTINF:-1  tvg-name="STAR CHANNEL FHD H265" tvg-id="Fox.br" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/44.ts
+#EXTINF:-1  tvg-name="STAR CHANNEL FHD H265²" tvg-id="Fox.br" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235107.ts
+#EXTINF:-1  tvg-name="STAR CHANNEL FHD LEG" tvg-id="Fox.br" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" group-title="CANAIS | LEGENDADOS",STAR CHANNEL FHD LEG
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311536.ts
+#EXTINF:-1  tvg-name="STAR CHANNEL FHD²" tvg-id="Fox.br" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235108.ts
+#EXTINF:-1  tvg-name="STAR CHANNEL HD" tvg-id="Fox.br" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/2207.ts
+#EXTINF:-1  tvg-name="STAR CHANNEL HD²" tvg-id="Fox.br" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235109.ts
+#EXTINF:-1  tvg-name="STAR LIFE FHD H265" tvg-id="" tvg-logo="https://rochagalaxia.live/logos/STARLIFE.png" group-title="CANAIS | VARIEDADES",STAR LIFE FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/45.ts
+#EXTINF:-1  tvg-name="STAR LIFE HD" tvg-id="" tvg-logo="https://rochagalaxia.live/logos/STARLIFE.png" group-title="CANAIS | VARIEDADES",STAR LIFE HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/276.ts
+#EXTINF:-1  tvg-name="STARPLUS01 ALTER" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/star+250.png" group-title="CANAIS | STAR PLUS",STARPLUS01 ALTER
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/369090.ts
+#EXTINF:-1  tvg-name="STARPLUS02 ALTER" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/star+250.png" group-title="CANAIS | STAR PLUS",STARPLUS02 ALTER
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/369094.ts
+#EXTINF:-1  tvg-name="STARPLUS03 ALTER" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/star+250.png" group-title="CANAIS | STAR PLUS",STARPLUS03 ALTER
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/369097.ts
+#EXTINF:-1  tvg-name="STARPLUS04³" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/star+250.png" group-title="CANAIS | STAR PLUS",STARPLUS04³
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/369100.ts
+#EXTINF:-1  tvg-name="STUDIO UNIVERSAL FHD H265" tvg-id="Studiouniversal.br" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/15251.ts
+#EXTINF:-1  tvg-name="STUDIO UNIVERSAL FHD H265²" tvg-id="Studiouniversal.br" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235111.ts
+#EXTINF:-1  tvg-name="STUDIO UNIVERSAL FHD²" tvg-id="Studiouniversal.br" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235112.ts
+#EXTINF:-1  tvg-name="STUDIO UNIVERSAL HD" tvg-id="Studiouniversal.br" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/15250.ts
+#EXTINF:-1  tvg-name="STUDIO UNIVERSAL HD²" tvg-id="Studiouniversal.br" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235113.ts
+#EXTINF:-1  tvg-name="SYFY FHD H265" tvg-id="Syfy.br" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" group-title="CANAIS | FILMES E SERIES",SYFY FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/107.ts
+#EXTINF:-1  tvg-name="SYFY FHD H265²" tvg-id="Syfy.br" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" group-title="CANAIS | FILMES E SERIES",SYFY FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235115.ts
+#EXTINF:-1  tvg-name="SYFY FHD²" tvg-id="Syfy.br" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" group-title="CANAIS | FILMES E SERIES",SYFY FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235116.ts
+#EXTINF:-1  tvg-name="SYFY HD" tvg-id="Syfy.br" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" group-title="CANAIS | FILMES E SERIES",SYFY HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/361.ts
+#EXTINF:-1  tvg-name="SYFY HD²" tvg-id="Syfy.br" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" group-title="CANAIS | FILMES E SERIES",SYFY HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235117.ts
+#EXTINF:-1  tvg-name="SYFY SD" tvg-id="Syfy.br" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" group-title="CANAIS | FILMES E SERIES",SYFY SD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/256.ts
+#EXTINF:-1  tvg-name="TCM HD" tvg-id="Tcm.br" tvg-logo="http://www.rochagalaxia.live/logos/TCM.png" group-title="CANAIS | FILMES E SERIES",TCM HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/2221.ts
+#EXTINF:-1  tvg-name="TCM HD²" tvg-id="Tcm.br" tvg-logo="http://www.rochagalaxia.live/logos/TCM.png" group-title="CANAIS | FILMES E SERIES",TCM HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235123.ts
+#EXTINF:-1  tvg-name="TELECINE ACTION 4K H265" tvg-id="Tcaction.br" tvg-logo="http://www.rochagalaxia.live/logos/telecineaction250.png" group-title="Canais | UHD 4K",TELECINE ACTION 4K H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311516.ts
+#EXTINF:-1  tvg-name="TELECINE ACTION FHD H265" tvg-id="Tcaction.br" tvg-logo="http://www.rochagalaxia.live/logos/telecineaction250.png" group-title="CANAIS | REDE TELECINE",TELECINE ACTION FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/65.ts
+#EXTINF:-1  tvg-name="TELECINE ACTION FHD H265²" tvg-id="Tcaction.br" tvg-logo="http://www.rochagalaxia.live/logos/telecineaction250.png" group-title="CANAIS | REDE TELECINE",TELECINE ACTION FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234495.ts
+#EXTINF:-1  tvg-name="TELECINE ACTION FHD LEG" tvg-id="Tcaction.br" tvg-logo="http://www.rochagalaxia.live/logos/telecineaction250.png" group-title="CANAIS | LEGENDADOS",TELECINE ACTION FHD LEG
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311533.ts
+#EXTINF:-1  tvg-name="TELECINE ACTION FHD²" tvg-id="Tcaction.br" tvg-logo="http://www.rochagalaxia.live/logos/telecineaction250.png" group-title="CANAIS | REDE TELECINE",TELECINE ACTION FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234496.ts
+#EXTINF:-1  tvg-name="TELECINE ACTION HD" tvg-id="Tcaction.br" tvg-logo="http://www.rochagalaxia.live/logos/telecineaction250.png" group-title="CANAIS | REDE TELECINE",TELECINE ACTION HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/305.ts
+#EXTINF:-1  tvg-name="TELECINE ACTION HD²" tvg-id="Tcaction.br" tvg-logo="http://www.rochagalaxia.live/logos/telecineaction250.png" group-title="CANAIS | REDE TELECINE",TELECINE ACTION HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234497.ts
+#EXTINF:-1  tvg-name="TELECINE FUN FHD H265" tvg-id="Tcfun.br" tvg-logo="http://www.rochagalaxia.live/logos/TCFUN.png" group-title="CANAIS | REDE TELECINE",TELECINE FUN FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/64.ts
+#EXTINF:-1  tvg-name="TELECINE FUN FHD H265²" tvg-id="Tcfun.br" tvg-logo="http://www.rochagalaxia.live/logos/TCFUN.png" group-title="CANAIS | REDE TELECINE",TELECINE FUN FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234501.ts
+#EXTINF:-1  tvg-name="TELECINE FUN FHD²" tvg-id="Tcfun.br" tvg-logo="http://www.rochagalaxia.live/logos/TCFUN.png" group-title="CANAIS | REDE TELECINE",TELECINE FUN FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234502.ts
+#EXTINF:-1  tvg-name="TELECINE FUN HD" tvg-id="Tcfun.br" tvg-logo="http://www.rochagalaxia.live/logos/TCFUN.png" group-title="CANAIS | REDE TELECINE",TELECINE FUN HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/306.ts
+#EXTINF:-1  tvg-name="TELECINE FUN HD LEG" tvg-id="Tcfun.br" tvg-logo="http://www.rochagalaxia.live/logos/TCFUN.png" group-title="CANAIS | LEGENDADOS",TELECINE FUN HD LEG
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311532.ts
+#EXTINF:-1  tvg-name="TELECINE FUN HD²" tvg-id="Tcfun.br" tvg-logo="http://www.rochagalaxia.live/logos/TCFUN.png" group-title="CANAIS | REDE TELECINE",TELECINE FUN HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234503.ts
+#EXTINF:-1  tvg-name="TELECINE PIPOCA 4K H265" tvg-id="Tcpipoca.br" tvg-logo="http://www.rochagalaxia.live/logos/TC%20PIPOCA.png" group-title="Canais | UHD 4K",TELECINE PIPOCA 4K H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311517.ts
+#EXTINF:-1  tvg-name="TELECINE PIPOCA FHD H265" tvg-id="Tcpipoca.br" tvg-logo="http://www.rochagalaxia.live/logos/TC%20PIPOCA.png" group-title="CANAIS | REDE TELECINE",TELECINE PIPOCA FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/63.ts
+#EXTINF:-1  tvg-name="TELECINE PIPOCA FHD H265²" tvg-id="Tcpipoca.br" tvg-logo="http://www.rochagalaxia.live/logos/TC%20PIPOCA.png" group-title="CANAIS | REDE TELECINE",TELECINE PIPOCA FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234504.ts
+#EXTINF:-1  tvg-name="TELECINE PIPOCA FHD LEG" tvg-id="Tcpipoca.br" tvg-logo="http://www.rochagalaxia.live/logos/TC%20PIPOCA.png" group-title="CANAIS | LEGENDADOS",TELECINE PIPOCA FHD LEG
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311531.ts
+#EXTINF:-1  tvg-name="TELECINE PIPOCA FHD²" tvg-id="Tcpipoca.br" tvg-logo="http://www.rochagalaxia.live/logos/TC%20PIPOCA.png" group-title="CANAIS | REDE TELECINE",TELECINE PIPOCA FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234505.ts
+#EXTINF:-1  tvg-name="TELECINE PIPOCA HD" tvg-id="Tcpipoca.br" tvg-logo="http://www.rochagalaxia.live/logos/TC%20PIPOCA.png" group-title="CANAIS | REDE TELECINE",TELECINE PIPOCA HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/307.ts
+#EXTINF:-1  tvg-name="TELECINE PIPOCA HD²" tvg-id="Tcpipoca.br" tvg-logo="http://www.rochagalaxia.live/logos/TC%20PIPOCA.png" group-title="CANAIS | REDE TELECINE",TELECINE PIPOCA HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234506.ts
+#EXTINF:-1  tvg-name="TELECINE PREMIUM 4K H265" tvg-id="Tcpremium.br" tvg-logo="http://www.rochagalaxia.live/logos/TCPREMIUM.png" group-title="Canais | UHD 4K",TELECINE PREMIUM 4K H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311518.ts
+#EXTINF:-1  tvg-name="TELECINE PREMIUM FHD H265" tvg-id="Tcpremium.br" tvg-logo="http://www.rochagalaxia.live/logos/TCPREMIUM.png" group-title="CANAIS | REDE TELECINE",TELECINE PREMIUM FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/62.ts
+#EXTINF:-1  tvg-name="TELECINE PREMIUM FHD H265²" tvg-id="Tcpremium.br" tvg-logo="http://www.rochagalaxia.live/logos/TCPREMIUM.png" group-title="CANAIS | REDE TELECINE",TELECINE PREMIUM FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234507.ts
+#EXTINF:-1  tvg-name="TELECINE PREMIUM FHD LEG" tvg-id="Tcpremium.br" tvg-logo="http://www.rochagalaxia.live/logos/TCPREMIUM.png" group-title="CANAIS | LEGENDADOS",TELECINE PREMIUM FHD LEG
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311530.ts
+#EXTINF:-1  tvg-name="TELECINE PREMIUM FHD²" tvg-id="Tcpremium.br" tvg-logo="http://www.rochagalaxia.live/logos/TCPREMIUM.png" group-title="CANAIS | REDE TELECINE",TELECINE PREMIUM FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234508.ts
+#EXTINF:-1  tvg-name="TELECINE PREMIUM HD" tvg-id="Tcpremium.br" tvg-logo="http://www.rochagalaxia.live/logos/TCPREMIUM.png" group-title="CANAIS | REDE TELECINE",TELECINE PREMIUM HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/308.ts
+#EXTINF:-1  tvg-name="TELECINE PREMIUM HD²" tvg-id="Tcpremium.br" tvg-logo="http://www.rochagalaxia.live/logos/TCPREMIUM.png" group-title="CANAIS | REDE TELECINE",TELECINE PREMIUM HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234509.ts
+#EXTINF:-1  tvg-name="TELECINE PREMIUM SD²" tvg-id="Tcpremium.br" tvg-logo="http://www.rochagalaxia.live/logos/TCPREMIUM.png" group-title="CANAIS | REDE TELECINE",TELECINE PREMIUM SD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234518.ts
+#EXTINF:-1  tvg-name="TELECINE TOUCH FHD H265" tvg-id="Tctouch.br" tvg-logo="http://www.rochagalaxia.live/logos/TCTOUCH.png" group-title="CANAIS | REDE TELECINE",TELECINE TOUCH FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/61.ts
+#EXTINF:-1  tvg-name="TELECINE TOUCH FHD H265²" tvg-id="Tctouch.br" tvg-logo="http://www.rochagalaxia.live/logos/TCTOUCH.png" group-title="CANAIS | REDE TELECINE",TELECINE TOUCH FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234510.ts
+#EXTINF:-1  tvg-name="TELECINE TOUCH FHD LEG" tvg-id="Tctouch.br" tvg-logo="http://www.rochagalaxia.live/logos/TCTOUCH.png" group-title="CANAIS | LEGENDADOS",TELECINE TOUCH FHD LEG
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311529.ts
+#EXTINF:-1  tvg-name="TELECINE TOUCH FHD²" tvg-id="Tctouch.br" tvg-logo="http://www.rochagalaxia.live/logos/TCTOUCH.png" group-title="CANAIS | REDE TELECINE",TELECINE TOUCH FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234511.ts
+#EXTINF:-1  tvg-name="TELECINE TOUCH HD" tvg-id="Tctouch.br" tvg-logo="http://www.rochagalaxia.live/logos/TCTOUCH.png" group-title="CANAIS | REDE TELECINE",TELECINE TOUCH HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/309.ts
+#EXTINF:-1  tvg-name="TELECINE TOUCH HD²" tvg-id="Tctouch.br" tvg-logo="http://www.rochagalaxia.live/logos/TCTOUCH.png" group-title="CANAIS | REDE TELECINE",TELECINE TOUCH HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/234512.ts
+#EXTINF:-1  tvg-name="TNT FHD H265" tvg-id="Tnt.br" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" group-title="CANAIS | FILMES E SERIES",TNT FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/123.ts
+#EXTINF:-1  tvg-name="TNT FHD H265²" tvg-id="Tnt.br" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" group-title="CANAIS | FILMES E SERIES",TNT FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235130.ts
+#EXTINF:-1  tvg-name="TNT FHD LEG" tvg-id="Tnt.br" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" group-title="CANAIS | LEGENDADOS",TNT FHD LEG
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311528.ts
+#EXTINF:-1  tvg-name="TNT FHD²" tvg-id="Tnt.br" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" group-title="CANAIS | FILMES E SERIES",TNT FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235131.ts
+#EXTINF:-1  tvg-name="TNT HD" tvg-id="Tnt.br" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" group-title="CANAIS | FILMES E SERIES",TNT HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/350.ts
+#EXTINF:-1  tvg-name="TNT HD²" tvg-id="Tnt.br" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" group-title="CANAIS | FILMES E SERIES",TNT HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235132.ts
+#EXTINF:-1  tvg-name="TNT SERIES FHD H265" tvg-id="TNTSerie.br" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/60.ts
+#EXTINF:-1  tvg-name="TNT SERIES FHD H265²" tvg-id="TNTSerie.br" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235134.ts
+#EXTINF:-1  tvg-name="TNT SERIES FHD LEG" tvg-id="TNTSerie.br" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" group-title="CANAIS | LEGENDADOS",TNT SERIES FHD LEG
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311523.ts
+#EXTINF:-1  tvg-name="TNT SÉRIES FHD²" tvg-id="TNTSerie.br" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SÉRIES FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235135.ts
+#EXTINF:-1  tvg-name="TNT SERIES HD" tvg-id="TNTSerie.br" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311.ts
+#EXTINF:-1  tvg-name="TNT SÉRIES HD²" tvg-id="TNTSerie.br" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SÉRIES HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235136.ts
+#EXTINF:-1  tvg-name="UNIVERSAL CHANNEL 4K H265" tvg-id="Studiouniversal.br" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="Canais | UHD 4K",UNIVERSAL CHANNEL 4K H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311515.ts
+#EXTINF:-1  tvg-name="UNIVERSAL CHANNEL FHD H265" tvg-id="Universalchannel.br" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL CHANNEL FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/59.ts
+#EXTINF:-1  tvg-name="UNIVERSAL CHANNEL FHD H265²" tvg-id="Universalchannel.br" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL CHANNEL FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235170.ts
+#EXTINF:-1  tvg-name="UNIVERSAL CHANNEL FHD²" tvg-id="Universalchannel.br" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL CHANNEL FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235171.ts
+#EXTINF:-1  tvg-name="UNIVERSAL CHANNEL HD" tvg-id="Universalchannel.br" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL CHANNEL HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/182588.ts
+#EXTINF:-1  tvg-name="UNIVERSAL CHANNEL HD²" tvg-id="Universalchannel.br" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL CHANNEL HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235172.ts
+#EXTINF:-1  tvg-name="VIVA 4K H265" tvg-id="Viva.br" tvg-logo="http://www.rochagalaxia.live/logos/VIVA.jpg" group-title="Canais | UHD 4K",VIVA 4K H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311508.ts
+#EXTINF:-1  tvg-name="VIVA FHD H265" tvg-id="Viva.br" tvg-logo="http://www.rochagalaxia.live/logos/VIVA.jpg" group-title="CANAIS | VARIEDADES",VIVA FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/124.ts
+#EXTINF:-1  tvg-name="VIVA FHD H265²" tvg-id="Viva.br" tvg-logo="http://www.rochagalaxia.live/logos/VIVA.jpg" group-title="CANAIS | VARIEDADES",VIVA FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235174.ts
+#EXTINF:-1  tvg-name="VIVA FHD²" tvg-id="Viva.br" tvg-logo="http://www.rochagalaxia.live/logos/VIVA.jpg" group-title="CANAIS | VARIEDADES",VIVA FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235175.ts
+#EXTINF:-1  tvg-name="VIVA HD" tvg-id="Viva.br" tvg-logo="http://www.rochagalaxia.live/logos/VIVA.jpg" group-title="CANAIS | VARIEDADES",VIVA HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/2145.ts
+#EXTINF:-1  tvg-name="VIVA HD²" tvg-id="Viva.br" tvg-logo="http://www.rochagalaxia.live/logos/VIVA.jpg" group-title="CANAIS | VARIEDADES",VIVA HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235176.ts
+#EXTINF:-1  tvg-name="WARNER CHANNEL FHD H265" tvg-id="Warnerchannel.br" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL FHD H265
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/58.ts
+#EXTINF:-1  tvg-name="WARNER CHANNEL FHD H265²" tvg-id="Warnerchannel.br" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL FHD H265²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235178.ts
+#EXTINF:-1  tvg-name="WARNER CHANNEL FHD²" tvg-id="Warnerchannel.br" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL FHD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235179.ts
+#EXTINF:-1  tvg-name="WARNER CHANNEL HD" tvg-id="Warnerchannel.br" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL HD
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/2220.ts
+#EXTINF:-1  tvg-name="WARNER CHANNEL HD²" tvg-id="Warnerchannel.br" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL HD²
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/235180.ts
+#EXTINF:-1  tvg-name="WARNER FHD LEG" tvg-id="Warnerchannel.br" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | LEGENDADOS",WARNER FHD LEG
+http://zea2.top:80/xplus-2-giIW4Y36oS/2uBXxKPKCO/311522.ts
